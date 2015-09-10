@@ -1,0 +1,76 @@
+<html>
+	<head>
+		<script>
+			function greeting(){
+				var n1 = document.forms["form1"].n1.value;
+				var n2 = document.forms["form1"].n2.value;
+				document.forms["form1"].resultado.value = n1*n2;
+				//alert("multiplicacao "+n1*n2);	
+			}
+			function maior(){
+				var n1 = document.forms["form2"].n1.value;
+				var n2 = document.forms["form2"].n2.value;
+				if(n1>n2){
+					document.forms["form2"].resultado2.value = "o maior e"+n1;
+				}else{
+					document.forms["form2"].resultado2.value = "o maior e"+n2;
+				}
+			}
+			
+			function result(var key){
+				var tela = document.forms["calc"].resultado;
+				tela.value = tela.value+$key;
+				if(key ==='='){
+					tela.value
+				}
+			}
+			
+			
+		</script>
+	</head>
+	
+	<body>
+		
+		<form name="form1">
+			<input type="text" name="resultado" ><br>
+			n1: <input type="number" name="n1"><br>
+			n2: <input type="number" name="n2"><br>
+		</form>
+		<button onclick="greeting()"> multiplicar </button>
+		
+		<form name="form2">
+			<p>Maior?</p>
+			<input type="text" name="resultado2" ><br>
+			n1: <input type="number" name="n1"><br>
+			n2: <input type="number" name="n2"><br>
+		</form>
+		<button onclick="maior()"> multiplicar </button>
+		
+		
+		
+		<form name="calc">
+			<input type="text" name="resultado" ><br>
+			<input type="button" name="n1" onclick="result(1)" value="1">
+			<input type="button" name="n1" onclick="result(2)" value="2">
+			<input type="button" name="n1" onclick="result(3)" value="3">
+			<input type="button" name="n1" onclick="result('+')" value="+">
+			<br>
+			<input type="button" name="n1" onclick="result(4)" value="4">
+			<input type="button" name="n1" onclick="result(5)" value="5">
+			<input type="button" name="n1" onclick="result(6)" value="6">
+			<input type="button" name="n1" onclick="result('-')" value="-">
+			<br>
+			<input type="button" name="n1" onclick="result(7)" value="7">
+			<input type="button" name="n1" onclick="result(8)" value="8">
+			<input type="button" name="n1" onclick="result(9)" value="9">
+			<input type="button" name="n1" onclick="result('*')" value="*">
+			<br>
+			<input type="button" name="n1" onclick="result(0)" value="0">
+			<input type="button" name="n1" onclick="result(8)" value=". ">
+			<input type="button" name="n1" onclick="result('=')" value="=">
+			<input type="button" name="n1" onclick="result('/')" value="/">
+		</form>
+		
+	</body>
+</html>
+
