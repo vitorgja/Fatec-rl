@@ -1,0 +1,17 @@
+eventos:
+
+	.click()
+	.dblclick()
+	.mouseenter()
+	.mouseleave()
+	.focus()
+	.blur()
+	.keyup()
+
+
+
+propriedades:
+	.html()
+	.val() // value de um elemento de formulario
+	.css() // propriedade do css
+	.hide()

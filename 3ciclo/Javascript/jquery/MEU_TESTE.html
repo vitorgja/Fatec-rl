@@ -1,0 +1,50 @@
+<html>
+	<head>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script>
+			/*
+				8) ao clicar em um botao id b2 suma com todos os botoes mude o coundeudo de todos os paragrafos para OK com cor de fundo amarela e mostre na tela o conteudo do botao clicado.
+			*/
+			// $() no começo do codigo é para executar a funcao quando a biblioteca do JQuery carregar
+			$(	main );
+			
+			function main(){
+				// #(serquilha) seleciona um objeto dom pelo seu ID
+				// .(ponto) seleciona um objeto dom pelo sua CLASS
+				$(".mainMenu").menu();
+				
+			}
+		</script>
+	</head>
+	<body>
+		<ul class="mainMenu">
+			<li>
+				Main
+				<ul>
+					<li>Sub.</li>
+					<li>Sub.</li>
+					<li>Sub.</li>
+					<li>Sub.</li>
+				</ul>
+			</li>
+			<li>
+				Main 2
+				<ul>
+					<li>Sub2.</li>
+					<li>Sub2.</li>
+					<li>Sub2.</li>
+					<li>Sub2.</li>
+				</ul>
+			</li>
+			<li>
+				Main 2
+				<ul>
+					<li>Sub3.</li>
+					<li>Sub3.</li>
+					<li>Sub3.</li>
+					<li>Sub3.</li>
+				</ul>
+			</li>
+		</ul>
+	</body>
+</html>
