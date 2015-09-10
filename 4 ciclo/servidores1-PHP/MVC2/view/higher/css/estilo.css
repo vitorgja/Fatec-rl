@@ -1,0 +1,192 @@
+/*------------------------------------*\
+    $SUMARIO
+\*------------------------------------*/
+/**
+ * GENERAL............Aqui vem estilos globais, que afetam todas as páginas, como explo background, font e etc do "body".
+ * HEADER.............Cabeçalho do site e o logo.
+ * NAV...............Menu de Navegação principal.
+ * CONTENT...........Conteudo das páginas, ou seja, tudo o que fica entre o header e footer
+ * FOOTER...........Rodapé do Site.
+ */
+
+/*------------------------------------*\
+    $GENERAL
+\*------------------------------------*/
+::-moz-selection{background:#004784; color:#FFF;text-shadow: none;color:#004784;}
+::selection {background:#004784; color:#FFF;text-shadow: none;}
+
+html {	
+	background: url(../image/bg-html.jpg) top left repeat-x;
+}
+
+body {
+	background: url(../image/aviao.png) right 240px  no-repeat;
+}
+
+.container {
+	max-width: 960px;
+}
+
+.blue{
+	background-color: #004784;	
+}
+
+a.btn-primary , 
+button.btn-primary  {background:#004784;}
+
+/*------------------------------------*\
+    $HEADER
+\*------------------------------------*/
+#topo {
+	background: transparent;
+	padding-top: 20px;
+}
+
+#topo img.logo {
+	margin-left: 20px;
+	margin-top: 20px;	
+	height: 160px;
+}
+
+#logotipo{
+	width: 400px;
+	margin-top: 35px;
+	margin-left: -20px;
+}
+
+/*------------------------------------*\
+    $NAV
+\*------------------------------------*/
+#nav a:hover{
+	color: #004784;
+
+}
+
+#nav a{
+	color: #FFFFFF;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+/*------------------------------------*\
+    $CONTENT
+\*------------------------------------*/
+
+/* Todas as páginas */
+#conteudo img {
+	max-width: 100% !important;
+}
+
+h1{
+	color: #004784;
+	font-style: ;
+}
+
+h4{
+	color: #5D98B9;
+} 
+
+/* Pagina Inicial */
+#conteudo #banner {
+	min-height: 330px;
+    display:block;
+}
+
+
+#banner { background: url("../image/bg-banner.png") no-repeat 78px 0px; }
+#banner h2 {color: #fff; text-shadow: 0px 1px 3px #333333; font-size: 35px; font-family: Georgia, 'Times New Roman', Times, serif; padding-left: 50px }
+#banner p {color: #fff; text-shadow: 0px 1px 3px #333333; max-width: 300px; margin-top: 20px; padding-left: 80px}
+#banner .btn {background: #004784; margin-left: 20px; padding: 5px 15px}
+
+#chamadas a.thumbnail { color: #333333; padding-bottom: 20px }
+#chamadas a:hover.thumbnail { color: #fff; background:#5D98B9; border-color: #5D98B9; text-decoration: none; }
+
+/* Pagina Passagens e Fale */
+#conteudo form{
+	display: table;					
+	background-color: ;
+	padding: 50px;
+	width: 935px;
+}
+
+
+#conteudo .itemform{ display: table-row;}
+#conteudo .itemform label{display: table-cell;}
+#conteudo .itemform input{display: table-cell;}
+#conteudo .itemform fieldset{display: table-cell;}
+
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus, select:focus {   
+border-color: #1E90FF !important;
+box-shadow: 0 1px 1px #1E90FF inset, 0 0 8px #1E90FF !important;
+outline: 0 none;}
+          			}
+
+
+#conteudo .esquerda{ 
+	float: left;
+	padding: 5px;
+}
+#conteudo .direita{ 
+	float: right;
+	padding: 5px
+}
+#conteudo.home { 
+	background: none !important;
+}
+
+#conteudo { background: #ffffff;
+
+ }
+
+
+/* Pagina empresa*/
+.passageiros{
+	height: 200px;
+	float: right;
+	margin-left: 20px;
+}
+
+
+
+/*------------------------------------*\
+    $FOOTER
+\*------------------------------------*/
+
+#footer {
+	
+	padding: 30px 150px;
+	border-top: 7px solid #5D98B9;
+}
+
+
+
+
+
+
+ul li ul li a{color:red;}
+.dropdown-menu{color: red;}
+
+#EDITARBG { 
+display: block;
+background-color: rgba(33, 32, 32, 0.9);
+position: fixed;
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+}
+#EDITAR { 
+position: fixed;
+max-width: ;	
+display: block;
+position: absolute;
+margin: auto;
+top: 10%;
+}
+
+table td>img, p#pImg img{
+	width: 150px;
+	max-width: 150px;
+	height: 100px;
+	max-height: 100px;
+}
+
