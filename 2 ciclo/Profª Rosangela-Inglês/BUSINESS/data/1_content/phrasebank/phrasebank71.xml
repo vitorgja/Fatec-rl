@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Exchanging information">
+    <title>
+    <![CDATA[<b>Requesting</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">[Can I book a meeting room, please?]</sentence>
+      <sentence name="B">Yes, that's no problem.</sentence>
+	  <transfer>Can I book a meeting room, please?</transfer>
+    </dialogue>
+	<dialogue>
+      <sentence name="A">[Can I order a delivery of paper?]</sentence>
+      <sentence name="B">Certainly.</sentence>
+      <transfer>Can I order a delivery of xxx?</transfer>
+    </dialogue>
+  </exercise>

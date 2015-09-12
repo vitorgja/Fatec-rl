@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Meetings">
+<title>
+    <![CDATA[<b>Asking for an opinion</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">We can have the meeting here or in Vienna. [What do you think?]</sentence>
+      <sentence name="B">I think Vienna is better.</sentence>
+      <transfer>What do you think?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">We can use the new design or we can use the old design. [What's your opinion?]</sentence>
+      <sentence name="B">I prefer the old design.</sentence>
+      <transfer>What's your opinion?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[Do you think the new design is interesting?]</sentence>
+      <sentence name="B">Yes, I do. It's really good.</sentence>
+      <transfer>Do you think xxx is interesting?</transfer>
+    </dialogue>
+  </exercise>

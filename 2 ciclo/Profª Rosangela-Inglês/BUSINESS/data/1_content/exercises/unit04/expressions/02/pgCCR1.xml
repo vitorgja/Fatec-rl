@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct response for each expression.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Do you want a hand? </sentence><options>
+<option>That is good.</option>
+<option answer="correct">That would be good.</option>
+
+</options>
+</question><question>
+<sentence>Sorry, can you help me? </sentence><options>
+<option>I'm sure.</option>
+<option answer="correct">Sure.</option>
+
+</options>
+</question><question>
+<sentence>My password doesn't work. </sentence><options>
+<option answer="correct"> You need to use upper case letters.</option>
+<option> You need to use upper size letters.</option>
+
+</options>
+</question><question>
+<sentence>How can I send messages? </sentence><options>
+<option>First all click on 'My Internet'.</option>
+<option answer="correct">First of all click on 'My Internet'.</option>
+
+</options>
+</question><question>
+<sentence>Are you OK, now? </sentence><options>
+<option answer="correct">Yes. That's great. Thanks.</option>
+<option>Yes. That great. Thanks.</option>
+
+</options>
+</question>
+</questions></exercise>

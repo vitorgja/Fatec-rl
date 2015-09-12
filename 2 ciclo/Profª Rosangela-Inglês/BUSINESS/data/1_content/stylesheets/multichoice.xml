@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles  antiAlias="true">
+	<rubric xpos="18" ypos="14" width="800" font="verdana" size="14" bold="true" color="999999"/>
+	<images>
+		<image item="background">background.jpg</image>
+		<image item="tickCross" xpos="0" ypos="7">data/templates/assets/tickcross.swf</image>
+	</images>
+	<buttons>
+		<button item="next" visible="true" enabled = "false" xpos="65" ypos="155">
+			<image>data/templates/assets/button_next.swf</image>
+		</button>
+		<button item="check_score" visible="false" enabled = "false" xpos="65" ypos="155">
+			<image>data/templates/assets/button_check_score.swf</image>
+		</button>
+		<button item="playAudio" visible="false" enabled = "true" xpos="25" ypos="90">
+			<image>data/templates/assets/button_play_Audio.swf</image>
+		</button>
+	</buttons>
+	<sounds>
+		<sound item="rightsound">
+			<link>data/templates/assets/correct.mp3</link>
+		</sound>
+		<sound item="wrongsound">
+			<link>data/templates/assets/wrong.mp3</link>
+		</sound>
+	</sounds>
+	<assets>
+		<asset item="questionText" visible="true" xpos="17" ypos="40" width="800" font="verdana" size="13" bold="true"  color="666666"/>
+		<!--<asset item="audioText" visible="true" xpos="200" ypos="95" width="600" font="verdana" size="13" bold="true" />-->
+		<asset item="answerText" xpos="65" ypos="0" width="600" height="52" font="verdana" size="13" bold="false" color="666666"/>
+		<asset item="radioButton" visible="true" xpos="40" ypos="70" ystep="25" xstep="0" columns="1">
+			<image>data/templates/assets/rbAnswer.swf</image>
+		</asset>
+		<asset item="progressbar" visible="true" xpos="18" ypos="202">
+			<image>data/templates/assets/progressbar.swf</image>
+		</asset>
+		<asset item="scorepop" visible="false" xpos="20" ypos="249">
+			<image>data/templates/assets/scorepop.swf</image>
+		</asset>
+		
+	</assets>
+</styles>

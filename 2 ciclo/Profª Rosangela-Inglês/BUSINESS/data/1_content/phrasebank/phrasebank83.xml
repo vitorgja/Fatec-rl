@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Discussing problems">
+<title>
+    <![CDATA[<b>Responding to a request for help</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">Can you help me?</sentence>
+      <sentence name="B">[Yes, of course. ]What's the problem?</sentence>
+      <transfer>Yes, of course.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">Can you give me a hand with something?</sentence>
+      <sentence name="B">[Sure. ]What is it?</sentence>
+      <transfer>Sure.</transfer>
+    </dialogue>
+  </exercise>

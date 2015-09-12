@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgdads1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<questions>
+<sentence>Dear Tanja</sentence>
+<sentence>We need to choose a new taxi company to use at our conferences.</sentence>
+<sentence>CA Taxis cost $200 a day and 001 Taxis cost $300 a day, so CA is [cheaper].</sentence>
+<sentence>The other advantage of CA is that their cars are [bigger].</sentence>
+<sentence>Every car has room for eight people.</sentence>
+<sentence>But the staff are [friendlier] at 001: their drivers are really nice people.</sentence>
+<sentence>001 also do a lot of conferences so they are more [experienced] in our business.</sentence>
+<sentence>And 001 is more [up-to-date]. They use all the modern technology.</sentence>
+<sentence>Please let me know which company you prefer.</sentence>
+<sentence>Alan</sentence>
+
+</questions></exercise>

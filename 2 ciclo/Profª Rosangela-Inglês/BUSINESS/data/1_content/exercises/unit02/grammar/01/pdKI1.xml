@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Complete the sentences with the present simple of the verb in orange.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>What [#] your company do, Charles?</sentence>
+<answers>
+<answer>does</answer>
+<answer>DOES</answer>
+</answers>
+<hint pos="right">do</hint>
+</question><question>
+<sentence>It [#] Japanese food to Europe.</sentence>
+<answers>
+<answer>exports</answer>
+<answer>EXPORTS</answer>
+</answers>
+<hint pos="right">export</hint>
+</question><question>
+<sentence>Is it a big company?</sentence>
+</question><question>
+<sentence>Yes, it is. I [#] 500 people.</sentence>
+<answers>
+<answer>employ</answer>
+<answer>EMPLOY</answer>
+</answers>
+<hint pos="right">employ</hint>
+</question><question>
+<sentence>Interesting. My company [#] software.</sentence>
+<answers>
+<answer>produces</answer>
+<answer>PRODUCES</answer>
+</answers>
+<hint pos="right">produce</hint>
+</question><question>
+<sentence>Is it an international company?</sentence>
+</question><question>
+<sentence>Yes, it is. It [#] offices in 20 countries.</sentence>
+<answers>
+<answer>has</answer>
+<answer>HAS</answer>
+</answers>
+<hint pos="right">have</hint>
+</question><question>
+<sentence>We only [#] 2 offices: in Tokyo and London.</sentence>
+<answers>
+<answer>have</answer>
+<answer>HAVE</answer>
+</answers>
+<hint pos="right">have</hint>
+</question>
+</questions></exercise>

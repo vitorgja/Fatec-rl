@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Planning a schedule">
+<title>
+    <![CDATA[<b>Additional phrases</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">[We're ahead of schedule.] The books will be in the shops two weeks early.</sentence>
+      <sentence name="B">Great news!</sentence>
+	  <transfer>We're ahead of schedule.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[We intend to finish the project by February 11th.]</sentence>
+      <sentence name="B">That's possible.</sentence>
+	  <transfer>We intend to finish the project by xxx.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">We want to tell teenagers about the new range of jeans.</sentence>
+      <sentence name="B">[How about advertising in cinemas?]</sentence>
+      <transfer>How about advertising in xxx?</transfer>
+    </dialogue>
+  </exercise>

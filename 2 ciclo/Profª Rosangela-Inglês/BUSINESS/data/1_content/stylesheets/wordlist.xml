@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles antiAlias="false">
+	<!--<rubric xpos="80" ypos="130" width="800">
+		<image>data/templates/assets/rubric.swf</image>
+	</rubric>-->
+	<images>
+		<image item="background">data/templates/assets/wordbank_bg.swf</image>
+	</images>
+	<buttons>
+		<button item="print" xpos="855" ypos="8">
+			<image>data/templates/assets/button_print_wordbank.swf</image>
+		</button>
+	</buttons>
+	<assets>
+		<asset item="HeaderRow" xpos="0" ypos="44">
+			<image>data/templates/assets/wordbank_header.swf</image>
+		</asset>
+		<asset item="HideRow" xpos="0" ypos="75">
+			<image>data/templates/assets/wordbank_showhide.swf</image>
+		</asset>
+		
+		<asset item="alphabetize" value="false"/>
+		<asset item="Scrollpanel" xpos="0" ypos="100" width="881" height="386"/>
+		<asset item="verticalSpacer">
+			<image>data/templates/assets/wordbank_verticalspacer.swf</image>
+		</asset>
+		<asset item="horizontalSpacer">
+			<image>data/templates/assets/wordbank_horizontalspacer.swf</image>
+		</asset>
+		<asset item="printmask">
+			<image>data/templates/assets/elem_wordbank_printmask.swf</image>
+		</asset>
+		<asset item="loading" xpos="10" ypos="10">
+			<image>data/templates/assets/wordbank_loading.swf</image>
+		</asset>
+		<asset item="c1"  title="" xmlref="str" width="38" printwidth="0" type="audiobutton" hideable="false" suppressprint="true">
+			<image>data/templates/assets/wordbank_audiobutton.swf</image>
+		</asset>
+		<asset item="c2"  title="Word" xmlref="str" width="130" printwidth="110" type="text" hideable="true">
+			<image>data/templates/assets/wordbank_generaltext.swf</image>
+		</asset>
+		<asset item="c3" title="Definition" xmlref="definition" width="200" printwidth="160" type="text" hideable="true">
+			<image>data/templates/assets/wordbank_generaltext.swf</image>
+		</asset>
+		<asset item="c4"  title="IPA" xmlref="phonetics" width="124" printwidth="125" type="text" hideable="true">
+			<image>data/templates/assets/wordbank_ipatext.swf</image>
+		</asset>
+		<asset item="c5"  title="Translation" xmlref="translate" width="180" printwidth="162" type="text" hideable="true">
+			<image>data/templates/assets/wordbank_inputtext.swf</image>
+		</asset>
+		<asset item="c6"  title="Example" xmlref="example" width="200" printwidth="160" type="text" hideable="true">
+			<image>data/templates/assets/wordbank_generaltext.swf</image>
+		</asset>
+		
+	</assets>
+</styles>

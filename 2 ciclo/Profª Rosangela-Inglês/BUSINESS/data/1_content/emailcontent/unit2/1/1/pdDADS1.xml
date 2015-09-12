@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgdads1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<questions>
+<sentence>Dear Mr Molloy</sentence>
+<sentence>Can I [book] a meeting room for 4th June, please?</sentence>
+<sentence>It's for a [group] of fifteen people.  </sentence>
+<sentence>Can we order coffee and tea too, if [possible]?</sentence>
+<sentence>Can you also [confirm] my booking by email?</sentence>
+<sentence>Thanks for your [help]. </sentence>
+<sentence>Yours sincerely</sentence>
+<sentence>Fiona Cartmel</sentence>
+
+</questions></exercise>

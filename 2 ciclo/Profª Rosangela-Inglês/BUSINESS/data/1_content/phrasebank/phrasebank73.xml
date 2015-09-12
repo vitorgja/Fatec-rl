@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Exchanging information">
+<title>
+    <![CDATA[<b>Responding</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">Can I book a conference room, please?</sentence>
+      <sentence name="B">[Yes, of course.]</sentence>
+	<transfer>Yes, of course.</transfer>
+    </dialogue>
+	<dialogue>
+      <sentence name="A">Can you give me your name and address, please?</sentence>
+      <sentence name="B">[Sure.]</sentence>
+	<transfer>Sure.</transfer>
+    </dialogue>
+      <dialogue>
+	<sentence name="A">Do you have facilities for videoconferencing?</sentence>
+      <sentence name="B">[Yes, we do.]</sentence>
+	<transfer>Yes, we do.</transfer>
+    </dialogue>
+	<dialogue>
+      <sentence name="A">Can I book a conference room for next week, please?</sentence>
+      <sentence name="B">[I'm sorry, but we don't have any free conference rooms next week.]</sentence>
+      <transfer>I'm sorry, but we don't have any free conference rooms next week.</transfer>
+    </dialogue>
+  </exercise>

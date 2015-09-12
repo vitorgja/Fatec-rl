@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening12.mp3</audio>
+  <text>
+    <![CDATA[<heading>02</heading>
+      <p>Ja<u>pan</u></p>
+      <p>Japan<u>ese</u></p>
+      <p><u>Brit</u>ish</p>
+      <p><u>It</u>aly</p>
+      <p>It<u>al</u>ian</p>
+      <p><u>In</u>dia</p>
+      <p>Am<u>er</u>ican</p>
+      <p>Bra<u>zi</u>lian</p>
+      <p><u>Po</u>lish</p>
+      <p><u>Af</u>rica</p>]]>
+  </text>
+</exercise>

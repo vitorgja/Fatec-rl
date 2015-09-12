@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct words to complete the sentences.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>I'm very good</sentence><options>
+<option>at check accounts.</option>
+<option answer="correct">at checking accounts.</option>
+
+</options>
+</question><question>
+<sentence>Roger isn't very good</sentence><options>
+<option answer="correct">at working on his own.</option>
+<option>at work on his own.</option>
+
+</options>
+</question><question>
+<sentence>She has a lot of</sentence><options>
+<option answer="correct">experience in planning strategy.</option>
+<option>experienced in planning strategy.</option>
+
+</options>
+</question><question>
+<sentence>Tara has</sentence><options>
+<option answer="correct">a qualification in Marketing.</option>
+<option>qualification in Marketing.</option>
+
+</options>
+</question><question>
+<sentence>He doesn't have</sentence><options>
+<option>some experience.</option>
+<option answer="correct">any experience.</option>
+
+</options>
+</question>
+</questions></exercise>

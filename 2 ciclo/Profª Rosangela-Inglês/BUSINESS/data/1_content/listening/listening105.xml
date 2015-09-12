@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening105.mp3</audio>
+  <text>
+    <![CDATA[<heading>57</heading>
+      
+      <p><b>Director</b> So. Did you read the report?</p>
+      <p><b>Line manager</b> Yes.</p>
+      <p><b>Director</b> And? What's your opinion?</p>
+      <p><b>Line manager</b> I think it explains some of the problems, but not all. For example, we have the highest prices, so in my opinion that's one reason. But some customers also say that our delivery times are slow.</p>
+      <p><b>Director</b> I agree. And it isn't just delivery that's slow. Look at the figures for the call centre. We have the longest call times. Do you think they need more training? </p>
+      <p><b>Line manager</b> I don't think so. All the staff get regular training. Maybe it's a problem of teamwork. I think we should make them feel part of a team where people like working.</p>
+      <p><b>Director</b> Hmm. I'm not so sure. </p>]]>
+  </text>
+</exercise>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Choose the correct word to complete the sentences.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>What's the deadline ... this?</sentence><options>
+<option>to</option>
+<option>about</option>
+<option>around</option>
+<option answer="correct">for</option>
+
+</options>
+</question><question>
+<sentence>We plan ... have the printers in the shops for the summer.</sentence><options>
+<option answer="correct">to</option>
+<option>for</option>
+<option>that</option>
+<option>from</option>
+
+</options>
+</question><question>
+<sentence>How much time do we need ... this part of the project?</sentence><options>
+<option answer="correct">for</option>
+<option>by</option>
+<option>to</option>
+<option>about</option>
+
+</options>
+</question><question>
+<sentence>So ... summarize, we're going to change the timetable.</sentence><options>
+<option answer="correct">to</option>
+<option>in</option>
+<option>by</option>
+<option>for</option>
+
+</options>
+</question><question>
+<sentence>What if the company ... the product in the USA?</sentence><options>
+<option>launch</option>
+<option>launching</option>
+<option>to launch</option>
+<option answer="correct">launches</option>
+
+</options>
+</question>
+</questions></exercise>

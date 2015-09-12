@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct words to complete the sentences.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>You go  _____  this road. </sentence><options>
+<option>next</option>
+<option>about</option>
+<option>for</option>
+<option answer="correct">along</option>
+
+</options>
+</question><question>
+<sentence>Then turn</sentence><options>
+<option>to left.</option>
+<option answer="correct">left.</option>
+<option>by left.</option>
+<option>at left.</option>
+
+</options>
+</question><question>
+<sentence>Go  _____  the factory to the car park.</sentence><options>
+<option>right</option>
+<option answer="correct">past</option>
+<option>between</option>
+<option>for</option>
+
+</options>
+</question><question>
+<sentence>Drive  _____  below the factory.</sentence><options>
+<option>between</option>
+<option>above</option>
+<option>behind</option>
+<option answer="correct">down</option>
+
+</options>
+</question><question>
+<sentence>Go  _____  the car park there, under the factory. </sentence><options>
+<option>onto</option>
+<option answer="correct">into</option>
+<option>for</option>
+<option>at</option>
+
+</options>
+</question>
+</questions></exercise>

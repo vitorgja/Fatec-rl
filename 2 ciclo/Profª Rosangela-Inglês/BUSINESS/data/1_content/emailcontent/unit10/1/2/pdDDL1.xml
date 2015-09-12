@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgddl1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Henry</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>Thanks for your email. [#] agree that we should move Mark to a different department.</sentence><options>
+<option answer="correct">I</option>
+<option>I'm</option>
+</options>
+</question><question>
+<sentence>He's a great salesman, but he and Jenny cannot [#].</sentence><options>
+<option>together work</option>
+<option answer="correct">work together</option>
+</options>
+</question><question>
+<sentence>Either Mark or Jenny should [#] jobs and work in the US office. </sentence><options>
+<option answer="correct">change</option>
+<option>changing</option>
+</options>
+</question><question>
+<sentence>Mark likes to work in other countries. So, [#] my opinion, the easiest solution is to move him. </sentence><options>
+<option>for</option>
+<option answer="correct">in</option>
+</options>
+</question><question>
+<sentence>At the moment he is [#] on the Poland project but that finishes in May. </sentence><options>
+<option>working still</option>
+<option answer="correct">still working</option>
+</options>
+</question><question>
+<sentence>He can change jobs then. What's [#] opinion?</sentence><options>
+<option answer="correct">your</option>
+<option>you</option>
+</options>
+</question><question>
+<sentence>Charlotte</sentence><options>
+<option answer="correct"></option>
+</options>
+</question>
+</questions></exercise>

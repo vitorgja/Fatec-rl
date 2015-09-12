@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening61.mp3</audio>
+  <text>
+    <![CDATA[<heading>33</heading>
+      
+      <p><b>Visitor</b> This is nice.</p>
+      <p><b>Host</b> Yes, I eat here about once a month. Do you like sushi? It's very good here.</p>
+      <p><b>Visitor</b> Yes, I do, but ...</p>
+      <p><b>Waitress</b> Hello, are you ready to order?</p>
+      <p><b>Host</b> Yes, I think so. We'd like a bottle of sparkling water ... and would you like to order first?</p>
+      <p><b>Visitor</b> OK. I'll have the grilled vegetables, please.</p>
+      <p><b>Waitress</b> OK.</p>
+      <p><b>Host</b> And I'd like some sushi, please.</p>
+      <p><b>Waitress</b> OK, so grilled vegetables and sushi. Would you like salad or some french fries?</p>
+      <p><b>Visitor</b> Not for me, thanks.</p>
+      <p><b>Host</b> No, thanks.</p>
+      <p><b>Host</b> How was your meal?</p>
+      <p><b>Visitor</b> Very nice, thank you.</p>
+      <p><b>Host</b> Would you like a dessert?</p>
+      <p><b>Visitor</b> No, thanks. I'll have a coffee.</p>
+      <p><b>Host</b> Me too ... excuse me?</p>
+      <p><b>Waitress</b> Yes?</p>
+      <p><b>Host</b> We'd like two coffees, please.</p>
+      <p><b>Waitress</b> Sure.</p>
+      <p><b>Host</b> And could I have the bill, please?</p>]]>
+  </text>
+</exercise>

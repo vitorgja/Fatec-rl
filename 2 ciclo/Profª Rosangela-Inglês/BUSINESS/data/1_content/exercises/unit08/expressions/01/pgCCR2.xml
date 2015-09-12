@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct word to complete the sentences.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>We need to meet _____ the new office.</sentence><options>
+<option>for</option>
+<option answer="correct">about</option>
+<option>from</option>
+<option>on</option>
+
+</options>
+</question><question>
+<sentence>What _____ meeting in the morning?</sentence><options>
+<option>for</option>
+<option answer="correct">about</option>
+<option>by</option>
+<option>on</option>
+
+</options>
+</question><question>
+<sentence>Eleven twenty is good _____ me. </sentence><options>
+<option answer="correct">for</option>
+<option>by</option>
+<option>about</option>
+<option>with</option>
+
+</options>
+</question><question>
+<sentence>Are you busy _____ the meeting? </sentence><options>
+<option>from</option>
+<option answer="correct">after</option>
+<option>by</option>
+<option>between</option>
+
+</options>
+</question><question>
+<sentence>A quarter past one _____ Wednesday is fine. </sentence><options>
+<option answer="correct">on</option>
+<option>in</option>
+<option>at</option>
+<option>to</option>
+
+</options>
+</question>
+</questions></exercise>

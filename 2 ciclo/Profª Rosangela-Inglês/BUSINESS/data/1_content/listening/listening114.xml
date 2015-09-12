@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening114.mp3</audio>
+  <text>
+    <![CDATA[<heading>61</heading>
+      <p><b>Receptionist</b> Hello. Clarion Hotel. </p>
+      <p><b>Jenny</b> Hello. I'm calling from Dublin airport. I've missed my flight, so I'd like to book a room for the night. Do you have any vacancies? </p>
+      <p><b>Receptionist</b> Yes, we have a double room at one hundred and twenty euros.</p>
+      <p><b>Jenny</b> Does that include breakfast?</p>
+      <p><b>Receptionist</b> Yes, it does.</p>
+      <p><b>Jenny</b> Great. Can I book a room, then?</p>
+      <p><b>Receptionist</b> Certainly. Can I have your name? </p>
+      <p><b>Jenny</b> It's Ms Chiang. C-H-I-A-N-G.</p>
+      <p><b>Receptionist</b> And I need your credit card details.</p>
+      <p><b>Jenny</b> Sure. It's Visa. </p>
+      <p><b>Receptionist</b> And what's the card number?</p>
+      <p><b>Jenny</b> 6674 8596 8374 6374.</p>
+      <p><b>Receptionist</b> And the expiry date?</p>
+      <p><b>Jenny</b> Zero three, fourteen.</p>
+      <p><b>Receptionist</b> OK, Ms Chiang. That's a double room for just one night. You can check in any time now.</p>
+      <p><b>Jenny</b> Sorry, where is the hotel exactly?</p>
+      <p><b>Receptionist</b> We're on the airport grounds. There's a free bus from the terminal.</p>
+      <p><b>Jenny</b> Thanks very much. See you later.</p>]]>
+  </text>
+</exercise>

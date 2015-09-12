@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Exchanging information">
+    <title>
+    <![CDATA[<b>Asking for repetition and spelling</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">The project number is ASD234J90X.</sentence>
+      <sentence name="B">[Can you repeat that?]</sentence>
+	  <transfer>Can you repeat that?</transfer>
+	</dialogue>
+    <dialogue>
+      <sentence name="A">The reference number is 008TP9K7.</sentence>
+      <sentence name="B">[Can you say that again, please?]</sentence>
+	  <transfer>Can you say that again, please?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">We need to speak to Alan Archer and the Madrid office as soon as possible!</sentence>
+      <sentence name="B">Sorry. [Can you speak more slowly?]</sentence>
+	  <transfer>Can you speak more slowly?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">My name is Alistair Mackenzie.</sentence>
+      <sentence name="B">[Can you spell that, please?]</sentence>
+	  <transfer>Can you spell that, please?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">His name is Alistair Mackenzie.</sentence>
+      <sentence name="B">[How do you spell that?]</sentence>
+	  <transfer>How do you spell that?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">My name is Alistair Mackenzie. [That's M-A-C-K-E-N-Z-I-E.]</sentence>
+      <sentence name="B">[Alistair Mackenzie. OK.]</sentence>
+  	<transfer>That's M-A-C-K-E-N-Z-I-E. Alistair Mackenzie. OK.</transfer>
+    </dialogue>
+  </exercise>

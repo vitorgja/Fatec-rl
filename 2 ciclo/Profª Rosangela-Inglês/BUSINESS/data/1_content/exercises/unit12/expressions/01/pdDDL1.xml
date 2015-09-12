@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct option to complete the conversation.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>What [#] is the launch of the GPS system?</sentence><options>
+<option answer="correct">date</option>
+<option>deadline</option>
+
+</options>
+</question><question>
+<sentence>March 14th, but there's a problem.</sentence>
+</question><question>
+<sentence>Is there? But we've [#] the launch party!</sentence><options>
+<option answer="correct">already organized</option>
+<option>organized already</option>
+
+</options>
+</question><question>
+<sentence>Well, at the moment, the schedule is about three weeks [#].</sentence><options>
+<option answer="correct">behind</option>
+<option>before</option>
+
+</options>
+</question><question>
+<sentence>Is that a big problem?</sentence>
+</question><question>
+<sentence>Not really. The aim [#] to get the GPS on the shelves for June 1st. I think that's OK.</sentence><options>
+<option answer="correct">is</option>
+<option>have</option>
+
+</options>
+</question><question>
+<sentence>OK. So why [#] change the date of the launch party?</sentence><options>
+<option answer="correct">don't we</option>
+<option>not we</option>
+
+</options>
+</question><question>
+<sentence>Yes, OK. How about April 6th? Is everyone happy [#] that date?</sentence><options>
+<option>for</option>
+<option answer="correct">with</option>
+
+</options>
+</question>
+</questions></exercise>

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<exercise template="glossary">
+ <audioPath>data/1_content/glossary/</audioPath>
+ <word str="assistant">
+		<definition>someone who helps another person in their job</definition>
+		<phonetics><![CDATA[/@"sIst@nt/]]></phonetics>
+		<example>My assistant will get us some coffee.</example>
+	</word>
+	<word str="boss">
+		<definition>a person who is in charge of other people at work </definition>
+		<phonetics><![CDATA[/bQs/]]></phonetics>
+		<example>He asked his boss for some time off.</example>
+	</word>
+	<word str="CEO, Chief Executive Officer">
+		<definition>the person who is in charge of a company</definition>
+		<phonetics><![CDATA[/%si; i; "@U/ /"tSi;f Ig"zekj@tIv "QfIs@(r)/]]></phonetics>
+		<example>Tom is the CEO of a large media company.</example>
+	</word>
+	<word str="colleague">
+		<definition>someone that you work with</definition>
+		<phonetics><![CDATA[/"kQli;g/]]></phonetics>
+		<example>She went for a drink after work with her colleagues.</example>
+	</word>
+	<word str="director">
+		<definition>a senior person who is in charge of part of a company</definition>
+		<phonetics><![CDATA[/d@"rekt@(r)/]]></phonetics>
+		<example>Jenny is our new Sales Director.</example>
+	</word>
+	<word str="employee">
+		<definition>a person who is paid to work for sb</definition>
+		<phonetics><![CDATA[/Im"plO;Ii;/]]></phonetics>
+		<example>The company has nearly 200 employees.</example>
+	</word>
+	<word str="engineering">
+		<definition>using scientific knowledge to help design and build machines, equipment, roads, etc.</definition>
+		<phonetics><![CDATA[/%endZI"ni@rIN/]]></phonetics>
+		<example>He works in electronic engineering.</example>
+	</word>
+	<word str="friendly">
+		<definition>helpful and kind</definition>
+		<phonetics><![CDATA[/‘"frendli/]]></phonetics>
+		<example>My new colleagues are very friendly.</example>
+	</word>
+	<word str="head">
+		<definition>a person who is in charge of an organization or a group of people</definition>
+		<phonetics><![CDATA[/hed/]]></phonetics>
+		<example>Maria is head of Human Resources.</example>
+	</word>
+	<word str="introduce">
+		<definition>to tell a person’s name to sb who has not met the person before</definition>
+		<phonetics><![CDATA[/%Intr@"dju;s/]]></phonetics>
+		<example>Let me introduce our software developer, Pierre.</example>
+	</word>
+	<word str="journey">
+		<definition>travelling from one place to another</definition>
+		<phonetics><![CDATA[/"dZ3;ni/]]></phonetics>
+		<example>Did you have a good journey?</example>
+	</word>
+	<word str="manager">
+		<definition>a person who is in charge of a group of people at work</definition>
+		<phonetics><![CDATA[/"m&amp;nIdZ@(r)/]]></phonetics>
+		<example>The marketing manager gave a presentation.</example>
+	</word>
+	<word str="MD, managing director [BrE]">
+		<definition>the person who is in charge of a company</definition>
+		<phonetics><![CDATA[/%em "di;/ /"m&amp;nIdZIN d@"rekt@(r)/]]></phonetics>
+		<example>A new MD is taking over next month.</example>
+	</word>
+	<word str="PA, personal assistant [BrE]">
+		<definition>a person whose job is to help sb with their work</definition>
+		<phonetics><![CDATA[/%pi; "eI/ /%p3;s@nl @"sIst@nt/]]></phonetics>
+		<example>She is the PA to the Finance Director.</example>
+	</word>
+	<word str="receptionist">
+		<definition>a person who deals with people visiting or telephoning an office building or a hotel</definition>
+		<phonetics><![CDATA[/rI"sepS@nIst/]]></phonetics>
+		<example>The receptionist asked me to wait in the lobby.</example>
+	</word>
+	<word str="sales rep">
+		<definition>a person whose job is to visit different businesses to sell a company’s products</definition>
+		<phonetics><![CDATA[/"seIlz rep/]]></phonetics>
+		<example>A sales rep called to set up a meeting.</example>
+	</word>
+	<word str="team leader">
+		<definition>a person in charge of a team of people at work</definition>
+		<phonetics><![CDATA[/%ti;m "li;d@(r)/]]></phonetics>
+		<example>The team leader should always be willing to listen to ideas.</example>
+	</word>
+	<word str="technician">
+		<definition>a person whose job is to keep special equipment or machinery in good condition</definition>
+		<phonetics><![CDATA[/tek"nISn/]]></phonetics>
+		<example>Jacob is a technician in a pharmaceutical lab.</example>
+	</word>
+	<word str="technology">
+		<definition>scientific knowledge, which is used in practical ways</definition>
+		<phonetics><![CDATA[/tek"nQl@dZi/]]></phonetics>
+		<example>We use a lot of modern technology in our business.</example>
+	</word>
+	<word str="website">
+		<definition>a place on the Internet where a company or person puts information</definition>
+		<phonetics><![CDATA[/"websaIt/]]></phonetics>
+		<example>For more information and some great special offers, visit our website.</example>
+	</word>
+</exercise>
+<!--etc -->

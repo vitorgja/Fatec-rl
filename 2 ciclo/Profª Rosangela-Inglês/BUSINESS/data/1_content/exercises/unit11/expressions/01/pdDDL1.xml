@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Choose the correct option to complete the conversation.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Hello. I'd like to book a room for [#].</sentence><options>
+<option>this night</option>
+<option answer="correct">the night</option>
+
+</options>
+</question><question>
+<sentence>For tonight?</sentence>
+</question><question>
+<sentence>Yes. Do you have any [#]?</sentence><options>
+<option answer="correct">vacancies</option>
+<option>spaces</option>
+
+</options>
+</question><question>
+<sentence>Yes, we have [#] single room at $80.</sentence><options>
+<option answer="correct">a</option>
+<option>the</option>
+
+</options>
+</question><question>
+<sentence>That's perfect. Does that [#] breakfast?</sentence><options>
+<option>request</option>
+<option answer="correct">include</option>
+
+</options>
+</question><question>
+<sentence>Yes it does. Can I [#] your name?</sentence><options>
+<option answer="correct">have</option>
+<option>write</option>
+
+</options>
+</question><question>
+<sentence>Yes, it's Gordon Metcalf.</sentence>
+</question><question>
+<sentence>And I need your credit card [#], please.</sentence><options>
+<option>facts</option>
+<option answer="correct">details</option>
+
+</options>
+</question>
+</questions></exercise>

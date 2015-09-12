@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Type in the correct word to complete the conversation.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>John, do you work for MN2008?</sentence>
+</question><question>
+<sentence>Yes, I [#].</sentence>
+<answers>
+<answer>do</answer>
+<answer>DO</answer>
+</answers>
+</question><question>
+<sentence>Do you produce cars?</sentence>
+</question><question>
+<sentence>No, we [#].</sentence>
+<answers>
+<answer>don't</answer>
+<answer>DON'T</answer>
+</answers>
+</question><question>
+<sentence>Oh. [#] the company produce electronic equipment?</sentence>
+<answers>
+<answer>Does</answer>
+<answer>DOES</answer>
+<answer>does</answer>
+</answers>
+</question><question>
+<sentence>Yes, it [#].</sentence>
+<answers>
+<answer>does</answer>
+<answer>DOES</answer>
+</answers>
+</question><question>
+<sentence>Do you export the equipment?</sentence>
+</question><question>
+<sentence>[#], we don't.</sentence>
+<answers>
+<answer>No</answer>
+<answer>NO</answer>
+<answer>no</answer>
+</answers>
+</question>
+</questions></exercise>

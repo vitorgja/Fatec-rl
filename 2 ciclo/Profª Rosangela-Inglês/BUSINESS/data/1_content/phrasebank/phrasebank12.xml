@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Meetings">
+    <title>
+    <![CDATA[<b>Asking about times</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">[Is four o'clock OK?]</sentence>
+      <sentence name="B">Yes, that's fine.</sentence>
+      <transfer>Is xxx o'clock OK?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[Is nine thirty good for you?]</sentence>
+      <sentence name="B">Yes, I think so.</sentence>
+      <transfer>Is xxx good for you?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[What time are you free?]</sentence>
+      <sentence name="B">Between two and four this afternoon.</sentence>
+      <transfer>What time are you free?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[Are you free on Tuesday?]</sentence>
+      <sentence name="B">Yes, I am.</sentence>
+      <transfer>Are you free on Tuesday?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[Are you free at five o'clock?]</sentence>
+      <sentence name="B">Sorry. No, I'm not.</sentence>
+      <transfer>Are you free at xxx o'clock?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[Can we meet on Friday afternoon?]</sentence>
+      <sentence name="B">Yes, that's fine.</sentence>
+      <transfer>Can we meet on Friday afternoon?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[Can we meet at ten fifteen?]</sentence>
+      <sentence name="B">Sorry, I have another meeting then.</sentence>
+      <transfer>Can we meet at ten fifteen?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[Are you busy on Tuesday?]</sentence>
+      <sentence name="B">I am in the morning, but I'm free in the afternoon.</sentence>
+      <transfer>Are you busy on Tuesday?</transfer>
+    </dialogue>
+  </exercise>

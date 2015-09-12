@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening64.mp3</audio>
+  <text>
+    <![CDATA[<heading>36</heading>
+      <p><b>Simon</b> Can I join you?</p>
+      <p><b>Nathalie</b> Yes, of course.</p>
+      <p><b>Simon</b> I hear you work for GST.</p>
+      <p><b>Nathalie</b> Yes, that's right.</p>
+      <p><b>Simon</b> My name's Simon Turing. I'm with Tulsa Filters. You're one of our customers.</p>
+      <p><b>Nathalie</b> Ah yes. Pleased to meet you. I'm Nathalie Anderson, and this is my colleague, Brent.</p>
+      <p><b>Brent</b> Nice to meet you.</p>
+      <p><b>Simon</b> And you. So what do you think of the conference?</p>
+      <p><b>Nathalie</b> The conference? Very interesting.</p>
+      <p><b>Simon</b> Do you come here every year? </p>
+      <p><b>Nathalie</b> No. This is my first time. But Brent here is a regular!</p>
+      <p><b>Simon</b> Do you know a lot of people here, Brent?</p>
+      <p><b>Brent</b> No, not many. The faces change every year. Erm, would you like another drink?</p>
+      <p><b>Simon</b> No, thanks.</p>
+      <p><b>Nathalie</b> No, thanks. I'm fine.</p>
+      <p><b>Brent</b> Well, please excuse me. I need to go to my room before dinner.</p>
+      <p><b>Simon</b> Sure. See you later maybe.</p>]]>
+  </text>
+</exercise>

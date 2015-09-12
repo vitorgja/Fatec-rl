@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Complete the sentences with the verb in orange, using the present perfect.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Hi Richard. [#] the order from Thailand yet?</sentence>
+<answers>
+<answer>Have you received</answer>
+<answer>have you received</answer>
+<answer>HAVE YOU RECEIVED</answer>
+</answers>
+<hint pos="right">you / receive</hint>
+</question><question>
+<sentence>Well, we[#] half of the order: 1,000 T-shirts.</sentence>
+<answers>
+<answer>'ve got</answer>
+<answer>have got</answer>
+<answer>HAVE GOT</answer>
+<answer>'VE GOT</answer>
+</answers>
+<hint pos="right">get</hint>
+</question><question>
+<sentence>[#] them?</sentence>
+<answers>
+<answer>Have you seen</answer>
+<answer>have you seen</answer>
+<answer>HAVE YOU SEEN</answer>
+</answers>
+<hint pos="right">you / see</hint>
+</question><question>
+<sentence>Yes, I have. They look very good.</sentence>
+</question><question>
+<sentence>What about the other 1,000?</sentence>
+</question><question>
+<sentence>Well, the factory in Thailand [#] the manufacturing.</sentence>
+<answers>
+<answer>has completed</answer>
+<answer>HAS COMPLETED</answer>
+</answers>
+<hint pos="right">complete</hint>
+</question><question>
+<sentence>OK. So they have 2,000 T-shirts?</sentence>
+</question><question>
+<sentence>Yes, but they [#] the other 1,000 T-shirts yet.</sentence>
+<answers>
+<answer>haven't sent</answer>
+<answer>have not sent</answer>
+<answer>HAVE NOT SENT</answer>
+<answer>HAVEN'T SENT</answer>
+</answers>
+<hint pos="right">not / send</hint>
+</question><question>
+<sentence>No? [#] a problem with the shipping?</sentence>
+<answers>
+<answer>Has there been</answer>
+<answer>has there been</answer>
+<answer>HAS THERE BEEN</answer>
+</answers>
+<hint pos="right">there / be</hint>
+</question>
+</questions></exercise>

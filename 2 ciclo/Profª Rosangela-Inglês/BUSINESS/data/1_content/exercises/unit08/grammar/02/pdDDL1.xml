@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Choose the correct option to complete the conversation.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>What [#] you doing at the moment?</sentence><options>
+<option>do</option>
+<option answer="correct">are</option>
+
+</options>
+</question><question>
+<sentence>I'm [#] to finish this report.</sentence><options>
+<option answer="correct">trying</option>
+<option>try</option>
+
+</options>
+</question><question>
+<sentence>Is it difficult?</sentence>
+</question><question>
+<sentence>Yes, and I[#] any progress with it.</sentence><options>
+<option answer="correct">'m not making</option>
+<option>not making</option>
+
+</options>
+</question><question>
+<sentence>Oh no. Sorry, I can't help. I[#] a training course today with Hugh.</sentence><options>
+<option answer="correct">'m doing</option>
+<option>doing</option>
+
+</options>
+</question><question>
+<sentence>Where is it?</sentence>
+</question><question>
+<sentence>They [#] it in the office in front of reception.</sentence><options>
+<option answer="correct">'re having</option>
+<option>have</option>
+
+</options>
+</question><question>
+<sentence>I [#]that course next week. Let me know what it's like .</sentence><options>
+<option answer="correct">'m doing</option>
+<option>do</option>
+
+</options>
+</question>
+</questions></exercise>

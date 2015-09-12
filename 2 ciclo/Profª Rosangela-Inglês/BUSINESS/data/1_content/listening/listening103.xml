@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening103.mp3</audio>
+  <text>
+    <![CDATA[<heading>55</heading>
+      <p><b>Richard</b> Hello.</p>
+      <p><b>Adriana</b> Hi, Richard. It's Adriana.</p>
+      <p><b>Richard</b> How are things in Recife?</p>
+      <p><b>Adriana</b> Not good, I'm afraid. The problem is bigger than we thought.</p>
+      <p><b>Richard</b> Oh no! Not because of the new components? They were so expensive!</p>
+      <p><b>Adriana</b> No, I know they were the most expensive solution, but they were also the best idea.</p>
+      <p><b>Richard</b> So what's the real problem?</p>
+      <p><b>Adriana</b> Well, Pedro says the new components are worse than the old components, but the team leaders say they are better, and I agree.</p>
+      <p><b>Richard</b> So are you saying the problem isn't technical?</p>
+      <p><b>Adriana</b> That's right. I think it's a personnel problem. Do you know that staff turnover in Recife is the highest? Our other factories are about thirty per cent lower. </p>
+      <p><b>Richard</b> Wow. That is surprising. So the problem is the team?</p>
+      <p><b>Adriana</b> No, not the team. It's the Line Manager. The biggest problem is Pedro. No one likes him.</p>]]>
+  </text>
+</exercise>

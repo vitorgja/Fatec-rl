@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Discussing problems">
+<title>
+    <![CDATA[<b>Apologizing</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">Hello. [Sorry I'm late.] There were problems with my flight.</sentence>
+      <sentence name="B">That's OK. We can start the meeting now.</sentence>
+      <transfer>Sorry I'm late.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">Did you send me the PowerPoint presentation?</sentence>
+      <sentence name="B">No I didn't. I had some computer problems. [Sorry about that.]</sentence>
+      <transfer>Sorry about that.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">Did you finish the report?</sentence>
+      <sentence name="B">[No, I'm really sorry. ]I didn't have time.</sentence>
+      <transfer>No, I'm really sorry.</transfer>
+    </dialogue>
+  </exercise>

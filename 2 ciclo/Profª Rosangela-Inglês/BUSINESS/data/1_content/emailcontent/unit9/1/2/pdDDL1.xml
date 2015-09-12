@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgddl1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Gary</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>We need to choose a company to make the new factory uniforms.</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>The choice is Vegas or Ece. Personally, I [#] Ece.</sentence><options>
+<option>preference</option>
+<option answer="correct">prefer</option>
+</options>
+</question><question>
+<sentence>Vegas' uniforms are similar [#] Ece's, but they are more expensive. </sentence><options>
+<option answer="correct">to</option>
+<option>with</option>
+</options>
+</question><question>
+<sentence>And the advantage [#] Ece is that they make their clothes in this country.</sentence><options>
+<option answer="correct">of</option>
+<option>to</option>
+</options>
+</question><question>
+<sentence>So Ece have faster delivery [#] Vegas. </sentence><options>
+<option>as</option>
+<option answer="correct">than</option>
+</options>
+</question><question>
+<sentence>In conclusion, [#] choose Ece. They make a better product.</sentence><options>
+<option>let</option>
+<option answer="correct">let's</option>
+</options>
+</question><question>
+<sentence>Elizabeth</sentence><options>
+<option answer="correct"></option>
+</options>
+</question>
+</questions></exercise>

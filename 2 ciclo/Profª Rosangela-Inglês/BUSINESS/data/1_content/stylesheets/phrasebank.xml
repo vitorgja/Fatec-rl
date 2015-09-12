@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--for use with textdisplay template-->
+<styles antiAlias="false">
+	<rubric xpos="18" ypos="40" width="800" font="verdana" size="12" bold="true" color="000000"/>
+	<images>
+		<!--<image item="background">assets/script_back.swf</image>-->
+	</images>
+	<buttons>	
+		<!--<button item="close" visible="true" enabled="true" xpos="704" ypos="2">
+			<image>assets/button_close.swf</image>
+		</button>-->
+	</buttons>
+	<assets>
+		<asset item="stagearea" xpos="19" ypos="-8" width="671" height="500"/>
+		<asset item="audiopath" path="data/1_content/phrasebank/audio/"/>
+		<asset item="title" height="40">
+			<image>data/templates/assets/phrasebank_title.swf</image>
+		</asset>
+		<asset item="entry">
+			<image>data/templates/assets/phrasebank_entry.swf</image>
+		</asset>
+	</assets>
+</styles>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Discussing problems">
+<title>
+    <![CDATA[<b>Solving a problem</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">There isn't a teacher for the training course.</sentence>
+      <sentence name="B">[You need to ask William Garbutt to take it.]</sentence>
+	<transfer>You need to ask xxx to do it.</transfer>
+    </dialogue>
+	<dialogue>
+      <sentence name="A">William Garbutt can't take the training course.</sentence>
+      <sentence name="B">OK. [We need to find another teacher.]</sentence>
+	<transfer>We need to find another xxx.</transfer>
+    </dialogue>
+	<dialogue>
+      <sentence name="A">There are no teachers for the training course this week.</sentence>
+      <sentence name="B">OK. Let's change the date. [We can do the training course next week.]</sentence>
+      <transfer>We can do the xxx next week.</transfer>
+    </dialogue>
+  </exercise>
