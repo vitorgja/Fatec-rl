@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
-
+/**
+ * *
+ * @author Vitor
+ *
+ */
 public class AnalizaExpressao1 {
 
 	public static void main(String[] args) {
