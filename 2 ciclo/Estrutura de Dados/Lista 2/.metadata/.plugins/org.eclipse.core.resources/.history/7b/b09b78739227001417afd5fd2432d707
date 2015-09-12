@@ -1,0 +1,12 @@
+package Listas;
+
+public class Exercicio_06 {
+
+	public static void main(String[] args) {
+		
+		// 6. Calcular o valor A elevado a um expoente B. Os valores A e B deverão ser obtidos via teclado. Não usar Math. 
+		
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package Listas;
+
+public class Exercicio_01 {
+	public static void main(String[] args) {
+		//1. Mostrar a seguinte série: 1, 2, 3, ...,50 
+		
+		int i;
+		for(i=1;i<=50;i++){
+			System.out.print(i);
+		}
+	}
+}

@@ -1,0 +1,16 @@
+package Listas;
+
+public class Exercicio_04 {
+	public static void main(String[] args) {
+		//4. Calcular e mostrar o resultado da seguinte série: 1+2+3+...+50. 	
+		
+		// Variaveis
+		int i,calc = 0;
+		
+		// Inicio
+		for(i=1;i<=50;i++){
+			calc=calc+i;
+			System.out.println("1+2+3+4+5...+50"+calc);
+		}
+	}
+}

@@ -1,0 +1,18 @@
+
+public class Contador {
+	
+	// Atributos
+	int contador;
+	
+	//Funcionalidades
+	void incrementar(){
+		contador ++;
+	}
+	void decrementar(){
+		contador --1;
+	}
+	int pegavalor(){
+		return contador;
+	}
+	
+}
