@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgddl1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Hi Bill</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>Thank you for your email about the computer problem.</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>The problem is that the password [#] work.</sentence><options>
+<option> don't</option>
+<option answer="correct">doesn't</option>
+</options>
+</question><question>
+<sentence>So, first [#] all, switch off your computer, and then switch it on again.</sentence><options>
+<option answer="correct">of</option>
+<option>from</option>
+</options>
+</question><question>
+<sentence>Key in your name and password in [#] case letters. </sentence><options>
+<option answer="correct">lower</option>
+<option>little</option>
+</options>
+</question><question>
+<sentence>After [#], press the ENTER button.</sentence><options>
+<option>it</option>
+<option answer="correct">that</option>
+</options>
+</question><question>
+<sentence>Finally, click on EXIT to log [#] of the system.</sentence><options>
+<option>away</option>
+<option answer="correct">out</option>
+</options>
+</question><question>
+<sentence>I hope that [#]! Please email me if you have any other questions.</sentence><options>
+<option>help</option>
+<option answer="correct">helps</option>
+</options>
+</question><question>
+<sentence>Ray</sentence><options>
+<option answer="correct"></option>
+</options>
+</question>
+</questions></exercise>

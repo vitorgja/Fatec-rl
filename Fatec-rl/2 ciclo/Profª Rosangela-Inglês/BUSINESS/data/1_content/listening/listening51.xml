@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening51.mp3</audio>
+  <text>
+    <![CDATA[<heading>27</heading>
+      <p><b>A</b>  Hi, Michelle. It's Rona.</p>
+      <p><b>B</b>  Oh, hello. How can I help?</p>
+      <p><b>A</b>  Well, Hanran Solutions telephoned. They received our invoice for an order of scanners, but they say it's wrong. Did you print a hard copy of the original order form? </p>
+      <p><b>B</b>  No, but I always save their order forms. Let me open the folder. Erm, what was the date on it?</p>
+      <p><b>A</b>  The third of May.</p>
+      <p><b>B</b>  That's strange. It isn't here. Sorry about that. One moment. Did they attach the document to an email?</p>
+      <p><b>A</b>  Yes. I think they sent the email on the third. </p>
+      <p><b>B</b>  OK, here's an email from Hanran Solutions on the third with an attachment.</p>
+      <p><b>A</b>  That sounds good.</p>
+      <p><b>B</b>  Yes, it's an order for twenty scanners.</p>
+      <p><b>A</b>  Great. Can you forward the email to me? </p>
+      <p><b>B</b>  Sure. </p>]]>
+  </text>
+</exercise>

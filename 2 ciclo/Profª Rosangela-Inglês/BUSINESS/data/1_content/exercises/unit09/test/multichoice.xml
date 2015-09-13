@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multiChoice_style.xml">
+<title><![CDATA[<b>This is the title:</b> Exercise 1]]></title>
+<rubric><![CDATA[Interactive test 9]]></rubric>
+<audiopath>assets/Sound1_</audiopath>
+<sentence number="1" correct="1">Our company provides a _____ range of services.
+<audiotext></audiotext>
+<ans number="1">wide</ans>
+<ans number="2">long</ans>
+<ans number="3">tall</ans>
+
+</sentence>
+<sentence number="2" correct="2">This technology is not 
+<audiotext></audiotext>
+<ans number="1">up to hour.</ans>
+<ans number="2">up-to-date.</ans>
+<ans number="3">up to now.</ans>
+
+</sentence>
+<sentence number="3" correct="1">We need new products to _____ in the market.
+<audiotext></audiotext>
+<ans number="1">compete</ans>
+<ans number="2">competitor</ans>
+<ans number="3">competitive</ans>
+
+</sentence>
+<sentence number="4" correct="2">I need the goods now, but this company can't deliver them for five weeks.
+<audiotext></audiotext>
+<ans number="1">Their delivery time is too low.</ans>
+<ans number="2">Their delivery time is too slow.</ans>
+<ans number="3">Their delivery time is too high.</ans>
+
+</sentence>
+<sentence number="5" correct="3">I love this hotel because the staff are really
+<audiotext></audiotext>
+<ans number="1">up-to-date.</ans>
+<ans number="2">competitive.</ans>
+<ans number="3">friendly.</ans>
+
+</sentence>
+<sentence number="6" correct="3">These are budget flights so they give people a
+<audiotext></audiotext>
+<ans number="1">low option.</ans>
+<ans number="2">bad option.</ans>
+<ans number="3">cheap option.</ans>
+
+</sentence>
+<sentence number="7" correct="2">We only produce very _____ quality goods.
+<audiotext></audiotext>
+<ans number="1">expensive</ans>
+<ans number="2">high</ans>
+<ans number="3">big</ans>
+
+</sentence>
+<sentence number="8" correct="1">I'm not happy with our suppliers. They provide a very slow
+<audiotext></audiotext>
+<ans number="1">service.</ans>
+<ans number="2">quality.</ans>
+<ans number="3">range.</ans>
+
+</sentence>
+<sentence number="9" correct="1">The office is in a very expensive
+<audiotext></audiotext>
+<ans number="1">location.</ans>
+<ans number="2">technology.</ans>
+<ans number="3">quality.</ans>
+
+</sentence>
+<sentence number="10" correct="3">The sales teams need to provide a _____ service to customers.
+<audiotext></audiotext>
+<ans number="1">more good</ans>
+<ans number="2">best</ans>
+<ans number="3">better</ans>
+
+</sentence>
+<sentence number="11" correct="1">We have a faster delivery time _____ our competitors.
+<audiotext></audiotext>
+<ans number="1">than</ans>
+<ans number="2">of</ans>
+<ans number="3">as</ans>
+
+</sentence>
+<sentence number="12" correct="3">Olga is _____ than Joe.
+<audiotext></audiotext>
+<ans number="1">more experience</ans>
+<ans number="2">experienced</ans>
+<ans number="3">more experienced</ans>
+
+</sentence>
+<sentence number="13" correct="3">The weather in this country is _____ than in England.
+<audiotext></audiotext>
+<ans number="1">bad</ans>
+<ans number="2">more bad</ans>
+<ans number="3">worse</ans>
+
+</sentence>
+<sentence number="14" correct="2">The staff in Philadelphia are _____ than the staff in my team.
+<audiotext></audiotext>
+<ans number="1">friendly</ans>
+<ans number="2">friendlier</ans>
+<ans number="3">more friendlier</ans>
+
+</sentence>
+<sentence number="15" correct="1">Which company is
+<audiotext></audiotext>
+<ans number="1">more expensive?</ans>
+<ans number="2">many expensive?</ans>
+<ans number="3">much expensive?</ans>
+
+</sentence>
+<sentence number="16" correct="1">Japanese is _____ to learn than English.
+<audiotext></audiotext>
+<ans number="1">more difficult</ans>
+<ans number="2">difficult</ans>
+<ans number="3">the difficult</ans>
+
+</sentence>
+<sentence number="17" correct="3">I'd like a _____ loan from the bank.
+<audiotext></audiotext>
+<ans number="1">more big</ans>
+<ans number="2">biggest</ans>
+<ans number="3">bigger</ans>
+
+</sentence>
+<sentence number="18" correct="1">Tell me about the two broadband companies. How do they
+<audiotext></audiotext>
+<ans number="1">compare?</ans>
+<ans number="2">compared?</ans>
+<ans number="3">comparison?</ans>
+
+</sentence>
+<sentence number="19" correct="2">The quality of the goods from China and Vietnam is
+<audiotext></audiotext>
+<ans number="1">same.</ans>
+<ans number="2">similar.</ans>
+<ans number="3">similarity.</ans>
+
+</sentence>
+<sentence number="20" correct="3">What is the difference between the paper from Finland and Estonia?
+<audiotext></audiotext>
+<ans number="1">There isn't no difference.</ans>
+<ans number="2">There's not difference.</ans>
+<ans number="3">There's no difference.</ans>
+
+</sentence>
+<sentence number="21" correct="3">What do you think of the FMO TVs and the SQ TVs?
+<audiotext></audiotext>
+<ans number="1">I'll prefer the SQ TVs.</ans>
+<ans number="2">I'm preferring the SQ TVs.</ans>
+<ans number="3">I prefer the SQ TVs.</ans>
+
+</sentence>
+<sentence number="22" correct="2">I think the SQ TVs are really good.
+<audiotext></audiotext>
+<ans number="1">OK, we choose them.</ans>
+<ans number="2">OK, let's choose them.</ans>
+<ans number="3">OK, let's chose them.</ans>
+
+</sentence>
+<sentence number="23" correct="1">Why do you think it's a good idea to open an office in Singapore?
+<audiotext></audiotext>
+<ans number="1">The advantage is that there are lots of high quality employees there.</ans>
+<ans number="2">The disadvantage is that there are lots of high quality employees there.</ans>
+<ans number="3">The advantages is that there are lots of high quality employees there.</ans>
+
+</sentence>
+<sentence number="24" correct="3">We make aeroplanes,
+<audiotext></audiotext>
+<ans number="1">but we make also cars.</ans>
+<ans number="2">also but we make cars.</ans>
+<ans number="3">but we also make cars.</ans>
+
+</sentence>
+<sentence number="25" correct="3">Do you like the French plan or the German plan?
+<audiotext></audiotext>
+<ans number="1">This one better.</ans>
+<ans number="2">This is better one.</ans>
+<ans number="3">This one's better.</ans>
+
+</sentence>
+</exercise>

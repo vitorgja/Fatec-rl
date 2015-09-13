@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct word to complete each sentence.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Rachel is the Human [#] Manager.</sentence><options>
+<option>Resource</option>
+<option answer="correct">Resources</option>
+
+</options>
+</question><question>
+<sentence>Carmen is my Personal [#].</sentence><options>
+<option answer="correct">Assistant</option>
+<option>Assist</option>
+
+</options>
+</question><question>
+<sentence>Bob is the [#] of the company.</sentence><options>
+<option>Officer Chief Executive</option>
+<option answer="correct">Chief Executive Officer</option>
+
+</options>
+</question><question>
+<sentence>Silvio is a [#].</sentence><options>
+<option>Sale Rep</option>
+<option answer="correct">Sales Rep</option>
+
+</options>
+</question><question>
+<sentence>Who is the [#]?</sentence><options>
+<option>Team Lead</option>
+<option answer="correct">Team Leader</option>
+
+</options>
+</question><question>
+<sentence>Fiona is a [#].</sentence><options>
+<option>technical</option>
+<option answer="correct">technician</option>
+
+</options>
+</question><question>
+<sentence>Len is the new [#].</sentence><options>
+<option answer="correct">Marketing Director</option>
+<option>Director Marketing</option>
+
+</options>
+</question><question>
+<sentence>I'm a [#].</sentence><options>
+<option>reception</option>
+<option answer="correct">receptionist</option>
+
+</options>
+</question>
+</questions></exercise>

@@ -1,0 +1,31 @@
+
+public class Fila {
+
+	private int inic,fim,qtde,elementos[];
+	
+	Fila(int tamanho){
+		inic=0;
+		fim=-1;
+		elementos= new int[tamanho];
+	}
+	void insere(int x){
+		qtde++;
+		inic++;
+		elementos[inic]=x;
+	}
+	
+	public int getInic() {
+		return inic;
+	}
+
+	public int getFim() {
+		return fim;
+	}
+
+	public int getQtde() {
+		return qtde;
+	}
+
+	
+	
+}

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<exercise template='textdisplay'>
+
+
+	<text><![CDATA[
+	
+<b>To</b>&nbsp;		<u>Lothar Schmidt</u><br><b>From</b>&nbsp;	 <u>Ian Chesterton</u><br><b>Subject</b>&nbsp;	 New customer 
+______________________________________________________________________________
+Hi Lothar
+I’m just emailing with some information about our new customer. The company is called Rack, Plaice and Jones Ltd and <span class='blue'>it manufactures equipment for the pharmaceutical industry</span>. <span class='blue'>It employs a hundred people in the UK</span> and twenty sales reps in Europe. Its main office is in Brighton, England. <span class='blue'>It exports around</span> the world, including the USA and Canada. <span class='blue'>We work with</span> the head office <span class='blue'>but we also have</span> contacts with some of the sales reps in Germany. The attached file gives more information.
+<span class='blue'>Good luck with your meeting</span> next week!
+
+Best
+
+Ian 
+
+
+]]></text>
+	
+</exercise>

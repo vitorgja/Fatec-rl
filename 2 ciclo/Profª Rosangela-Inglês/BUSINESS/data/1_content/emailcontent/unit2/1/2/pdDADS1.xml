@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgdads1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<questions>
+<sentence>Dear Ms Wesson</sentence>
+<sentence>Thank you for your email and your [questions] about our Blu Ray disks.</sentence>
+<sentence>We still have all the management DVDs in [stock].</sentence>
+<sentence>We produce a complete [catalogue] for our customers.</sentence>
+<sentence>You can also see all of our products [online].</sentence>
+<sentence>We [guarantee] next day delivery on all orders over £50.</sentence>
+<sentence>You can [return] any product within three weeks of delivery.</sentence>
+<sentence>Best regards</sentence>
+<sentence>Duncan March.</sentence>
+
+</questions></exercise>

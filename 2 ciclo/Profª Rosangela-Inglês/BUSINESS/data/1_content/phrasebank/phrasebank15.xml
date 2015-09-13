@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Meetings">
+   <title>
+    <![CDATA[<b>Talking about similarities</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">[DNV does UK deliveries, but MQI also does them.]</sentence>
+      <sentence name="B">So we can choose DNV or MQI.</sentence>
+	   <transfer>xxx does UK deliveries, but xxx also does them.</transfer>
+	  </dialogue>
+     <dialogue>
+      <sentence name="A">Is there a difference between the M23 account and the US 2008 account?</sentence>
+      <sentence name="B">No. [There isn't a difference.] They're the same account.</sentence>
+	   <transfer>There isn't a difference.</transfer>
+	  </dialogue>
+     <dialogue>
+      <sentence name="A">What's your new office like?</sentence>
+      <sentence name="B">[It's similar to your office.]</sentence>
+      <transfer>It's similar to xxx.</transfer>
+    </dialogue>
+  </exercise>

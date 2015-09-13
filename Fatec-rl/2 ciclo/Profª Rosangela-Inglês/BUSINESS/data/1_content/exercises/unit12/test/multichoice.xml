@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multiChoice_style.xml">
+<title><![CDATA[<b>This is the title:</b> Exercise 1]]></title>
+<rubric><![CDATA[Interactive test 12]]></rubric>
+<audiopath>assets/Sound1_</audiopath>
+<sentence number="1" correct="1">We don't have much time. The project has a really tight
+<audiotext></audiotext>
+<ans number="1">deadline.</ans>
+<ans number="2">period.</ans>
+<ans number="3">leave.</ans>
+
+</sentence>
+<sentence number="2" correct="2">In August I'm going to take some time
+<audiotext></audiotext>
+<ans number="1">holiday.</ans>
+<ans number="2">off.</ans>
+<ans number="3">leave.</ans>
+
+</sentence>
+<sentence number="3" correct="2">All the shops in the country are closed tomorrow because it's a
+<audiotext></audiotext>
+<ans number="1">time off.</ans>
+<ans number="2">public holiday.</ans>
+<ans number="3">quiet period.</ans>
+
+</sentence>
+<sentence number="4" correct="1">We're going to Paris on Friday for a _____ weekend.
+<audiotext></audiotext>
+<ans number="1">long</ans>
+<ans number="2">wide</ans>
+<ans number="3">tall</ans>
+
+</sentence>
+<sentence number="5" correct="3">Everyone is working hard. We've all got really _____ schedules.
+<audiotext></audiotext>
+<ans number="1">deadline</ans>
+<ans number="2">quiet</ans>
+<ans number="3">busy</ans>
+
+</sentence>
+<sentence number="6" correct="1">We don't have any business in August. It's the _____ period for our company.
+<audiotext></audiotext>
+<ans number="1">quiet</ans>
+<ans number="2">silent</ans>
+<ans number="3">empty</ans>
+
+</sentence>
+<sentence number="7" correct="3">I'm going to send everyone a _____ about the trade fair.
+<audiotext></audiotext>
+<ans number="1">remind</ans>
+<ans number="2">remember</ans>
+<ans number="3">reminder</ans>
+
+</sentence>
+<sentence number="8" correct="1">_____ is a kind of schedule.
+<audiotext></audiotext>
+<ans number="1">A timetable</ans>
+<ans number="2">A period</ans>
+<ans number="3">Leave</ans>
+
+</sentence>
+<sentence number="9" correct="2">Have you _____ to Michael about the project?
+<audiotext></audiotext>
+<ans number="1">talk</ans>
+<ans number="2">talked</ans>
+<ans number="3">talking</ans>
+
+</sentence>
+<sentence number="10" correct="3">The delivery _____ arrived yet.
+<audiotext></audiotext>
+<ans number="1">didn't</ans>
+<ans number="2">haven't</ans>
+<ans number="3">hasn't</ans>
+
+</sentence>
+<sentence number="11" correct="1">We've _____ a few problems today.
+<audiotext></audiotext>
+<ans number="1">had</ans>
+<ans number="2">have</ans>
+<ans number="3">having</ans>
+
+</sentence>
+<sentence number="12" correct="1">Have you _____ the annual accounts?
+<audiotext></audiotext>
+<ans number="1">done</ans>
+<ans number="2">did</ans>
+<ans number="3">do</ans>
+
+</sentence>
+<sentence number="13" correct="3">Sam and Paula have _____ to Florence for the annual conference.
+<audiotext></audiotext>
+<ans number="1">go</ans>
+<ans number="2">went</ans>
+<ans number="3">gone</ans>
+
+</sentence>
+<sentence number="14" correct="3">The factory has _____ the computers.
+<audiotext></audiotext>
+<ans number="1">ship</ans>
+<ans number="2">shipping</ans>
+<ans number="3">shipped</ans>
+
+</sentence>
+<sentence number="15" correct="2">I _____ in the office yesterday.
+<audiotext></audiotext>
+<ans number="1">have been</ans>
+<ans number="2">was</ans>
+<ans number="3">am</ans>
+
+</sentence>
+<sentence number="16" correct="3">Can you give Eric the new timetable?
+<audiotext></audiotext>
+<ans number="1">Already I've given it to him.</ans>
+<ans number="2">I've given already it to him.</ans>
+<ans number="3">I've already given it to him.</ans>
+
+</sentence>
+<sentence number="17" correct="1">We're meeting _____ the 19th of July.
+<audiotext></audiotext>
+<ans number="1">on</ans>
+<ans number="2">in</ans>
+<ans number="3">at</ans>
+
+</sentence>
+<sentence number="18" correct="2">We're launching the product _____ the summer.
+<audiotext></audiotext>
+<ans number="1">at</ans>
+<ans number="2">in</ans>
+<ans number="3">on</ans>
+
+</sentence>
+<sentence number="19" correct="1">At the moment the schedule is about a week
+<audiotext></audiotext>
+<ans number="1">behind.</ans>
+<ans number="2">below.</ans>
+<ans number="3">above.</ans>
+
+</sentence>
+<sentence number="20" correct="2">The situation is _____ we have three days to deliver 10,000 pens to London.
+<audiotext></audiotext>
+<ans number="1">what</ans>
+<ans number="2">that</ans>
+<ans number="3">so</ans>
+
+</sentence>
+<sentence number="21" correct="3">We plan
+<audiotext></audiotext>
+<ans number="1">have it in the shops next week.</ans>
+<ans number="2">that have it in the shops next week.</ans>
+<ans number="3">to have it in the shops next week.</ans>
+
+</sentence>
+<sentence number="22" correct="1">I have an idea. Why _____ ask Bruce to manage the project?
+<audiotext></audiotext>
+<ans number="1">don't we</ans>
+<ans number="2">we don't</ans>
+<ans number="3">not we</ans>
+
+</sentence>
+<sentence number="23" correct="3">What's a good time to start work?
+<audiotext></audiotext>
+<ans number="1">Let start work on Tuesday.</ans>
+<ans number="2">Let starting work on Tuesday.</ans>
+<ans number="3">Let's start work on Tuesday.</ans>
+
+</sentence>
+<sentence number="24" correct="2">Is _____ happy with that date?
+<audiotext></audiotext>
+<ans number="1">we</ans>
+<ans number="2">everyone</ans>
+<ans number="3">all</ans>
+
+</sentence>
+<sentence number="25" correct="1">How much time do we need _____ production?
+<audiotext></audiotext>
+<ans number="1">for</ans>
+<ans number="2">to</ans>
+<ans number="3">about</ans>
+
+</sentence>
+</exercise>

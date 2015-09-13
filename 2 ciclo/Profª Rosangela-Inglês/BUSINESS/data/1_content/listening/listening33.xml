@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening33.mp3</audio>
+  <text>
+    <![CDATA[<heading>20</heading>
+      <p><b>Receptionist</b> Hello, the Dubai Grand Hotel. Can I help you?</p>
+      <p><b>Sadler</b> Hello. This is Raymond Sadler of Sadler Business Services. I'm calling about your meeting rooms ...</p>
+      <p><b>Receptionist</b> ... and there's Internet access and a fax in each room.</p>
+      <p><b>Sadler</b> That's great. Thanks for your help.</p>
+      <p><b>Receptionist</b> You're welcome.</p>
+      <p><b>Sadler</b> Goodbye.</p>
+      <p><b>Receptionist</b> Goodbye.</p>]]>
+  </text>
+</exercise>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgddl1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Hi Janet</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>[#] really sorry I wasn't at the meeting this morning.</sentence><options>
+<option> I</option>
+<option answer="correct">I'm</option>
+</options>
+</question><question>
+<sentence>I was at the factory because we've [#] a problem. </sentence><options>
+<option>get</option>
+<option answer="correct">got</option>
+</options>
+</question><question>
+<sentence>We need [#] 2,000 glasses this week, but the machinery isn't working.</sentence><options>
+<option>produce</option>
+<option answer="correct">to produce</option>
+</options>
+</question><question>
+<sentence>John and I [#] in the factory with Dom Fox yesterday too. </sentence><options>
+<option>was</option>
+<option answer="correct">were</option>
+</options>
+</question><question>
+<sentence>Dom looked at the problem but he didn't [#] it.</sentence><options>
+<option>fixed</option>
+<option answer="correct">fix</option>
+</options>
+</question><question>
+<sentence>So at the moment we can't produce the glasses. [#] phone you later to explain the situation. </sentence><options>
+<option>I</option>
+<option answer="correct">I'll</option>
+</options>
+</question><question>
+<sentence>Stuart</sentence><options>
+<option answer="correct"></option>
+</options>
+</question>
+</questions></exercise>

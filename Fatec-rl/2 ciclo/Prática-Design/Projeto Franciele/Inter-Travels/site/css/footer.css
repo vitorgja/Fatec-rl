@@ -1,0 +1,58 @@
+﻿
+	footer{
+		width: 980px;
+		height: 300px;
+		position: relative;
+	}
+	footer #mapasite{
+		margin-left: 100px;
+		width: 410px;
+	}
+	footer #mapasite  nav,footer #mapasite  div{
+		width: 200px;
+		display: inline-table;
+	}
+	footer #mapasite nav +nav {
+		border-left: 1px dotted black;
+	}
+	footer #mapasite  nav h1{
+		margin-bottom: 5px;
+		text-align: center;
+		font-size: 13pt;
+	}
+	footer #mapasite  nav ul{
+		margin-top: 0;
+	}
+	footer #mapasite  nav li{
+		display: block;
+		padding: 0;
+		line-height: 20px;
+		background: none;
+		text-align: center;
+	}
+	footer #mapasite  nav ul li a{
+		font-size: 10pt;
+		letter-spacing: 3px;
+	}
+	
+	footer #mapasite+div{
+		position: absolute;
+		top: -5px;
+		right: 180px;
+		width: 250px;
+		height: 250px;
+	}
+	footer #social{
+		position: relative;
+		margin-bottom: -70px;
+	}
+	footer #social a{
+		text-decoration: none;
+	}
+	#validador img{
+		position: relative;
+		margin-left: 65px;
+	}
+	
+	
+	

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgddl1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Hi James</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>I'm [#] about our meeting. </sentence><options>
+<option>email</option>
+<option answer="correct">emailing</option>
+</options>
+</question><question>
+<sentence>[#] a problem.</sentence><options>
+<option answer="correct">There's</option>
+<option>There are</option>
+</options>
+</question><question>
+<sentence>[#] we change the date?</sentence><options>
+<option answer="correct">Can</option>
+<option>Do</option>
+</options>
+</question><question>
+<sentence>Tanja is not here on Tuesday, [#] can we meet on Wednesday?</sentence><options>
+<option>but</option>
+<option answer="correct">so</option>
+</options>
+</question><question>
+<sentence>I'll [#] John and Kai the message too. I hope this is OK. </sentence><options>
+<option>giving</option>
+<option answer="correct">give</option>
+</options>
+</question><question>
+<sentence>Can you call me back as soon [#] possible?</sentence><options>
+<option>when</option>
+<option answer="correct">as</option>
+</options>
+</question><question>
+<sentence>Thanks!</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>Ana</sentence><options>
+<option answer="correct"></option>
+</options>
+</question>
+</questions></exercise>

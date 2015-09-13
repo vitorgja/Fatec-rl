@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgddl1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Hi Janine</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>Here is my report on the International Food Trade [#] in Frankfurt.</sentence><options>
+<option>Meet</option>
+<option answer="correct">Fair</option>
+</options>
+</question><question>
+<sentence>There were [#] 150 companies there. </sentence><options>
+<option answer="correct">almost</option>
+<option>all most</option>
+</options>
+</question><question>
+<sentence>We talked to a lot of suppliers and [#] including the Wilkin Food Group. </sentence><options>
+<option>manufactures</option>
+<option answer="correct">manufacturers</option>
+</options>
+</question><question>
+<sentence>I met Charles Hammill, a [#] of Wilkin. He said he'll visit our head office next week.</sentence><options>
+<option>represent</option>
+<option answer="correct">representative</option>
+</options>
+</question><question>
+<sentence>His company is an important [#] of fruit and he wants to do more business with us.</sentence><options>
+<option>produce</option>
+<option answer="correct">producer</option>
+</options>
+</question><question>
+<sentence>So he is a really good contact we made at the event.</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>Regards</sentence><options>
+<option answer="correct"></option>
+</options>
+</question><question>
+<sentence>Martin</sentence><options>
+<option answer="correct"></option>
+</options>
+</question>
+</questions></exercise>

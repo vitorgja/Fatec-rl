@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<exercise template='textdisplay'>
+
+
+	<text><![CDATA[
+	
+<b>To</b>&nbsp;	 <u>Matthew Jackson</u><br><b>From</b>&nbsp;	 <u>Oliver Mummery</u><br><b>Subject</b>&nbsp;	 Thanks
+______________________________________________________________________________
+Hi Matt
+
+<span class='blue'>Thanks for your help with the film festival</span>. <span class='blue'>I’m really sorry that</span> I called you at the weekend but there were some problems with our team in Venice. Sally Decker was ill and that’s why we needed you to work on Saturday and Sunday.
+
+Please send me <span class='blue'>an invoice</span> for your work and <span class='blue'>I’ll pay it as soon as I can</span>. 
+
+<span class='blue'>Thanks once again</span>. I really appreciate all your hard work.
+Best wishes
+Ollie
+
+
+]]></text>
+	
+</exercise>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Socializing">
+<title>
+    <![CDATA[<b>Describing a trip</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">How was the flight?</sentence>
+      <sentence name="B">[It was fine, thanks.]</sentence>
+	  <transfer>It was fine, thanks.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">How was the hotel?</sentence>
+      <sentence name="B">[It was nice.]</sentence>
+	  <transfer>It was nice.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">How was the hotel?</sentence>
+      <sentence name="B">[It was fine. ]It was a standard three-star hotel.</sentence>
+      <transfer>It was fine.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">How was the hotel?</sentence>
+      <sentence name="B">[It was terrible. ]I didn't like it at all.</sentence>
+      <transfer>It was terrible.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">How was the trip to Singapore?</sentence>
+      <sentence name="B">[It was very interesting.]</sentence>
+	  <transfer>It was very interesting.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">How was the food in Singapore?</sentence>
+      <sentence name="B">[It was delicious. ]Really good!</sentence>
+	  <transfer>It was delicious.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">How was the food in London?</sentence>
+      <sentence name="B">[It was OK.]</sentence>
+	  <transfer>It was OK.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">How was the conference?</sentence>
+      <sentence name="B">[It was OK, but one presentation was really boring.]</sentence>
+	  <transfer>It was OK, but xxx was really boring.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">How was the train?</sentence>
+      <sentence name="B">[Good. It was really comfortable.]</sentence>
+	  <transfer>Good. It was really comfortable.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">How long did your journey take?</sentence>
+      <sentence name="B">[It took about twelve hours.]</sentence>
+      <transfer>It took about xxx hours.</transfer>
+    </dialogue>
+  </exercise>

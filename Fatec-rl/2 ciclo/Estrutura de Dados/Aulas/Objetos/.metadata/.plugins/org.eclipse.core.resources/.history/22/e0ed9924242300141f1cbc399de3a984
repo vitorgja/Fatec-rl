@@ -1,0 +1,44 @@
+import java.util.Scanner;
+
+
+public class AplicContador {
+
+	public static void main(String[] args) {
+		int i,opc;
+		Scanner entrada = new Scanner(System.in);
+		Contador meuContador = new Contador();
+		
+		do{
+			System.out.println("1- incrementar");
+			System.out.println("2- decrementar");
+			System.out.println("3- ");
+			System.out.println("4- ");
+			System.out.println("5- Sair");
+			
+			System.out.print("Digite a Opção: ");
+			opc= entrada.nextInt();
+			
+			switch(opc){
+				case 1:
+					System.out.println("1- incrementar");
+					for(i=0;i<=10;i++){
+						meuContador.incrementar();
+						System.out.println(meuContador.pegavalor());
+					}
+				case 2:
+				case 3:
+				case 4:
+				case 5:
+					System.out.println("Voçê escoleu Sair!");
+				default :
+					System.out.println("Digite a opção correta!");	
+			}
+		}while(opc==5);
+		
+		
+		//meuContador.close();
+		entrada.close();
+
+	}
+
+}

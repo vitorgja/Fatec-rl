@@ -1,0 +1,40 @@
+package Listas;
+
+public class Exercicio_12 {
+
+	public static void main(String[] args) {
+		//	12. Calcular e mostrar o valor aproximado de PI, calculado usando-se a série
+		//	s=(1/1^3)+(1/3^3)+(1/5^3)+(1/7^3)+...
+		//	sendo .
+		//pi = 3RaizQ(s*32)
+		//	Utilize, para tal cálculo, a série com 51 termos. 
+	
+		System.out.println("pi "+Math.PI);
+		
+		int s=0,iFor,iWhile=1,iDoWhile=1;
+		double pi;				
+		// For
+		for(iFor=1;iFor<=20;iFor++){
+			s=s+(1/iFor^3);					
+		}
+		pi = 3*(Math.sqrt(s *32));
+		System.out.println(pi);
+		// While
+		
+		while(iWhile<=20){
+			
+			iWhile++;
+		}
+		
+		// Do While
+		
+		do{								
+			
+			iDoWhile++;
+		}while(iDoWhile<=20);
+		
+		
+	}	
+	
+}	
+	

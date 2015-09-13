@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multiChoice_style.xml">
+<title><![CDATA[<b>This is the title:</b> Exercise 1]]></title>
+<rubric><![CDATA[Interactive test 2]]></rubric>
+<audiopath>assets/Sound1_</audiopath>
+<sentence number="1" correct="1">Sony produces _____ equipment.
+<audiotext></audiotext>
+<ans number="1">electronic</ans>
+<ans number="2">cars</ans>
+<ans number="3">software</ans>
+
+</sentence>
+<sentence number="2" correct="2">Glaxo Smith Klein makes medicines. It's a _____ company.
+<audiotext></audiotext>
+<ans number="1">software</ans>
+<ans number="2">pharmaceutical</ans>
+<ans number="3">recruitment</ans>
+
+</sentence>
+<sentence number="3" correct="2">We work in _____ for a hotel company. 
+<audiotext></audiotext>
+<ans number="1">electronics</ans>
+<ans number="2">hospitality</ans>
+<ans number="3">production</ans>
+
+</sentence>
+<sentence number="4" correct="3">I work in 
+<audiotext></audiotext>
+<ans number="1">People Resources.</ans>
+<ans number="2">Man Resources.</ans>
+<ans number="3">Human Resources.</ans>
+
+</sentence>
+<sentence number="5" correct="3">It buys and sells houses. It's a real _____ company.
+<audiotext></audiotext>
+<ans number="1">house</ans>
+<ans number="2">property</ans>
+<ans number="3">estate</ans>
+
+</sentence>
+<sentence number="6" correct="1">Kikkoman _____ soy sauce to North America, Australia, and Europe.
+<audiotext></audiotext>
+<ans number="1">exports</ans>
+<ans number="2">produces</ans>
+<ans number="3">buys</ans>
+
+</sentence>
+<sentence number="7" correct="1">The company _____ 3,000 people in total.
+<audiotext></audiotext>
+<ans number="1">employs</ans>
+<ans number="2">provides</ans>
+<ans number="3">develops</ans>
+
+</sentence>
+<sentence number="8" correct="2">We import sugar _____ Jamaica.
+<audiotext></audiotext>
+<ans number="1">of</ans>
+<ans number="2">from</ans>
+<ans number="3">by</ans>
+
+</sentence>
+<sentence number="9" correct="3">We _____ a delivery service for our products.
+<audiotext></audiotext>
+<ans number="1">produce</ans>
+<ans number="2">make</ans>
+<ans number="3">provide</ans>
+
+</sentence>
+<sentence number="10" correct="1">The company _____ a restaurant and a food shop.
+<audiotext></audiotext>
+<ans number="1">has</ans>
+<ans number="2">'ve</ans>
+<ans number="3">have</ans>
+
+</sentence>
+<sentence number="11" correct="2">_____ the company sell cooking oil?
+<audiotext></audiotext>
+<ans number="1">Is</ans>
+<ans number="2">Does</ans>
+<ans number="3">Do</ans>
+
+</sentence>
+<sentence number="12" correct="3">Do you produce films?
+<audiotext></audiotext>
+<ans number="1">Yes, we does.</ans>
+<ans number="2">Yes, we produce.</ans>
+<ans number="3">Yes, we do.</ans>
+
+</sentence>
+<sentence number="13" correct="1">Do you export medicines?
+<audiotext></audiotext>
+<ans number="1">No, we don't.</ans>
+<ans number="2">No, we doesn't.</ans>
+<ans number="3">No, we not.</ans>
+
+</sentence>
+<sentence number="14" correct="3">Does your company _____ cars?
+<audiotext></audiotext>
+<ans number="1">production</ans>
+<ans number="2">produces</ans>
+<ans number="3">produce</ans>
+
+</sentence>
+<sentence number="15" correct="2">_____ you work for an Italian company?
+<audiotext></audiotext>
+<ans number="1">Is</ans>
+<ans number="2">Do</ans>
+<ans number="3">Does</ans>
+
+</sentence>
+<sentence number="16" correct="2">_____ in Brazil?
+<audiotext></audiotext>
+<ans number="1">Work they</ans>
+<ans number="2">Do they work</ans>
+<ans number="3">Does they work</ans>
+
+</sentence>
+<sentence number="17" correct="3">Do you work in London?
+<audiotext></audiotext>
+<ans number="1">Yes, I work.</ans>
+<ans number="2">Yes, I does.</ans>
+<ans number="3">Yes, I do.</ans>
+
+</sentence>
+<sentence number="18" correct="1">Can you tell me the prices?
+<audiotext></audiotext>
+<ans number="1">Certainly.</ans>
+<ans number="2">For certain.</ans>
+<ans number="3">Certain.</ans>
+
+</sentence>
+<sentence number="19" correct="3">_____ I book a private room, please?
+<audiotext></audiotext>
+<ans number="1">Do</ans>
+<ans number="2">Does</ans>
+<ans number="3">Can</ans>
+
+</sentence>
+<sentence number="20" correct="2">Good morning, Morrison Communication. _____ you?
+<audiotext></audiotext>
+<ans number="1">Can help I</ans>
+<ans number="2">Can I help</ans>
+<ans number="3">I can help</ans>
+
+</sentence>
+<sentence number="21" correct="1">Can you _____ me your name, please?
+<audiotext></audiotext>
+<ans number="1">give</ans>
+<ans number="2">speak</ans>
+<ans number="3">do</ans>
+
+</sentence>
+<sentence number="22" correct="3">Can you _____ more slowly?
+<audiotext></audiotext>
+<ans number="1">tell</ans>
+<ans number="2">repeat</ans>
+<ans number="3">speak</ans>
+
+</sentence>
+<sentence number="23" correct="2">Can you _____ my booking by email?
+<audiotext></audiotext>
+<ans number="1">say</ans>
+<ans number="2">confirm</ans>
+<ans number="3">book</ans>
+
+</sentence>
+<sentence number="24" correct="1">Can I have a special price?
+<audiotext></audiotext>
+<ans number="1">I'm sorry, but we don't have special prices for food.</ans>
+<ans number="2">Of course, but we don't have special prices for food.</ans>
+<ans number="3">Certainly, but we don't have special prices for food.</ans>
+
+</sentence>
+<sentence number="25" correct="2">Can you repeat that, please?
+<audiotext></audiotext>
+<ans number="1">I'm sure.</ans>
+<ans number="2">Sure.</ans>
+<ans number="3">It's sure.</ans>
+
+</sentence>
+</exercise>

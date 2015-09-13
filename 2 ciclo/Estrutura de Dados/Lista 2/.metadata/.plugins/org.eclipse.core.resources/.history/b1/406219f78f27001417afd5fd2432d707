@@ -1,0 +1,16 @@
+package Listas;
+
+public class Exercicio_05 {
+
+	public static void main(String[] args) {
+		
+		// 5. Calcular e mostrar o seguinte produto: 1.2.3.4.5 
+		
+		// variaveis
+		int iFor,iWhile=1, iDoWhile=1;
+		
+		//for
+
+	}
+
+}

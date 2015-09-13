@@ -1,0 +1,40 @@
+<html>
+<head>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
+</script>
+<script type="text/javascript">
+$(main);
+	function main(){
+		$("#email").blur(function(){
+			var email = $("#email").val(); 
+			var sl = Array.prototype.slice.call(email);
+			var mapP = sl.map(function(x){return x});
+			
+			// vitor@algumacoisa
+
+			var aux = mapP.reduce(function(y,x){
+				if (x == "@"){
+					return y+"@"; 
+				}
+				return y;
+			},"");
+			if(aux=="@"){
+				$("#b1").show();
+			}else{
+				$("#b1").hide();
+			}
+		});
+	}
+</script>
+</head>
+<body>
+<form>
+
+Email: <input type="text" name="email" id="email">
+
+</form>
+<br>
+<button id="b1">Ok</button>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct response.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Hello, my name's Bart Joos.
+ </sentence><options>
+<option answer="correct">How do you do?</option>
+<option>How do you?</option>
+
+</options>
+</question><question>
+<sentence>This is my assistant, Olivia Peters. </sentence><options>
+<option answer="correct">Pleased to meet you.</option>
+<option>Please to meet you.</option>
+
+</options>
+</question><question>
+<sentence>It's good to see you again.
+ </sentence><options>
+<option>It's good.</option>
+<option answer="correct">And you.</option>
+
+</options>
+</question><question>
+<sentence>How are you?
+ </sentence><options>
+<option>I fine.</option>
+<option answer="correct">I'm fine.</option>
+
+</options>
+</question><question>
+<sentence>I'm Laura, Mr Kanwar's assistant. </sentence><options>
+<option>Nice meet you.</option>
+<option answer="correct">Nice to meet you.</option>
+
+</options>
+</question>
+</questions></exercise>

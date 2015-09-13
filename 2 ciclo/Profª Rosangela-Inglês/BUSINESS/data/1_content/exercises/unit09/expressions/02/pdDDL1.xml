@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Choose the correct option to complete the conversation.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>[#] the difference between the train and the plane?</sentence><options>
+<option answer="correct">What's</option>
+<option>How's</option>
+
+</options>
+</question><question>
+<sentence>The [#] of the plane is that it's quicker.</sentence><options>
+<option>disadvantage</option>
+<option answer="correct">advantage</option>
+
+</options>
+</question><question>
+<sentence>But the [#] is that it's more expensive?</sentence><options>
+<option>advantage</option>
+<option answer="correct">disadvantage</option>
+
+</options>
+</question><question>
+<sentence>No, the price of the plane is similar [#] the price of the train.</sentence><options>
+<option answer="correct">to</option>
+<option>with</option>
+
+</options>
+</question><question>
+<sentence>OK. But last year there were a lot of problems with the planes. Are they [#] now?</sentence><options>
+<option answer="correct">better</option>
+<option>best</option>
+
+</options>
+</question><question>
+<sentence>Yes, they are.</sentence>
+</question><question>
+<sentence>So, [#] choose the plane.</sentence><options>
+<option>we</option>
+<option answer="correct">let's</option>
+
+</options>
+</question><question>
+<sentence>OK. I'll ask Nick to book the flights.</sentence>
+</question>
+</questions></exercise>

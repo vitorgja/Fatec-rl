@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Type in the nationality using the country in orange.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Hi John. Where are you from?</sentence>
+</question><question>
+<sentence>I'm [#]. I'm from New York.</sentence>
+<answers>
+<answer>American</answer>
+<answer>AMERICAN</answer>
+</answers>
+<hint pos="right">USA</hint>
+</question><question>
+<sentence>Great. I'm [#]. I'm from Cape Town.</sentence>
+<answers>
+<answer>South African</answer>
+<answer>SOUTH AFRICAN</answer>
+</answers>
+<hint pos="right">South Africa</hint>
+</question><question>
+<sentence>This is Satako. She's [#].</sentence>
+<answers>
+<answer>Japanese</answer>
+<answer>JAPANESE</answer>
+</answers>
+<hint pos="right">Japan</hint>
+</question><question>
+<sentence>Hi Satako.</sentence>
+</question><question>
+<sentence>And this is Anja. She's [#].</sentence>
+<answers>
+<answer>Polish</answer>
+<answer>POLISH</answer>
+</answers>
+<hint pos="right">Poland</hint>
+</question><question>
+<sentence>Hello Anja. </sentence>
+</question><question>
+<sentence>And here's Tony. He's [#].</sentence>
+<answers>
+<answer>British</answer>
+<answer>BRITISH</answer>
+</answers>
+<hint pos="right">UK</hint>
+</question>
+</questions></exercise>

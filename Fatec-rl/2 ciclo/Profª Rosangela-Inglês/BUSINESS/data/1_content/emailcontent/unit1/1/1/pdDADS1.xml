@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise stylesheet="pgdads1_em">
+<rubric><![CDATA[<b>Complete the email with the correct words.</b>]]></rubric>
+<questions>
+<sentence>Dear Mr Jones</sentence>
+<sentence>Thank you for [your] email about our company.</sentence>
+<sentence>I [am] Dr Murphy's assistant.</sentence>
+<sentence>Dr Murphy [is] the head of sales here at GGV.</sentence>
+<sentence>We [are] a technical sales and service company.</sentence>
+<sentence>There is more information on [our] website and in the PDF attachment to this email.</sentence>
+<sentence>Best wishes</sentence>
+<sentence>Joseph Grant</sentence>
+
+</questions></exercise>

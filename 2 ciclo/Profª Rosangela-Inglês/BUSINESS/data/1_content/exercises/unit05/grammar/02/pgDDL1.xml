@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Choose the correct words to complete each sentence.
+</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Tom and Dan [#] at the meeting yesterday.</sentence><options>
+<option>wasn't</option>
+<option answer="correct">weren't</option>
+
+</options>
+</question><question>
+<sentence>I [#] really busy last week.</sentence><options>
+<option>were</option>
+<option answer="correct">was</option>
+
+</options>
+</question><question>
+<sentence>The meeting [#] at the Century Hotel.</sentence><options>
+<option answer="correct">wasn't</option>
+<option>weren't</option>
+
+</options>
+</question><question>
+<sentence>[#] you email the report yesterday?</sentence><options>
+<option>Do</option>
+<option answer="correct">Did</option>
+
+</options>
+</question><question>
+<sentence>Why didn't he [#] to speak to you?</sentence><options>
+<option answer="correct">want</option>
+<option>wanted</option>
+
+</options>
+</question><question>
+<sentence>We didn't [#] the hotel.</sentence><options>
+<option>booked</option>
+<option answer="correct">book</option>
+
+</options>
+</question><question>
+<sentence>I changed jobs. I [#] work here now.</sentence><options>
+<option> didn't</option>
+<option answer="correct">don't</option>
+
+</options>
+</question><question>
+<sentence>Henry [#] speak to me yesterday.</sentence><options>
+<option answer="correct">didn't</option>
+<option>doesn't</option>
+
+</options>
+</question>
+</questions></exercise>

@@ -1,0 +1,53 @@
+package Listas;
+
+public class Exercicio_02 {
+	public static void main(String[] args) {
+		//2. Mostrar a seguinte série: 1, 3, 5, 7,..., 99 
+		
+		
+		
+				// Declaração de Variaveis
+				int iFor,iWhile,iDoWhile;
+				
+				// Inicio
+				
+				// For
+				for(iFor=1;iFor<=99;iFor++){
+					if(iFor %2 == 1){
+						if(iFor !=99){
+							System.out.print(iFor+", ");
+						}else{
+							System.out.println(iFor+".");
+						}
+					}
+					
+				}
+				
+				//While
+				iWhile = 1;
+				while(iWhile<=99){
+					if(iFor %2 == 1){
+						if(iWhile!=99){
+							System.out.print(iWhile+", ");
+						}else{
+							System.out.println(iWhile+".");
+						}
+					}
+					iWhile++;
+				}
+				
+				//Do While
+				iDoWhile=1;
+				do{
+					if(iDoWhile %2 == 1){
+						if(iDoWhile!=99){
+							System.out.print(iDoWhile+", ");
+						}else{
+							System.out.println(iDoWhile+".");
+						}
+					}
+					iDoWhile++;
+				}while(iDoWhile<=99);
+				
+	}
+}

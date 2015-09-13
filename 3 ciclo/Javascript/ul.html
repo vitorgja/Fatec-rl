@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<script>
+			function mostrar(){
+				var ul = document.getElementsByTagName("ul")[0];
+				
+				//document.write(ul);
+				var lis = ul.getElementsByTagName("li");
+				for(var i=0;i<= lis.length-1;i++){
+					document.write( lis[i].innerHTML + "<br>");
+				}
+			}
+		</script>
+	</head>
+	
+	<body>
+		<ul>
+			<li>um</li>
+			<li>dois</li>
+			<li>tres</li>
+			<li>quatro</li>
+			<li>cinco</li>
+		</ul>
+
+		<button onclick="mostrar();">CLICK</button>
+		<script>
+			
+		</script>
+	</body>
+</html>

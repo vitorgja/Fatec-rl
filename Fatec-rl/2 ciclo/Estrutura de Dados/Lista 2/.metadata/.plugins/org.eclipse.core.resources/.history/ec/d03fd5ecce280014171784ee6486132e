@@ -1,0 +1,55 @@
+package Listas;
+
+import java.util.Scanner;
+
+public class Exercicio_11 {
+
+	public static void main(String[] args) {
+		// 11. Calcular e mostrar o valor de 
+		// Y = X+2X+3X+4X+5X+…+20X, sendo X obtido via teclado. 
+		
+		Scanner entrada = new Scanner(System.in);
+		int x,iFor,iWhile=1,iDoWhile=1;
+		
+		System.out.print("Digite um numero: ");
+		x=entrada.nextInt();
+		
+		// For
+					for(iFor=1;iFor<=x;iFor++){
+											
+						if(iFor!=n){
+							System.out.print(iFor+"*");
+						}else{
+							System.out.println(iFor+"= "+fat);
+						}
+					}
+					
+					// While
+					fat=1;
+					while(iWhile<=x){
+											
+						if(iWhile != x){
+							System.out.print(iWhile+"*");
+						}else{
+							System.out.println(iWhile+"= ");
+						}
+						iWhile++;
+					}
+					
+					// Do While
+					fat=1;
+					do{
+						fat=fat*iDoWhile;
+										
+						if(iDoWhile != n){
+							System.out.print(iDoWhile+"*");
+						}else{
+							System.out.println(iDoWhile+"= "+fat);
+						}
+						iDoWhile++;
+					}while(iDoWhile<=n);
+		
+		entrada.close();
+	}
+
+}

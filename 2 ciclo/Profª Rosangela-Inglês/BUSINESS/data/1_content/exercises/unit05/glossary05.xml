@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<exercise template="glossary">
+ <audioPath>data/1_content/glossary/</audioPath>
+	<word str="apologize">
+		<definition>to say that you are sorry for sth</definition>
+		<phonetics><![CDATA[/@"pQl@dZaIz/ ]]></phonetics>
+		<example>We apologize for the late departure of this flight.</example>
+	</word>
+	<word str="apply for a job">
+		<definition>to make a formal request for a job</definition>
+		<phonetics><![CDATA[/@"plaI fO;(r)/ ]]></phonetics>
+		<example>He applied for a senior job in the marketing department.</example>
+	</word>
+	<word str="appointment">
+		<definition>a formal arrangement to meet or visit sb </definition>
+		<phonetics><![CDATA[/@"pOIntm@nt/ ]]></phonetics>
+		<example>She made an appointment to see her lawyer.</example>
+	</word>
+	<word str="attach">
+		<definition>to send a copy of a document with an email</definition>
+		<phonetics><![CDATA[/@"t&amp;tS/ ]]></phonetics>
+		<example>I have attached the agenda for next week’s meeting.</example>
+	</word>
+	<word str="attachment">
+		<definition>a copy of a document that is sent with an email</definition>
+		<phonetics><![CDATA[/@"t&amp;tSm@nt/ ]]></phonetics>
+		<example>I got the email, but for some reason I didn’t get the attachment.</example>
+	</word>
+	<word str="bill">
+		<definition>to send sb a bill (=a document showing how much they owe for goods or services)</definition>
+		<phonetics><![CDATA[/bIl/]]></phonetics>
+		<example>Her job is to bill customers and chase unpaid invoices.</example>
+	</word>
+	<word str="branding">
+		<definition>the use of a name, logo (=symbol) and design for a company or group of products, so that people will recognize them</definition>
+		<phonetics><![CDATA[/"br&amp;ndIN/]]></phonetics>
+		<example>We use corporate branding on all our letters.</example>
+	</word>
+	<word str="business card">
+		<definition>a small card printed with sb’s name, job and details of the company they work for</definition>
+		<phonetics><![CDATA[/"bIzn@s kA;d/ ]]></phonetics>
+		<example>They exchanged business cards.</example>
+	</word>
+	<word str="correspondence">
+		<definition>letters that a person or company receives or sends</definition>
+		<phonetics><![CDATA[/%kQrI"spQnd@ns/ ]]></phonetics>
+		<example>The first thing I do every day is look through my correspondence.</example>
+	</word>
+	<word str="CV  [BrE]">
+		<definition>a written record of your education and the jobs you have done, that you send when you are applying for a job</definition>
+		<phonetics><![CDATA[/%si; "vi;/]]></phonetics>
+		<example>Complete the application form and attach your CV.</example>
+	</word>
+	<word str="delivery note">
+		<definition>a form that you sign when goods or documents are delivered</definition>
+		<phonetics><![CDATA[/dI"lIv@ri n@Ut/]]></phonetics>
+		<example>Don’t sign the delivery note until you have checked the order is complete.</example>
+	</word>
+	<word str="folder">
+		<definition>a place for storing documents or computer files </definition>
+		<phonetics><![CDATA[/"f@Uld@(r)/ ]]></phonetics>
+		<example>I keep copies of all my invoices in this folder.</example>
+	</word>
+	<word str="forward">
+		<definition>to send or pass goods or information to sb</definition>
+		<phonetics><![CDATA[/"fO;w@d/]]></phonetics>
+		<example>He got a complaint from a customer, which he forwarded to me.</example>
+	</word>
+	<word str="hard copy">
+		<definition>information from a computer that has been printed out</definition>
+		<phonetics><![CDATA[/%hA;d "kQpi/ ]]></phonetics>
+		<example>Can you send everyone a hard copy of the report?</example>
+	</word>
+	<word str="invoice">
+		<definition>a list of goods that have been sold or work that has been done, showing what sb must pay  </definition>
+		<phonetics><![CDATA[/"InvOIs/ ]]></phonetics>
+		<example>A supplier called to ask why her invoice had not been paid.</example>
+	</word>
+	<word str="item">
+		<definition>one single thing that can be bought</definition>
+		<phonetics><![CDATA[/"aIt@m/ ]]></phonetics>
+		<example>Can I pay for each item separately?</example>
+	</word>
+	<word str="meeting">
+		<definition>an occasion when people meet together to discuss or decide sth</definition>
+		<phonetics><![CDATA[/"mi;tIN/]]></phonetics>
+		<example>We have a team meeting every Monday morning.</example>
+	</word>
+	<word str="mistake">
+		<definition>something that is not correct, or produces the wrong result</definition>
+		<phonetics><![CDATA[/mIs"teIk/ ]]></phonetics>
+		<example>I made a mistake and sent the email to the wrong person.</example>
+	</word>
+	<word str="order form">
+		<definition>a document that is used for ordering goods</definition>
+		<phonetics><![CDATA[/"O;d@ fO;m/]]></phonetics>
+		<example>Don’t forget to put the delivery address on the order form.</example>
+	</word>
+	<word str="paperwork">
+		<definition>the written work that is part of a job, such as filling in forms or writing letters</definition>
+		<phonetics><![CDATA[/"peIp@w3;k/]]></phonetics>
+		<example>I have an assistant to help me with my paperwork.</example>
+	</word>
+	<word str="presentation">
+		<definition>a meeting at which a product, idea, or piece of work is shown to a group of people</definition>
+		<phonetics><![CDATA[/%prez@n"teISn/ ]]></phonetics>
+		<example>The sales manager will give a presentation on the new line of products.</example>
+	</word>
+	<word str="print">
+		<definition>to produce letters, pictures, etc. on paper using a printer (a machine)</definition>
+		<phonetics><![CDATA[/prInt/]]></phonetics>
+		<example>I printed a copy of the order for my files.</example>
+	</word>
+	<word str="receipt">
+		<definition>a document that shows that goods or services have been paid for</definition>
+		<phonetics><![CDATA[/rI"si;t/ ]]></phonetics>
+		<example>Keep the receipt, so you can claim your expenses.</example>
+	</word>
+	<word str="receive">
+		<definition>to get something which sb has sent to you</definition>
+		<phonetics><![CDATA[/rI"si;v/ ]]></phonetics>
+		<example>Did you receive the files I sent you?</example>
+	</word>
+	<word str="save">
+		<definition>to put information on a computer or on a disk so the information is not lost</definition>
+		<phonetics><![CDATA[/seIv/]]></phonetics>
+		<example>Don’t forget to save your work regularly.</example>
+	</word>
+	<word str="scan">
+		<definition>to copy a document using a special machine and save it as a computer file</definition>
+		<phonetics><![CDATA[/sk&amp;n/]]></phonetics>
+		<example>How do I scan a photo and attach it to an email?</example>
+	</word>
+	<word str="send">
+		<definition>to make a letter, package, or email go to a place</definition>
+		<phonetics><![CDATA[/send/]]></phonetics>
+		<example>Could you send me some pricing information please?</example>
+	</word>
+	<word str="task">
+		<definition>a piece of work that sb has to do</definition>
+		<phonetics><![CDATA[/tA;sk/]]></phonetics>
+		<example>Our first task is to set up the computer and printer.</example>
+	</word>
+</exercise>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multiChoice_style.xml">
+<title><![CDATA[<b>This is the title:</b> Exercise 1]]></title>
+<rubric><![CDATA[Interactive test 4]]></rubric>
+<audiopath>assets/Sound1_</audiopath>
+<sentence number="1" correct="3">__________ your credit card in the machine here.
+<audiotext></audiotext>
+<ans number="1">Go</ans>
+<ans number="2">Take</ans>
+<ans number="3">Put</ans>
+
+</sentence>
+<sentence number="2" correct="2">You can use this ticket machine. Just __________ the screen here.
+<audiotext></audiotext>
+<ans number="1">insert</ans>
+<ans number="2">touch</ans>
+<ans number="3">call</ans>
+
+</sentence>
+<sentence number="3" correct="3">I need to switch __________ my mobile phone.
+<audiotext></audiotext>
+<ans number="1">over</ans>
+<ans number="2">down</ans>
+<ans number="3">off</ans>
+
+</sentence>
+<sentence number="4" correct="1">I can't use my mobile phone. The __________ is low.
+<audiotext></audiotext>
+<ans number="1">battery</ans>
+<ans number="2">connection</ans>
+<ans number="3">screen</ans>
+
+</sentence>
+<sentence number="5" correct="3">You can't __________ on to the Internet without a username.
+<audiotext></audiotext>
+<ans number="1">put</ans>
+<ans number="2">switch</ans>
+<ans number="3">log</ans>
+
+</sentence>
+<sentence number="6" correct="1">Click on the
+<audiotext></audiotext>
+<ans number="1">start menu.</ans>
+<ans number="2">begin menu.</ans>
+<ans number="3">go menu.</ans>
+
+</sentence>
+<sentence number="7" correct="3">I want to recharge my
+<audiotext></audiotext>
+<ans number="1">website.</ans>
+<ans number="2">PC.</ans>
+<ans number="3">laptop.</ans>
+
+</sentence>
+<sentence number="8" correct="2">Now key __________ your password.
+<audiotext></audiotext>
+<ans number="1">on</ans>
+<ans number="2">in</ans>
+<ans number="3">to</ans>
+
+</sentence>
+<sentence number="9" correct="2">I can't get a 
+<audiotext></audiotext>
+<ans number="1">wireless connect.</ans>
+<ans number="2">wireless connection.</ans>
+<ans number="3">connection wireless.</ans>
+
+</sentence>
+<sentence number="10" correct="1">I __________ work on Saturdays.
+<audiotext></audiotext>
+<ans number="1">always</ans>
+<ans number="2">at all times</ans>
+<ans number="3">every time</ans>
+
+</sentence>
+<sentence number="11" correct="2">In the afternoon,
+<audiotext></audiotext>
+<ans number="1">rarely I take breaks.</ans>
+<ans number="2">I rarely take breaks.</ans>
+<ans number="3">I take rarely breaks.</ans>
+
+</sentence>
+<sentence number="12" correct="1">They are here at 9 a.m and 
+<audiotext></audiotext>
+<ans number="1">they are never late.</ans>
+<ans number="2">they never are late.</ans>
+<ans number="3">never they are late.</ans>
+
+</sentence>
+<sentence number="13" correct="1">I work in London but I also __________ work in Manchester.
+<audiotext></audiotext>
+<ans number="1">sometimes</ans>
+<ans number="2">some time</ans>
+<ans number="3">sometime</ans>
+
+</sentence>
+<sentence number="14" correct="3">Do you __________  work here?
+<audiotext></audiotext>
+<ans number="1">usual</ans>
+<ans number="2">use</ans>
+<ans number="3">usually</ans>
+
+</sentence>
+<sentence number="15" correct="3">__________  do the robots work for?
+<audiotext></audiotext>
+<ans number="1">Where</ans>
+<ans number="2">How</ans>
+<ans number="3">Who</ans>
+
+</sentence>
+<sentence number="16" correct="1">__________ often do the workers take a day off?
+<audiotext></audiotext>
+<ans number="1">How</ans>
+<ans number="2">When</ans>
+<ans number="3">What</ans>
+
+</sentence>
+<sentence number="17" correct="2">When do you stop work?
+<audiotext></audiotext>
+<ans number="1">At the photocopier.</ans>
+<ans number="2">At 5 p.m.</ans>
+<ans number="3">At home.</ans>
+
+</sentence>
+<sentence number="18" correct="3">How often do you take a day off?
+<audiotext></audiotext>
+<ans number="1">Every time.</ans>
+<ans number="2">Some time.</ans>
+<ans number="3">Never.</ans>
+
+</sentence>
+<sentence number="19" correct="2">You need to enter the password with __________ case letters.
+<audiotext></audiotext>
+<ans number="1">small</ans>
+<ans number="2">lower</ans>
+<ans number="3">little</ans>
+
+</sentence>
+<sentence number="20" correct="1">Can you __________ me a hand?
+<audiotext></audiotext>
+<ans number="1">give</ans>
+<ans number="2">make</ans>
+<ans number="3">do</ans>
+
+</sentence>
+<sentence number="21" correct="3">I'm trying
+<audiotext></audiotext>
+<ans number="1">key in my password.</ans>
+<ans number="2">of key in my password.</ans>
+<ans number="3">to key in my password.</ans>
+
+</sentence>
+<sentence number="22" correct="1">How do I use the new Intranet?
+<audiotext></audiotext>
+<ans number="1">First of all, click here.</ans>
+<ans number="2">The first, click here.</ans>
+<ans number="3">At first, click here.</ans>
+
+</sentence>
+<sentence number="23" correct="1">Do you want some help?
+<audiotext></audiotext>
+<ans number="1">That would be good.</ans>
+<ans number="2">That is good.</ans>
+<ans number="3">That would good.</ans>
+
+</sentence>
+<sentence number="24" correct="2">Can you help me?
+<audiotext></audiotext>
+<ans number="1">It's sure.</ans>
+<ans number="2">Sure.</ans>
+<ans number="3">I'm sure.</ans>
+
+</sentence>
+<sentence number="25" correct="2">I don't know
+<audiotext></audiotext>
+<ans number="1">how log out.</ans>
+<ans number="2">how to log out.</ans>
+<ans number="3">log out.</ans>
+
+</sentence>
+</exercise>

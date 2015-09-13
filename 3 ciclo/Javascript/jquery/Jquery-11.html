@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script>
+
+			// $() no começo do codigo é para executar a funcao quando a biblioteca do JQuery carregar
+			$(	main );
+
+			function main(){
+				// #(serquilha) seleciona um objeto dom pelo seu ID
+				// .(ponto) seleciona um objeto dom pelo sua CLASS
+				$("input:text").focus( function(){
+					$(this).css({"background":"yellow","border-radius":"20px"});
+				});
+				$("input:text").blur( function(){
+					$(this).css({"background":"white","border-radius":"0px"});
+				});
+				$("input:text").keyup(function(){
+					alert($(this).val());
+				});
+			}
+		</script>
+	</head>
+	<body>
+		<form>
+			Nome: <input type="text" name="nome" id="n1">
+			Idade: <input type="text" name="nome" id="n2">
+			<input type="submit">
+		</form>
+	</body>
+</html>

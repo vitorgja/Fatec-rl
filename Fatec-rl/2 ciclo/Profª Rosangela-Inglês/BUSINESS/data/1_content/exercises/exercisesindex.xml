@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<topics>
+		<topic lable="Working with words 1" path="vocab/01"/>
+		<topic lable="Working with words 2" path="vocab/02"/>
+		<topic lable="Business communication 1" path="expressions/01"/>
+		<topic lable="Business communication 2" path="expressions/02"/>
+		<topic lable="Language at work 1" path="grammar/01"/>
+		<topic lable="Language at work 2" path="grammar/02"/>
+
+		<topic lable="TEST" path="test"/>
+	</topics>
+	<templateSet>
+		<template name="ddl1" stylesheet="pgddl1"/>
+		<template name="ddl1" stylesheet="pdddl1"/>
+		<template name="sdadr1" stylesheet="pgsdadr1"/>
+		<template name="ki1" stylesheet="pgki1"/>
+		<template name="ki1" stylesheet="pdki1"/>
+		<template name="dads1" stylesheet="pgdads1"/>
+		<template name="dads1" stylesheet="pddads1"/>
+		<template name="dadm1" stylesheet="dadm"/>
+		<template name="dadh1" stylesheet="pvdadh1"/>
+		<template name="cw1" stylesheet="pvcw1"/>
+		<template name="ccr1" stylesheet="pgccr1"/>
+		<template name="ccr1" stylesheet="pgccr2"/>
+	</templateSet>
+</settings>

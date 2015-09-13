@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Meetings">
+<title>
+    <![CDATA[<b>Agreeing</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">I think we should close at three o'clock on Friday.</sentence>
+      <sentence name="B">[Yes, I agree.]</sentence>
+      <transfer>Yes, I agree.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">We never have any customers on Friday afternoons.</sentence>
+      <sentence name="B">[That's true.]</sentence>
+      <transfer>That's true.</transfer>
+    </dialogue>
+  </exercise>

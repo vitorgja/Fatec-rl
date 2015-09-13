@@ -1,0 +1,155 @@
+﻿<!doctype html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<title>Fale</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+ 
+<div class="container">
+ 
+	<!-- SESSÃO HEADE (TOPO) -->
+	<header id="topo">
+		<div class="row">
+			<div class="col-md-12 pull-left">
+				<a href="index.html">
+					<img src="image/logo.png"  alt="logo da empresa" class="logo">
+					<img src="image/logotipo.png" alt="logotipo" id="logotipo" class="">
+				</a>
+			</div>
+    	</div>
+	</header>
+	</div>
+	
+	<!-- SESSÃO NAV (NEVAGEÇÃO PRINCIPAL) -->
+	<nav id="nav" class="blue" role="navigation">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<ul class="nav nav-pills pull-right">
+						<li><a href="index.html">Página Inicial</a></li>
+						<li><a href="empresa.html">Empresa</a></li>
+						<li><a href="passagens.html">Passagens Aéreas</a></li>
+						<li><a href="pacotes.html">Promoções</a></li>						
+						<li><a href="fale.html">Fale Conosco</a></li>						
+					</ul>
+				</div>
+			</div>
+		</div>
+	</nav>
+		
+	<!-- SESSÃO CONTENT (CONTEUDO) -->
+	<main id="conteudo">
+	<div class="container">
+	
+		<div class="row">
+			<div class="col-md-12">
+ 
+				<div class="page-header">
+					<h1>Fale Conosco</h1>
+				</div>
+	
+					<h5> Preencha o formulário abaixo e mande sua mensagem, crítica, elogio ou sugestão.</h5>
+ 
+	
+						<div id="alertS" class="alert alert-success text-center hidden"><b>Obrigado!</b><br>Sua mensagem foi enviada com sucesso, em breve responderemos.</div>
+                  		<div id="alertE" class="alert alert-danger text-center hidden"><b>Desculpe!</b><br>Sua mensagem não foi enviada com sucesso, tente novamente.</div>
+ 
+                  		<form role="form" class="well">
+							<p>
+								<label for="nome">Nome:</label>
+								<input type="text" name="txt_nome" id="nome" title="Nome" class="form-control" placeholder="Nome" size="45" maxlength="40">
+							</p>
+ 
+							<p>
+								<label for="telefone" >Telefone:</label>
+								<input type="tel" name="txt_telefone" id="telefone" title="Telefone" class="form-control" placeholder="(ddd) 00000000">
+							</p>
+			
+							<p>
+								<label for="cidade">Cidade:</label>
+								<input type="text" name="txt_cidade" id="cidade" title="Cidade" class="form-control" placeholder="Cidade">
+							</p>
+ 
+							<p>
+								<label class="form-group" for="email">E-mail:</label>
+								<input type="email" name="txt_email" id="email" title="email" class="form-control" id="Email1" placeholder="digite seu e-mail">
+							</p>
+ 
+							<p>
+								<label for="assunto">Assunto:</label>
+								<select class="form-control" name="assunto">
+									<option value="0">Selecione o Assunto</option>
+  									<option value="recla">Reclamação</option>
+  									<option value="suges">Sugestão</option>
+  									<option value="inf">Informação</option>
+  									<option value="elog">Elogio</option>
+  								</select>
+							</p>
+">
+ 
+							<p>
+								<label for="mensagem">Escreva a sua mensagem:</label>
+								<textarea class="form-control"name="txt_mensagem" id="mensagem" title="Mensagem" rows="3"></textarea>
+							</p>	
+ 
+							<p>
+								<button id="show-alert-sucess" type="button" class="btn btn-primary" value="enviar">Enviar</button>			
+							</p>
+							 
+						</form>
+ 
+			</div>
+		</div>
+ 
+		<div class="row">  
+			<div class="col-md-12">
+ 
+				<h4 class="text-center well">Ou entre em contato conosco atraves do número:  2525-3059</h4>
+ 
+		   </div>
+		 </div>		
+ 
+	
+	<br class="clearfix">
+	</div><!-- fecha class container -->
+	</main><!-- fecha id #conteudo -->
+ 
+ 
+	<!-- SESSÃO FOOTER (RODAPE) -->
+	<footer id="footer">
+		<div class="container">
+			<div class="text-center"> 		
+				<img src="image/rodapé.jpg" alt="Você pode pagar no cartão master card, visa, hipercard, no boleto, dividir em doze vezes no cartão sem juros">
+				<p class="text-muted">
+				Copyright © 2000 - 2013 www.higuer.com.br, TODOS OS DIREITOS RESERVADOS. As fotos, imagens, logotipos, marca, conjunto imagem, layout e trade dress aqui veiculados são de propriedade exclusiva. É vedada qualquer reprodução, total ou parcial, de qualquer elemento de identidade, sem expressa autorização. 
+				</p>
+			</div>
+		</div>
+	</footer>
+ 
+<!-- Scripts -->
+	<script src="js/jquery-1.10.2.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
+	<script src="js/bg-move.js"></script>
+ 
+	<script>
+	// Simula Mensagem sendo enviada pelo Form
+    $( "#show-alert-sucess" ).click(function() {
+          $( "#alertE" ).addClass("hidden");
+          $( "#alertS" ).removeClass("hidden");
+ 
+    });
+    $( "#show-alert-error" ).click(function() {
+        $( "#alertS" ).addClass("hidden");
+          $( "#alertE" ).removeClass("hidden");
+ 
+    });
+    </script>
+ 
+ 
+</body>
+</html>

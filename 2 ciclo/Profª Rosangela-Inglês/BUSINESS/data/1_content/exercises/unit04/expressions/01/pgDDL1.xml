@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct word to complete each sentence.
+</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Sorry, Pete. [#] you help me?</sentence><options>
+<option>Do</option>
+<option answer="correct">Can</option>
+</options>
+</question><question>
+<sentence>How [#] the new Intranet?</sentence><options>
+<option>I use</option>
+<option answer="correct">do I use</option>
+
+</options>
+</question><question>
+<sentence>I'm trying [#] in my password, but it doesn't work.</sentence><options>
+<option answer="correct">to key</option>
+<option>key</option>
+
+</options>
+</question><question>
+<sentence>Erica, do you want a [#]?</sentence><options>
+<option answer="correct">hand</option>
+<option>help</option>
+
+</options>
+</question><question>
+<sentence>I don't know how [#] to the new computer.</sentence><options>
+<option>log on</option>
+<option answer="correct">to log on</option>
+
+</options>
+</question><question>
+<sentence>You need [#] the password here.</sentence><options>
+<option answer="correct">to enter</option>
+<option>enter</option>
+
+</options>
+</question>
+</questions></exercise>

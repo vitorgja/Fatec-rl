@@ -1,0 +1,21 @@
+package Listas;
+
+import java.util.Scanner;
+
+public class Exercicio_10 {
+
+	public static void main(String[] args) {
+		// 10. Calcular e mostrar o fatorial de um número inteiro qualquer. 
+		
+		Scanner entrada = new Scanner(System.in);
+		int fat,iFor,iWhile=1,iDoWhile=1;
+		
+		for(iFor=1;iFor<=entrada;iFor++){
+			
+		}
+		
+		
+
+	}
+
+}

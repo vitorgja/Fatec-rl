@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<exercise template='textdisplay'>
+
+
+	<text><![CDATA[
+	
+<b>To</b>&nbsp;	 <u>vanderboonb@tozelshipping.com</u><br><b>From</b>&nbsp;	 <u>lowec@tozelshipping.com</u><br><b>Subject</b>&nbsp;	 New assistant manager
+______________________________________________________________________________
+Hi Bertil
+
+I’m just emailing about the new assistant manager position. There are two candidates: Dan Ellis and Anneke Meis.
+
+<span class='blue'>The CEO thinks</span> Anneke is the best candidate. Anneke has an MBA and she speaks Dutch, English, and French. <span class='blue'>But I don’t think we should choose</span> her because she has no experience in the shipping industry.
+
+<span class='blue'>Ruud thinks</span> we should give the job to Dan. He already works for us and he is very popular. Some people say he is not experienced enough to be a manager, <span class='blue'>but I disagree</span>. In fact, he’s very good at solving problems and working with a team. <span class='blue'>In my opinion</span>, he is the best candidate.
+
+What do you think?
+
+Chris
+
+
+]]></text>
+	
+</exercise>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Discussing problems">
+<title>
+    <![CDATA[<b>Additional phrases</b>]]>
+    </title>
+	<dialogue>
+    <sentence name="A">[Michael, do you have a moment?] I need some help.</sentence>
+    <sentence name="B">Sure.</sentence>
+	<transfer>xxx, do you have a moment?</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">[Can I help you with anything?]</sentence>
+    <sentence name="B">Yes, I need some help with the annual accounts.</sentence>
+	<transfer>Can I help you with anything?</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">Can you help me with my presentation for Bulgaria?</sentence>
+    <sentence name="B">[Yes, no problem. ]Just give me a minute.</sentence>
+	<transfer>Yes, no problem.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">Can I help you with the job interviews?</sentence>
+    <sentence name="B">[That would be great. ]They're a lot of work.</sentence>
+	<transfer>That would be great.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">What's the problem?</sentence>
+    <sentence name="B">[The problem is that there isn't a teacher.]</sentence>
+	<transfer>The problem is that there isn't a xxx.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">We don't have a teacher for the training course. It's a real problem.</sentence>
+    <sentence name="B">[I have an idea.] Ask the HR Manager to take the course.</sentence>
+	<transfer>I have an idea</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">You need to speak to the HR Department.</sentence>
+    <sentence name="B">[I'll do it right now.]</sentence>
+	<transfer>I'll do it right now.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">[I'm really sorry for the late delivery.]</sentence>
+    <sentence name="B">That's OK. Don't worry about it.</sentence>
+	<transfer>I'm really sorry for the late xxx.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">I spoke to Barton yesterday and they are happy with the new prices.</sentence>
+    <sentence name="B">That's great! [Thanks for doing that, Sam.]</sentence>
+	<transfer>Thanks for doing that, xxx.</transfer>
+    </dialogue>
+  </exercise>

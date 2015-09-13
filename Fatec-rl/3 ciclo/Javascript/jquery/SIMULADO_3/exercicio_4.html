@@ -1,0 +1,35 @@
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script>
+			$(main);
+			function main(){
+				$("#t1").blur(function(){
+					var search = $("#t1").val(); // campo de busca
+					var tds = $("td"); // pega os objetos td
+					var td = Array.prototype.slice.call(tds); // passa os objetos tds para vetor de objetos
+					td.filter(function(x){// vai passar de posição em posicao no vetor para verificar a condição
+						if($(x).html() == search){// se o conteudo do TD em questao for igual a busca
+							$(x).css("background-color","yellow"); // pinta ele de amarelo
+						}else{ // se nao
+							$(x).css("background-color","white"); // pinta ele de branco
+						}
+					});// fim do filter
+				}); //fim do blur
+			}// fim main
+		</script>
+	</head>
+	<body>
+		<form>
+			<input type="text" id="t1">
+		</form>
+		<table bodrder="1">
+			<th><td>clientes</td></th>
+			<tr><td>Joao</td></tr>
+			<tr><td>Maria</td></tr>
+			<tr><td>.....</td></tr>
+			<tr><td>Ultimo cliente</td></tr>
+		</table>
+	</body>
+</html>

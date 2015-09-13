@@ -1,0 +1,14 @@
+1 pilha
+1 fila
+
+
+
+AplicaPilhaFila
+
+com menu
+1 carregar a fila com aleatorios entre 20 e 50
+2 Transferir os elementos da fila para a pilha
+
+3 transferir da fila para pilha em ordem decrecente
+
+4 mostrar a pilha

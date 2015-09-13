@@ -1,0 +1,47 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<script src="../js/jquery.min.js"></script>
+		<script>
+			$(main);
+			function main(){
+				var vli = Array.prototype.slice.call($("li"));
+				var map = vli.map(function(x){ return parseInt( x.innerHTML );	});
+				var maior = map[0];
+				var redu = map.reduce(function(x,maior){
+					if(maior < x){
+						maior = x;
+						return maior;
+					}
+					return maior;
+				});
+				$("#btn").click(function(){
+					$("h1").html("O Maior é : "+redu)
+				});
+
+				$("#alt").click(function(){
+					var a = [];
+					for(var i=0; i<= vli.length;i++){
+						a[i] = prompt("novo valor do "+(i+1)+"º", vli[i].innerHTML);
+						if(a[i]!= NaN && a[i]!="" && a[i]!= null)
+							vli[i].innerHTML = a[i];
+						$(main);
+					}
+					$(main);
+				});
+			}
+		</script>
+	</head>
+	<body>
+		<h1>Verifique</h1>
+		<ul>
+			<li>100</li>
+			<li>250</li>
+			<li>500</li>
+			<li>300</li>
+			<li>150</li>
+		</ul>
+		<button id="btn">Verificar</button>
+		<button id="alt">Alterar Valores</button>
+	</body>
+</html>

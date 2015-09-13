@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening113.mp3</audio>
+  <text>
+    <![CDATA[<heading>60</heading>
+      <p>1 </p>
+      <p><b>A</b>  Here you are. The terminal is there.</p>
+      <p><b>B</b>  Thanks. How much is that?</p>
+      <p><b>A</b>  Eighteen pounds, please.</p>
+      <p><b>B</b>  Er ... here's twenty. Keep the change. Can I have a receipt?</p>
+      <p><b>A</b>  Sure.</p>
+      <p>2</p>
+      <p><b>A</b>  Can I help you?</p>
+      <p><b>B</b>  Er, I'd like something for my children. How much do these cost?</p>
+      <p><b>A</b>  They're twenty-nine euros each.</p>
+      <p><b>B</b>  OK. I need two. Can I pay by credit card?</p>
+      <p><b>A</b>  Sure.</p>
+      <p>3</p>
+      <p><b>A</b>  Hello. Can I help you?</p>
+      <p><b>B</b>  I'd like to change five hundred dollars into euros, please.</p>
+      <p><b>A</b>  Certainly. The exchange rate is one point two three today. Is that OK?</p>
+      <p><b>B</b>  Er ... what's the total?</p>
+      <p><b>A</b>  Four hundred and six euros. </p>
+      <p><b>B</b>  OK.</p>
+      <p><b>A</b>  Do you want the notes in fifties?</p>
+      <p><b>B</b>  Yes, that's fine.</p>
+      <p><b>A</b>  So that's four hundred and six euros and your receipt.</p>
+      <p><b>B</b>  Thanks very much.</p>]]>
+  </text>
+</exercise>

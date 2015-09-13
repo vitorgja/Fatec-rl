@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct option to complete the conversation.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Good morning. [#] I speak to David Savage, please?</sentence><options>
+<option answer="correct">Could</option>
+<option>Do</option>
+<option>Would</option>
+
+</options>
+</question><question>
+<sentence>I'm sorry, but he isn't [#].</sentence><options>
+<option>interested</option>
+<option answer="correct">available</option>
+<option>pleased</option>
+
+</options>
+</question><question>
+<sentence>Oh OK. Could I [#] a message, please?</sentence><options>
+<option answer="correct">leave</option>
+<option>make</option>
+<option>put</option>
+
+</options>
+</question><question>
+<sentence>Certainly.</sentence>
+</question><question>
+<sentence>My name is Ruth Bear. Can he call me back as soon [#] possible?</sentence><options>
+<option answer="correct">as</option>
+<option>when</option>
+<option>than</option>
+
+</options>
+</question><question>
+<sentence>Can I [#] a contact number, please?</sentence><options>
+<option>receive</option>
+<option>write</option>
+<option answer="correct">have</option>
+
+</options>
+</question><question>
+<sentence>Yes, it's 0141 496 0229.</sentence>
+</question><question>
+<sentence>Thank you. </sentence>
+</question>
+</questions></exercise>

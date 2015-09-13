@@ -1,0 +1,8 @@
+# Do not remove this line or mod_rewrite rules and search engine frindly URLs will stop working
+
+RewriteEngine On
+RewriteBase /FATEC/4ciclo/servidores1-PHP/MVC/
+
+# Duas RESGRAS
+# RewriteRule ([a-z0-9]+)/([a-z0-9]+)/$ app.php?m=$1&P=$2 [L]
+RewriteRule ([a-z0-9]+)/$ app.php?m=$1 [L]

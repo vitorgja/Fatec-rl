@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Complete the sentences. Choose the correct answer.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>There's a [#] choice of DVDs online than in music shops.</sentence><options>
+<option>wide</option>
+<option answer="correct">wider</option>
+
+</options>
+</question><question>
+<sentence>Our factory in Warsaw is [#] than our factory in Gdansk.</sentence><options>
+<option answer="correct">bigger</option>
+<option>more big</option>
+
+</options>
+</question><question>
+<sentence>ABC Taxis are [#] than the other ones.</sentence><options>
+<option answer="correct">more expensive</option>
+<option>much expensive</option>
+
+</options>
+</question><question>
+<sentence>Their office facilities are [#] than ours.</sentence><options>
+<option>very up-to-date</option>
+<option answer="correct">more up-to-date</option>
+
+</options>
+</question><question>
+<sentence>I prefer the AN Hotel because the staff are [#] than in the City Hotel.</sentence><options>
+<option answer="correct">friendlier</option>
+<option>friendly</option>
+
+</options>
+</question><question>
+<sentence>Selling laptop computers is [#] than selling mobile phones.</sentence><options>
+<option answer="correct">more difficult</option>
+<option>difficult</option>
+
+</options>
+</question>
+</questions></exercise>

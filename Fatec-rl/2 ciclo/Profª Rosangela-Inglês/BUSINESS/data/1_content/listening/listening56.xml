@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening56.mp3</audio>
+  <text>
+    <![CDATA[<heading>32</heading>
+      <p><b>Joe</b> Joe speaking.</p>
+      <p><b>Mandy</b> Hi, Joe. It's Mandy again.</p>
+      <p><b>Joe</b> Hi, Mandy.</p>
+      <p><b>Mandy</b> I'm sorry Joe, but we've got a problem with the order for Gosport. We did all the baseball bats and T-shirts yesterday, so I can ship them tomorrow. But the logos on the caps didn't work. The colours are wrong. We need to fix the machine today and print them again. I'm really sorry.</p>
+      <p><b>Joe</b> OK. Don't worry. I know the Purchasing Manager at Gosport, so I'll speak to him and explain the situation. But can you help me? We need to give another delivery date for this.</p>
+      <p><b>Mandy</b> Sure. I'll call the factory now and I'll let you know as soon as I can.</p>
+      <p><b>Joe</b> That would be great. Thanks a lot.</p>]]>
+  </text>
+</exercise>

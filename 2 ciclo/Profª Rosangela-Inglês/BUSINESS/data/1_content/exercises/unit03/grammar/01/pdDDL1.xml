@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct option to complete the conversation.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Tell me about your new office. Do you like it?</sentence>
+</question><question>
+<sentence>Yes, I do. I love it!</sentence>
+</question><question>
+<sentence>So, [#] there a car park for staff?</sentence><options>
+<option>are</option>
+<option>have</option>
+<option answer="correct">is</option>
+
+</options>
+</question><question>
+<sentence>Yes, there [#].</sentence><options>
+<option answer="correct">is</option>
+<option>are</option>
+<option>have</option>
+
+</options>
+</question><question>
+<sentence>Is there [#] canteen?</sentence><options>
+<option>any</option>
+<option answer="correct">a</option>
+<option>some</option>
+
+</options>
+</question><question>
+<sentence>No, there [#].</sentence><options>
+<option answer="correct">isn't</option>
+<option>aren't</option>
+<option>not</option>
+
+</options>
+</question><question>
+<sentence>Oh. Where do people eat?</sentence>
+</question><question>
+<sentence>There [#] some good restaurants near the office. We eat there.</sentence><options>
+<option answer="correct">are</option>
+<option>is</option>
+<option>have</option>
+
+</options>
+</question>
+</questions></exercise>

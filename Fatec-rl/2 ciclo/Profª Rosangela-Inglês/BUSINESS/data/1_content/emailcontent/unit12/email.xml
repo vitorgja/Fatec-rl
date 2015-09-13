@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<exercise template='textdisplay'>
+
+
+	<text><![CDATA[
+	
+<b>To</b>&nbsp;	 <u>Don Catt </u><br><b>From</b>&nbsp;	 <u>Rebecca Moon</u><br><b>Subject</b>&nbsp;	 Rogue Street concerts
+______________________________________________________________________________
+Dear Don
+
+Please find attached <span class='blue'>the schedule</span> for Rogue Street’s tour of the USA <span class='blue'>in the summer</span>. The band arrives <span class='blue'>on July 3</span> and returns to the UK <span class='blue'>on July 31</span>. <span class='blue'>The aim is</span> to play all the main music festivals in the country.
+
+<span class='blue'>We have already</span> booked most of the concerts but we are having problems contacting some of the organizers. <span class='blue'>Why don’t we</span> arrange a call next week to discuss this?
+
+We also need some more help. The band <span class='blue'>are going to</span> travel between some cities by bus. <span class='blue'>How much time do we need</span> to travel between San Diego and Seattle? And between Atlanta and Miami?
+
+Thanks for all your help on this project.
+
+With very best wishes
+
+Rebecca 
+
+
+]]></text>
+	
+</exercise>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric><![CDATA[Complete the sentences with the verb in orange using the <i>going to</i> future.]]></rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>[#] in the meeting tomorrow?</sentence>
+<answers>
+<answer>Are you going to be</answer>
+<answer>are you going to be</answer>
+<answer>ARE YOU GOING TO BE</answer>
+</answers>
+<hint pos="right">you / be</hint>
+</question><question>
+<sentence>No, because I [#] to Germany.</sentence>
+<answers>
+<answer>am going to fly</answer>
+<answer>AM GOING TO FLY</answer>
+<answer>'m going to fly</answer>
+<answer> 'M GOING TO FLY</answer>
+</answers>
+<hint pos="right">fly</hint>
+</question><question>
+<sentence>[#] Claudia Stein?</sentence>
+<answers>
+<answer>Are you going to see</answer>
+<answer>are you going to see</answer>
+<answer>ARE YOU GOING TO SEE</answer>
+</answers>
+<hint pos="right">you / see</hint>
+</question><question>
+<sentence>That's right. We [#] a meeting.</sentence>
+<answers>
+<answer>are going to have</answer>
+<answer>ARE GOING TO HAVE</answer>
+<answer>'re going to have</answer>
+<answer>'RE GOING TO HAVE</answer>
+</answers>
+<hint pos="right">have</hint>
+</question><question>
+<sentence>[#] you round Cologne?</sentence>
+<answers>
+<answer>Is she going to show</answer>
+<answer>is she going to show</answer>
+<answer>IS SHE GOING TO SHOW</answer>
+</answers>
+<hint pos="right">she / show</hint>
+</question><question>
+<sentence>Yes, I think so.</sentence>
+</question><question>
+<sentence>Great! You [#] it.</sentence>
+<answers>
+<answer>are going to enjoy</answer>
+<answer>ARE GOING TO ENJOY</answer>
+<answer>'re going to enjoy</answer>
+<answer>'RE GOING TO ENJOY</answer>
+</answers>
+<hint pos="right">enjoy</hint>
+</question><question>
+<sentence>Thanks. I think so too.</sentence>
+</question>
+</questions></exercise>

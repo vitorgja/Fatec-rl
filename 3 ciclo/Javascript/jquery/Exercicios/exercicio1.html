@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<script src="../js/jquery.min.js"></script>
+		<script>
+			$(main);
+			function main(){
+				var vli = Array.prototype.slice.call( $("li") );
+				var maior = 0; //parseInt(vli[0].innerHTML);
+				var f = function(x){
+					$(x).css("background-color","red");
+					var xX = $(x).html();
+					var xXx = parseInt(xX);
+					alert("x: "+x);
+					if(xXx == 4){
+						alert("opa entro aquie eim "+maior)
+						maior = xXx;
+						return xXx;
+					}else{
+						return maior;
+					}
+				};
+				var result = vli.reduce(f);
+				alert("FINAL "+$(result).html()+" --- maior: "+maior);
+			}
+		</script>
+	</head>
+	<body>
+		<ul>
+			<li>3</li>
+			<li>4</li>
+			<li>2</li>
+			<li>3</li>
+		</ul>
+	</body>
+</html>

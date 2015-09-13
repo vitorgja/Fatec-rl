@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multiChoice_style.xml">
+<title><![CDATA[<b>This is the title:</b> Exercise 1]]></title>
+<rubric><![CDATA[Interactive test 10]]></rubric>
+<audiopath>assets/Sound1_</audiopath>
+<sentence number="1" correct="2">Do you usually work _____ a team?
+<audiotext></audiotext>
+<ans number="1">at</ans>
+<ans number="2">in</ans>
+<ans number="3">of</ans>
+
+</sentence>
+<sentence number="2" correct="3">Can you _____ the meeting tomorrow?
+<audiotext></audiotext>
+<ans number="1">work</ans>
+<ans number="2">go</ans>
+<ans number="3">attend</ans>
+
+</sentence>
+<sentence number="3" correct="1">In this department, we _____ solutions to problems.
+<audiotext></audiotext>
+<ans number="1">find</ans>
+<ans number="2">solve</ans>
+<ans number="3">do</ans>
+
+</sentence>
+<sentence number="4" correct="1">What's a good way to develop new
+<audiotext></audiotext>
+<ans number="1">ideas?</ans>
+<ans number="2">decisions?</ans>
+<ans number="3">problems?</ans>
+
+</sentence>
+<sentence number="5" correct="3">Vincent solved
+<audiotext></audiotext>
+<ans number="1">the idea.</ans>
+<ans number="2">the solution.</ans>
+<ans number="3">the problem.</ans>
+
+</sentence>
+<sentence number="6" correct="2">There's a small problem _____ the new components.
+<audiotext></audiotext>
+<ans number="1">of</ans>
+<ans number="2">with</ans>
+<ans number="3">by</ans>
+
+</sentence>
+<sentence number="7" correct="3">I have a really _____ problem.
+<audiotext></audiotext>
+<ans number="1">grand</ans>
+<ans number="2">great</ans>
+<ans number="3">big</ans>
+
+</sentence>
+<sentence number="8" correct="2">We need an answer today. What's your _____ decision?
+<audiotext></audiotext>
+<ans number="1">end</ans>
+<ans number="2">final</ans>
+<ans number="3">last</ans>
+
+</sentence>
+<sentence number="9" correct="1">What are you working on
+<audiotext></audiotext>
+<ans number="1">at the moment?</ans>
+<ans number="2">in the moment?</ans>
+<ans number="3">on the moment?</ans>
+
+</sentence>
+<sentence number="10" correct="2">Is something wrong?
+<audiotext></audiotext>
+<ans number="1">Yes, the technical centre is having still problems.</ans>
+<ans number="2">Yes, the technical centre is still having problems.</ans>
+<ans number="3">Still yes, the technical centre is having problems.</ans>
+
+</sentence>
+<sentence number="11" correct="2">_____ James studying business management next year?
+<audiotext></audiotext>
+<ans number="1">Will</ans>
+<ans number="2">Is</ans>
+<ans number="3">Does</ans>
+
+</sentence>
+<sentence number="12" correct="1">The new delivery is arriving
+<audiotext></audiotext>
+<ans number="1">later today.</ans>
+<ans number="2">late of today.</ans>
+<ans number="3">today later.</ans>
+
+</sentence>
+<sentence number="13" correct="2">The R&D Department _____ with the problem at the moment.
+<audiotext></audiotext>
+<ans number="1">dealing</ans>
+<ans number="2">is dealing</ans>
+<ans number="3">dealt</ans>
+
+</sentence>
+<sentence number="14" correct="3">This is _____ product on the market. 
+<audiotext></audiotext>
+<ans number="1">best</ans>
+<ans number="2">better</ans>
+<ans number="3">the best</ans>
+
+</sentence>
+<sentence number="15" correct="1">Our company should have the _____ hotels in the world. 
+<audiotext></audiotext>
+<ans number="1">friendliest</ans>
+<ans number="2">friendly</ans>
+<ans number="3">friendlier</ans>
+
+</sentence>
+<sentence number="16" correct="3">What's _____ difference between the US and the Dutch supplier?
+<audiotext></audiotext>
+<ans number="1">bigger</ans>
+<ans number="2">more big</ans>
+<ans number="3">the biggest</ans>
+
+</sentence>
+<sentence number="17" correct="2">You have _____ job in the company.
+<audiotext></audiotext>
+<ans number="1">difficult</ans>
+<ans number="2">the most difficult</ans>
+<ans number="3">most difficult</ans>
+
+</sentence>
+<sentence number="18" correct="3">Our sales figures are the _____ in the market. Everyone is better than us!
+<audiotext></audiotext>
+<ans number="1">bad</ans>
+<ans number="2">very bad</ans>
+<ans number="3">worst</ans>
+
+</sentence>
+<sentence number="19" correct="1">Boris is moving to the Japan office!
+<audiotext></audiotext>
+<ans number="1">Wow! That's surprising.</ans>
+<ans number="2">Wow! That surprises.</ans>
+<ans number="3">Wow! That surprise.</ans>
+
+</sentence>
+<sentence number="20" correct="2">Do you think everyone should work from home on Fridays?
+<audiotext></audiotext>
+<ans number="1">I don't think.</ans>
+<ans number="2">I don't think so.</ans>
+<ans number="3">I don't think it.</ans>
+
+</sentence>
+<sentence number="21" correct="3">Is the problem in Glasgow?
+<audiotext></audiotext>
+<ans number="1">I don't so sure. It might be here.</ans>
+<ans number="2">I haven't so sure. It might be here.</ans>
+<ans number="3">I'm not so sure. It might be here.</ans>
+
+</sentence>
+<sentence number="22" correct="3">I think we should close the office in London.
+<audiotext></audiotext>
+<ans number="1">I'm agree.</ans>
+<ans number="2">We're agree.</ans>
+<ans number="3">I agree.</ans>
+
+</sentence>
+<sentence number="23" correct="1">It's a bad time to launch a new product now.
+<audiotext></audiotext>
+<ans number="1">I disagree. It's a very good time.</ans>
+<ans number="2">I not disagree. It's a very good time.</ans>
+<ans number="3">I'm not disagree. It's a very good time.</ans>
+
+</sentence>
+<sentence number="24" correct="2">What do you think?
+<audiotext></audiotext>
+<ans number="1">On my opinion, it's a good idea.</ans>
+<ans number="2">In my opinion, it's a good idea.</ans>
+<ans number="3">For my opinion, it's a good idea.</ans>
+
+</sentence>
+<sentence number="25" correct="2">We can't open the store on Sunday because we don't have the staff.
+<audiotext></audiotext>
+<ans number="1">That true.</ans>
+<ans number="2">That's true.</ans>
+<ans number="3">This true.</ans>
+
+</sentence>
+</exercise>

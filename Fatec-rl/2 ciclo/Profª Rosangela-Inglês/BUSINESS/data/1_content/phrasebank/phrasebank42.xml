@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Socializing">
+      <title>
+    <![CDATA[<b>Introducing someone else</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">[Do you know Sarah Osborne?]</sentence>
+      <sentence name="B">No. Nice to meet you, Sarah.</sentence>
+      <transfer>Do you know xxx?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[This is Keith Moorhead.]</sentence>
+      <sentence name="B">Pleased to meet you, Keith.</sentence>
+      <transfer>This is xxx.</transfer>
+    </dialogue>
+  </exercise>

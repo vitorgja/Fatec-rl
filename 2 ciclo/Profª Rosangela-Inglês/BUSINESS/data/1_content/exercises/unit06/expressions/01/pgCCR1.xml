@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Choose the correct response for each expression.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>I hear you work for IBM.</sentence><options>
+<option answer="correct">That's right.</option>
+<option>That right.</option>
+
+</options>
+</question><question>
+<sentence>My name is Martha Kelman.</sentence><options>
+<option>Please to meet you.</option>
+<option answer="correct">Pleased to meet you.</option>
+
+</options>
+</question><question>
+<sentence>What do you think of the conference?</sentence><options>
+<option>Very interest.</option>
+<option answer="correct">Very interesting.</option>
+
+</options>
+</question><question>
+<sentence>Do you know a lot of people here?</sentence><options>
+<option>No many.</option>
+<option answer="correct">Not many.</option>
+
+</options>
+</question><question>
+<sentence>Please excuse me.</sentence><options>
+<option>Sure. We see us later.</option>
+<option answer="correct">Sure. See you later.</option>
+
+</options>
+</question>
+</questions></exercise>

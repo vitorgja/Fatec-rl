@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Choose the correct words to complete the sentences.
+</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>Alfonso is the Sales Director. He [#] the sales teams.</sentence><options>
+<option>controls</option>
+<option answer="correct">manages</option>
+
+</options>
+</question><question>
+<sentence>As a Customer Service Assistant, I [#] with customers all the time.</sentence><options>
+<option>check</option>
+<option answer="correct">deal</option>
+
+</options>
+</question><question>
+<sentence>The R&D Department [#] all our new products.</sentence><options>
+<option>is in charge</option>
+<option answer="correct">develops</option>
+
+</options>
+</question><question>
+<sentence>Angela [#] for Asian Sales.</sentence><options>
+<option>deals</option>
+<option answer="correct">is reponsible</option>
+
+</options>
+</question><question>
+<sentence>I need someone to [#] the accounts for me.</sentence><options>
+<option answer="correct">check</option>
+<option>control</option>
+
+</options>
+</question><question>
+<sentence>The MD [#] the future of the company.</sentence><options>
+<option>develops</option>
+<option answer="correct">plans</option>
+
+</options>
+</question><question>
+<sentence>Who [#] of the US project?</sentence><options>
+<option>is responsible</option>
+<option answer="correct">is in charge</option>
+
+</options>
+</question><question>
+<sentence>An air traffic controller [#] the movement of aeroplanes.</sentence><options>
+<option answer="correct">controls</option>
+<option>develops</option>
+
+</options>
+</question>
+</questions></exercise>

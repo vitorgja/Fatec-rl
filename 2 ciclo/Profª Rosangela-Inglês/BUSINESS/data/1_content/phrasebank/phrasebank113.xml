@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Meetings">
+ <title>
+    <![CDATA[<b>Additional phrases</b>]]>
+    </title>
+	<dialogue>
+    <sentence name="A">[Are you free to have a meeting next week?]</sentence>
+    <sentence name="B">Yes, I am.</sentence>
+	<transfer>Are you free to have a meeting next week?</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">[Are you available at two thirty tomorrow?]</sentence>
+    <sentence name="B">Yes, I am. Why?</sentence>
+	<transfer>Are you available at xxx tomorrow?</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">Can we arrange a meeting for tomorrow?</sentence>
+    <sentence name="B">Yes, no problem. [I'm available all day.]</sentence>
+	<transfer>I'm available all day.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">[Which is better:] this mobile or the Samsung one?</sentence>
+    <sentence name="B">I prefer the Samsung one.</sentence>
+	<transfer>Which is better: xxx or xxx?</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">Is there a difference between the M23 account and the US 2008 account?</sentence>
+    <sentence name="B">No. [They're the same.]</sentence>
+	<transfer>They're the same.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">We need to make a decision between the US and the UK distributor.</sentence>
+    <sentence name="B">[Let's go for the UK distributor.]</sentence>
+	<transfer>Let's go for the xxx.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">Karl wants to have the meeting in Vienna. [How do you feel about that?]</sentence>
+    <sentence name="B">It's a good idea.</sentence>
+	<transfer>How do you feel about that?</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">We need a manager for the Dubai office.</sentence>
+    <sentence name="B">[For me, Yasser is the best person for the job.]</sentence>
+	<transfer>For me, xxx is the best person for the job.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">We need to open at seven o'clock from Monday to Friday.</sentence>
+    <sentence name="B">[That's right.]</sentence>
+	<transfer>That's right.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">Let's close the Sales Office in Montreal.</sentence>
+    <sentence name="B">[I don't think that's a good idea.]</sentence>
+	<transfer>I don't think that's a good idea.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">We're starting to sell our products in India and Pakistan.</sentence>
+    <sentence name="B">[Really? How interesting.]</sentence>
+	<transfer>Really? How interesting.</transfer>
+    </dialogue>
+    <dialogue>
+    <sentence name="A">[So, to sum up, the situation looks very good.]</sentence>
+    <sentence name="B">That's really good news.</sentence>
+	<transfer>So, to sum up, the situation looks very good.</transfer>
+    </dialogue>
+  </exercise>

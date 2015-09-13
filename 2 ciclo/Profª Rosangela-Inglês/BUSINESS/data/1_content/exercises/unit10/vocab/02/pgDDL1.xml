@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric> Choose the correct word to complete each sentence.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>We need to find a [#] to the problem.</sentence><options>
+<option answer="correct">solution</option>
+<option>solve</option>
+
+</options>
+</question><question>
+<sentence>That's a very [#] decision.</sentence><options>
+<option>difficulty</option>
+<option answer="correct">difficult</option>
+
+</options>
+</question><question>
+<sentence>That's [#] idea!</sentence><options>
+<option>good</option>
+<option answer="correct">a good</option>
+
+</options>
+</question><question>
+<sentence>What's your final [#]?</sentence><options>
+<option answer="correct">decision</option>
+<option>decide</option>
+
+</options>
+</question><question>
+<sentence>I work [#] a team of fifteen people.</sentence><options>
+<option>at</option>
+<option answer="correct">in</option>
+
+</options>
+</question><question>
+<sentence>We [#] a really big problem.</sentence><options>
+<option>make</option>
+<option answer="correct">have</option>
+
+</options>
+</question>
+</questions></exercise>

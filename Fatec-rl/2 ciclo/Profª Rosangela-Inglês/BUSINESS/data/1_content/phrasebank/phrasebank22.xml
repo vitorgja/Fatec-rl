@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Planning a schedule">
+<title>
+    <![CDATA[<b>Saying what needs to be done</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">[The aim is to finish the project by June 17th.]</sentence>
+      <sentence name="B">Is that possible?</sentence>
+      <transfer>The aim is to finish the project by xxx.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[We plan to start work on May 21st.]</sentence>
+      <sentence name="B">And when will you finish?</sentence>
+      <transfer>We plan to start work on xxx.</transfer>
+    </dialogue>
+  </exercise>

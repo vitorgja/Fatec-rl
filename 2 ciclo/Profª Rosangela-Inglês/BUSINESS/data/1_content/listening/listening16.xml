@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening16.mp3</audio>
+  <text>
+    <![CDATA[<heading>06</heading>
+      <p>1</p>
+      <p><b>A</b>  What's his name?</p>
+      <p><b>B</b>  Mr Gorski.</p>
+      <p><b>A</b>  How do you spell that?</p>
+      <p><b>B</b>  G-O-R-S-K-I.</p>
+      <p><b>A</b>  Thanks.</p>
+      <p>2</p>
+      <p><b>A</b> What's your company?</p>
+      <p><b>B</b>  Lufthansa.</p>
+      <p><b>A</b>  How do you spell that?</p>
+      <p><b>B</b>  L-U-F-T-H-A-N-S-A.</p>
+      <p><b>A</b>  Thanks.</p>]]>
+  </text>
+</exercise>

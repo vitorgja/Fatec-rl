@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise>
+  <rubric></rubric>
+  <audio>data/1_content/listening/listening65.mp3</audio>
+  <text>
+    <![CDATA[<heading>37</heading>
+      
+      <p><b>A</b>  Hello. Can I help you?</p>
+      <p><b>B</b>  Yes, please. I have an appointment with Mr Cannon, but there's nobody in Reception.</p>
+      <p><b>A</b>  Oh dear. Is this your first time here?</p>
+      <p><b>B</b>  Yes, it is.</p>
+      <p><b>A</b>  Well, come with me. I can take you to his office.</p>
+      <p><b>B</b> Thanks very much. After you.</p>
+      <p><b>A</b>  OK, right ... here's John Cannon's office. Please go in and take a seat.</p>
+      <p><b>B</b>  Thank you.</p>
+      <p><b>A</b>  I think John's just next door. I'll call him. Can I get you something? A coffee?</p>
+      <p><b>B</b>  Oh, yes, please.</p>
+      <p><b>A</b>  OK, I'll ask him to bring you one. Have a good meeting. Nice talking to you.</p>
+      <p><b>B  </b>Yes, and you. Bye.</p>]]>
+  </text>
+</exercise>

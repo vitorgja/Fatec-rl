@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multiChoice_style.xml">
+<title><![CDATA[<b>This is the title:</b> Exercise 1]]></title>
+<rubric><![CDATA[Interactive test 3]]></rubric>
+<audiopath>assets/Sound1_</audiopath>
+<sentence number="1" correct="3">Saudi Arabia and Dubai are in the 
+<audiotext></audiotext>
+<ans number="1">Centre East.</ans>
+<ans number="2">Far East.</ans>
+<ans number="3">Middle East.</ans>
+
+</sentence>
+<sentence number="2" correct="3">Nicaragua is in
+<audiotext></audiotext>
+<ans number="1">North America.</ans>
+<ans number="2">Middle America.</ans>
+<ans number="3">Latin America.</ans>
+
+</sentence>
+<sentence number="3" correct="1">China is in the 
+<audiotext></audiotext>
+<ans number="1">Far East.</ans>
+<ans number="2">Middle East.</ans>
+<ans number="3">Pacific East.</ans>
+
+</sentence>
+<sentence number="4" correct="2">Australia, Japan, and Korea are all in the 
+<audiotext></audiotext>
+<ans number="1">Asia area.</ans>
+<ans number="2">Asia-Pacific area.</ans>
+<ans number="3">Atlantic area.</ans>
+
+</sentence>
+<sentence number="5" correct="3">Products arrive at a company's  _____ and then they deliver them to customers.
+<audiotext></audiotext>
+<ans number="1">technical centre</ans>
+<ans number="2">sales office</ans>
+<ans number="3">distribution centre</ans>
+
+</sentence>
+<sentence number="6" correct="1">A company's _____ is where all the important managers work.
+<audiotext></audiotext>
+<ans number="1">head office</ans>
+<ans number="2">factory</ans>
+<ans number="3">technical centre</ans>
+
+</sentence>
+<sentence number="7" correct="2">A company's _____ is a special place for research and development.
+<audiotext></audiotext>
+<ans number="1">sales office</ans>
+<ans number="2">technical centre</ans>
+<ans number="3">distribution centre</ans>
+
+</sentence>
+<sentence number="8" correct="3">We make _____ products like shampoo and soap.
+<audiotext></audiotext>
+<ans number="1">buyer</ans>
+<ans number="2">client</ans>
+<ans number="3">consumer</ans>
+
+</sentence>
+<sentence number="9" correct="3">Reebok and Nike are both _____ brands.
+<audiotext></audiotext>
+<ans number="1">world-strong</ans>
+<ans number="2">world-known</ans>
+<ans number="3">world-class</ans>
+
+</sentence>
+<sentence number="10" correct="2">Does your office have good transport connections?
+<audiotext></audiotext>
+<ans number="1">Yes. There are an airport very near us.</ans>
+<ans number="2">Yes. There's an airport very near us.</ans>
+<ans number="3">Yes. There have an airport very near us.</ans>
+
+</sentence>
+<sentence number="11" correct="1">_____ international flights from this airport.
+<audiotext></audiotext>
+<ans number="1">There aren't any</ans>
+<ans number="2">There not any</ans>
+<ans number="3">They're not any</ans>
+
+</sentence>
+<sentence number="12" correct="2">I'm in the technical centre in the USA next month. Is there a good hotel near the office?
+<audiotext></audiotext>
+<ans number="1">Yes, there.</ans>
+<ans number="2">Yes, there is.</ans>
+<ans number="3">Yes, there are.</ans>
+
+</sentence>
+<sentence number="13" correct="1">Are there buses from the airport?
+<audiotext></audiotext>
+<ans number="1">No, there aren't.</ans>
+<ans number="2">No, there not.</ans>
+<ans number="3">No, there are any.</ans>
+
+</sentence>
+<sentence number="14" correct="1">Is there _____ canteen in the office?
+<audiotext></audiotext>
+<ans number="1">a</ans>
+<ans number="2">any</ans>
+<ans number="3">some</ans>
+
+</sentence>
+<sentence number="15" correct="2">I need _____ help.
+<audiotext></audiotext>
+<ans number="1">a</ans>
+<ans number="2">some</ans>
+<ans number="3">any</ans>
+
+</sentence>
+<sentence number="16" correct="3">There are _____ outside the hotel.
+<audiotext></audiotext>
+<ans number="1">any taxis</ans>
+<ans number="2">some taxi</ans>
+<ans number="3">some taxis</ans>
+
+</sentence>
+<sentence number="17" correct="1">There _____ shops in the airport.
+<audiotext></audiotext>
+<ans number="1">aren't any</ans>
+<ans number="2">isn't some</ans>
+<ans number="3">aren't no</ans>
+
+</sentence>
+<sentence number="18" correct="2">_____ I speak to Mr Zimmerman please?
+<audiotext></audiotext>
+<ans number="1">Do</ans>
+<ans number="2">Could</ans>
+<ans number="3">Would</ans>
+
+</sentence>
+<sentence number="19" correct="3">Can I have
+<audiotext></audiotext>
+<ans number="1">contact number?</ans>
+<ans number="2">any contact number?</ans>
+<ans number="3">a contact number?</ans>
+
+</sentence>
+<sentence number="20" correct="3">Could I _____ a message for Tina?
+<audiotext></audiotext>
+<ans number="1">speak</ans>
+<ans number="2">make</ans>
+<ans number="3">leave</ans>
+
+</sentence>
+<sentence number="21" correct="1">Can she call me back as soon
+<audiotext></audiotext>
+<ans number="1">as possible?</ans>
+<ans number="2">like possible?</ans>
+<ans number="3">than possible?</ans>
+
+</sentence>
+<sentence number="22" correct="2">I'm sorry Mr Jones isn't here
+<audiotext></audiotext>
+<ans number="1">morning.</ans>
+<ans number="2">this morning.</ans>
+<ans number="3">in morning.</ans>
+
+</sentence>
+<sentence number="23" correct="2">My name is James Moat.
+<audiotext></audiotext>
+<ans number="1">Moat? Is that M to be Mother?</ans>
+<ans number="2">Moat? Is that M as in Mother?</ans>
+<ans number="3">Moat? Is that M of Mother?</ans>
+
+</sentence>
+<sentence number="24" correct="3">Please ask Julian to call me back this afternoon.
+<audiotext></audiotext>
+<ans number="1">OK, I give him your message.</ans>
+<ans number="2">OK, I'd give him your message.</ans>
+<ans number="3">OK, I'll give him your message.</ans>
+
+</sentence>
+<sentence number="25" correct="1">My number is 00 44 1632 960038.
+<audiotext></audiotext>
+<ans number="1">So that's 00 44 1632 960038.</ans>
+<ans number="2">So that 00 44 1632 960038.</ans>
+<ans number="3">So this is 00 44 1632 960038.</ans>
+
+</sentence>
+</exercise>

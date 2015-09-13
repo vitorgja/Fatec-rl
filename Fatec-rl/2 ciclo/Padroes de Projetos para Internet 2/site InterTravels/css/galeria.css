@@ -1,0 +1,15 @@
+/* Demo styles */
+		.content{color:#777;font:12px/1.4 "helvetica neue",arial,sans-serif;width:620px;margin:20px auto;}
+		h1{font-size:12px;font-weight:normal;color:#ddd;margin:0;}
+		#galleria p{margin:0 0 20px}
+		a {color:#22BCB9;text-decoration:none;}
+		.cred{margin-top:20px;font-size:11px;}
+
+		/* This rule is read by Galleria to define the gallery height: */
+		#galleria{height:320px}
+		#content{ min-height: 650px	}
+		#galleria{ height: 550px; width: 980px;}
+		
+		.galleria-image > img{
+			margin-left: -0px ;
+		}

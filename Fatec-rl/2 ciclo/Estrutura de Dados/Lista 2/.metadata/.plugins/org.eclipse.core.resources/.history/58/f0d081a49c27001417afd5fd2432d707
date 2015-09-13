@@ -1,0 +1,29 @@
+package Listas;
+
+import java.util.Scanner;
+
+public class Exercicio_o9 {
+	public static void main(String[] args) {
+		// 9. Mostrar a série Fibonacci até 0 N-ésimo termo. 
+		// A série tem a seguinte forma: 1, 1, 2, 3, 5, 8, 13, 21, 34,… 
+		
+		int iFor,iWhile=1,iDoWhile=1,n,ant,prox,temp;
+		Scanner entrada = new Scanner(System.in);
+		System.out.print("Diguite o Número: ");
+		n=entrada.nextInt();
+		
+		ant=0;
+		prox=1;
+		temp=0;
+		
+		for(iFor=1;iFor<=n;iFor++){
+			ant=prox;
+			prox=ant;
+			temp=temp+ant+prox;
+				
+			System.out.print(temp+",");	
+		}
+		entrada.close();
+		
+	}
+}

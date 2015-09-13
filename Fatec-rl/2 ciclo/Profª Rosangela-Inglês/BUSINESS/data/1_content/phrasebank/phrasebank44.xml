@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Socializing">
+<title>
+    <![CDATA[<b>Starting a conversation</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">Excuse me. [Can I join you?]</sentence>
+      <sentence name="B">Yes, of course.</sentence>
+	  <transfer>Can I join you?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[I hear you work for KLM.]</sentence>
+      <sentence name="B">That's right. I work for KLM in Amsterdam.</sentence>
+      <transfer>I hear you work for xxx.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[Is this your first time in Bonn?]</sentence>
+      <sentence name="B">Yes, it is. It's a beautiful city.</sentence>
+      <transfer>Is this your first time in xxx?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[What do you think of the sales conference?]</sentence>
+      <sentence name="B">It's very interesting.</sentence>
+      <transfer>What do you think of the sales conference?</transfer>
+    </dialogue>
+  </exercise>

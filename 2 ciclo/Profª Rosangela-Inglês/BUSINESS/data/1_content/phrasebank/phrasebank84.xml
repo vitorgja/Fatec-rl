@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Discussing problems">
+<title>
+    <![CDATA[<b>Responding to offers</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">Do you want a hand with your presentation?</sentence>
+      <sentence name="B">[Yes, please. ]I need some help.</sentence>
+      <transfer>Yes, please.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">Do you want a hand with the sales visits?</sentence>
+      <sentence name="B">[That would be good. ]Can Fiona and Matthew come with me?</sentence>
+      <transfer>That would be good.</transfer>
+    </dialogue>
+  </exercise>

@@ -1,0 +1,32 @@
+
+<html>
+	<head>
+		<script>
+			function verificar(){
+				var maior=0;
+				var ul = document.getElementsByTagName("ul")[0];
+				var lis = ul.getElementsByTagName("li");
+				for(var i=0;i<= lis.length-1;i++){
+					var li = lis[i].innerHTML;
+					liSplit = li.split(";");
+					if(maior<liSplit[1]){
+						maior =  liSplit[1];
+					}
+				}
+				alert("O maior é : "+maior);
+			}
+		</script>
+	</head>
+	
+	<body>
+
+		<ul>
+			<li>aaa;630</li>
+			<li>bac;7000</li>
+			<li>xxx;3000</li>
+			<li>hja;2000</li>
+		</ul>
+		<button onclick="verificar();">Verificar</button>
+	
+	</body>
+</html>

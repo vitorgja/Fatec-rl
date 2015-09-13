@@ -1,0 +1,62 @@
+package Listas;
+
+import java.util.Scanner;
+
+public class Exercicio_10 {
+
+	public static void main(String[] args) {
+		// 10. Calcular e mostrar o fatorial de um número inteiro qualquer. 
+		
+		Scanner entrada = new Scanner(System.in);
+		int n,fat=1,iFor,iWhile=1,iDoWhile=1;
+		
+		do{
+			System.out.print("Digite um numero: ");
+			n=entrada.nextInt();
+			
+			// For
+			for(iFor=1;iFor<=n;iFor++){
+				fat=fat*iFor;
+				
+				if(iFor!=n){
+					System.out.print(iFor+"*");
+				}else{
+					System.out.println(iFor+"= "+fat);
+				}
+			}
+			
+			// While
+			fat=1;
+			while(iWhile<=n){
+				fat=fat*iWhile;
+				
+				if(iWhile != n){
+					System.out.print(iWhile+"*");
+				}else{
+					System.out.println(iWhile+"= "+fat);
+				}
+				iWhile++;
+			}
+			
+			// Do While
+			fat=1;
+			while(iWhile<=n){
+			fat=fat*iWhile;
+							
+			if(iWhile != n){
+				System.out.print(iWhile+"*");
+			}else{
+				System.out.println(iWhile+"= "+fat);
+			}
+				iWhile++;
+			}
+			
+		}while(n<=1);
+		
+		
+		
+		
+
+	}
+
+}

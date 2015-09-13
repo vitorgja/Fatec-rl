@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Meetings">
+<title>
+    <![CDATA[<b>Summarizing</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">The final deadline for the launch is July 22nd.</sentence>
+      <sentence name="B">[Is everyone happy with that date?]</sentence>
+      <transfer>Is everyone happy with that date?</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[So, to summarize, we're about two weeks behind schedule.]</sentence>
+      <sentence name="B">Right.</sentence>
+      <transfer>So, to summarize, we're about two weeks behind schedule.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[So, to summarize, I'm going to contact all our sales teams.]</sentence>
+      <sentence name="B">Yes, that's right.</sentence>
+      <transfer>So, to summarize, I'm going to contact xxx</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[To summarize, you're going to arrange everything in Paris.]</sentence>
+      <sentence name="B">Fine.</sentence>
+      <transfer>To summarize, you're going to arrange xxx</transfer>
+    </dialogue>
+  </exercise>

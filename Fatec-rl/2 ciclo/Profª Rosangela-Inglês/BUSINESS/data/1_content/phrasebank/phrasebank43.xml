@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <exercise template="Phrasebank" category="Socializing">
+<title>
+    <![CDATA[<b>Saying goodbye</b>]]>
+    </title>
+    <dialogue>
+      <sentence name="A">[Goodbye!]</sentence>
+      <sentence name="B">Bye.</sentence>
+	  <transfer>Goodbye!</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">Goodbye, Erica. [Nice meeting you.]</sentence>
+      <sentence name="B">Nice meeting you too.</sentence>
+      <transfer>Nice meeting you.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">Bye, Charles. [See you soon.]</sentence>
+      <sentence name="B">Thanks Erica.</sentence>
+      <transfer>See you soon.</transfer>
+    </dialogue>
+    <dialogue>
+      <sentence name="A">[Have a good journey.]</sentence>
+      <sentence name="B">Thanks. Bye!</sentence>
+      <transfer>Have a good journey.</transfer>
+    </dialogue>
+  </exercise>

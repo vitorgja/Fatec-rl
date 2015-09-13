@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<exercise template="glossary">
+ <audioPath>data/1_content/glossary/</audioPath>
+	<word str="aim">
+		<definition>the thing that sb plans or wants to do</definition>
+		<phonetics><![CDATA[/eIm/]]></phonetics>
+		<example>Our main aim is to increase sales.</example>
+	</word>
+	<word str="annual leave">
+		<definition>the time off work that sb is allowed each year</definition>
+		<phonetics><![CDATA[/%&amp;nju@l "li;v/ ]]></phonetics>
+		<example>We get twenty days’ annual leave.</example>
+	</word>
+	<word str="autumn">
+		<definition>the season of the year after summer, when leaves fall from the trees</definition>
+		<phonetics><![CDATA[/"O;t@m/]]></phonetics>
+		<example>The fruits are ready to pick in autumn. </example>
+	</word>
+	<word str="busy period">
+		<definition>a time when there is a lot of activity because a lot of people want to do sth, buy sth etc.</definition>
+		<phonetics><![CDATA[/"bIzi pI@ri@d/]]></phonetics>
+		<example>We take on extra staff during busy periods.</example>
+	</word>
+	<word str="database">
+		<definition>a computer record that contains a lot of organized information</definition>
+		<phonetics><![CDATA[/"deIt@beIs/]]></phonetics>
+		<example>We keep a database of all our customers’ names, addresses, and past orders.</example>
+	</word>
+	<word str="deadline">
+		<definition>a point in time by which sth must be done</definition>
+		<phonetics><![CDATA[/"dedlaIn/]]></phonetics>
+		<example><![CDATA[The deadline for applications is <br>30 April.]]></example>
+	</word>
+	<word str="event">
+		<definition>a thing that happens, especially an important planned occasion</definition>
+		<phonetics><![CDATA[/I"vent/ ]]></phonetics>
+		<example>His 50th birthday is going to be a very special event.</example>
+	</word>
+	<word str="expect">
+		<definition>to believe that sth will happen based on what you know</definition>
+		<phonetics><![CDATA[/Ik"spekt/ ]]></phonetics>
+		<example>I expect he will arrive about 9.30.</example>
+	</word>
+	<word str="launch">
+		<definition>an event at which a new product is made available for the first time</definition>
+		<phonetics><![CDATA[/lO;nS/]]></phonetics>
+		<example>The publishers held a big book launch for his first novel.</example>
+	</word>
+	<word str="long weekend">
+		<definition>a weekend that includes an extra day or two of holiday on Friday or Monday</definition>
+		<phonetics><![CDATA[/%lQN wi;"kend/ ]]></phonetics>
+		<example>We’re planning a long weekend in Amsterdam.</example>
+	</word>
+	<word str="packaging">
+		<definition>materials used to wrap or protect a product when it is sold</definition>
+		<phonetics><![CDATA[/"p&amp;k@dZIN/]]></phonetics>
+		<example>Attractive packaging can help sell your product.</example>
+	</word>
+	<word str="predict">
+		<definition>to say what will happen based on what you know</definition>
+		<phonetics><![CDATA[/prI"dIkt/ ]]></phonetics>
+		<example>It’s difficult to predict who will win the election.</example>
+	</word>
+	<word str="public holiday">
+		<definition>a day when most shops, businesses and schools close</definition>
+		<phonetics><![CDATA[/%pVblIk "hQlIdeI/ ]]></phonetics>
+		<example>They created a public holiday in his honour.</example>
+	</word>
+	<word str="quiet period">
+		<definition>a time when there is not much activity because not many people want to do sth, buy sth etc.</definition>
+		<phonetics><![CDATA[/"kwaI@t pI@ri@d/]]></phonetics>
+		<example>I catch up with my paperwork during quiet periods in the shop.</example>
+	</word>
+	<word str="raw materials">
+		<definition>basic materials that are used to make a profit</definition>
+		<phonetics><![CDATA[/%rO; m@"tI@ri@lz/ ]]></phonetics>
+		<example>One of our biggest costs is raw materials.</example>
+	</word>
+	<word str="reminder">
+		<definition>a letter or note asking sb to remember to do sth</definition>
+		<phonetics><![CDATA[/rI"maInd@(r)/ ]]></phonetics>
+		<example>If you do not pay within 14 days, we will send a reminder.</example>
+	</word>
+	<word str="schedule">
+		<definition>a plan of the work you need to do and when you need to do it</definition>
+		<phonetics><![CDATA[/"Sedju;l/]]></phonetics>
+		<example>I have a very full schedule this week.</example>
+	</word>
+	<word str="shelf">
+		<definition>a flat board fixed to the wall or as part of a cupboard, to put things on</definition>
+		<phonetics><![CDATA[/Self/]]></phonetics>
+		<example>The top shelf was too high for customers to reach.</example>
+	</word>
+	<word str="ship">
+		<definition>to send goods to sb</definition>
+		<phonetics><![CDATA[/SIp/]]></phonetics>
+		<example>The company ships its products all over the world.</example>
+	</word>
+	<word str="spring">
+		<definition>the season of the year after winter, when plants and flowers start to grow again</definition>
+		<phonetics><![CDATA[/sprIN/]]></phonetics>
+		<example>I love Paris in the spring.</example>
+	</word>
+	<word str="summarize">
+		<definition>to make a short statement giving the main points of sth</definition>
+		<phonetics><![CDATA[/"sVm@raIz/ ]]></phonetics>
+		<example>The results are summarized at the end of this document.</example>
+	</word>
+	<word str="summer">
+		<definition>the season of the year after spring, when it is hottest and people often have their main holiday</definition>
+		<phonetics><![CDATA[/"sVm@(r)/]]></phonetics>
+		<example>They often spend the summer by the sea.</example>
+	</word>
+	<word str="tight deadline">
+		<definition>a date by which sth must be done that does not allow you much time to complete it</definition>
+		<phonetics><![CDATA[/%taIt "dedlaIn/ ]]></phonetics>
+		<example>We are working to a very tight deadline.</example>
+	</word>
+	<word str="time off">
+		<definition>time when you do not have to be at work</definition>
+		<phonetics><![CDATA[/%taIm "Qf/ ]]></phonetics>
+		<example>He took some time off to visit his sick mother.</example>
+	</word>
+	<word str="timetable">
+		<definition>a list which shows when particular events will happen</definition>
+		<phonetics><![CDATA[/"taImteIbl/]]></phonetics>
+		<example>Here’s a timetable for the training session.</example>
+	</word>
+	<word str="update">
+		<definition>to add the most recent information to sth</definition>
+		<phonetics><![CDATA[/Vp"deIt/]]></phonetics>
+		<example>Our website is updated every day.</example>
+	</word>
+	<word str="winter">
+		<definition>the season of the year after autumn, when it is coldest and the days are shortest</definition>
+		<phonetics><![CDATA[/"wInt@(r)/]]></phonetics>
+		<example>We usually go skiing every winter.</example>
+	</word>
+</exercise>

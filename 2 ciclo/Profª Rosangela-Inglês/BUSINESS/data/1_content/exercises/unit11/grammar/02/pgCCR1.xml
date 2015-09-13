@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+<rubric>Choose the correct words to complete the sentences.</rubric>
+<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+<questions>
+<question>
+<sentence>I'm going to take Monday off</sentence><options>
+<option answer="correct">to play golf.</option>
+<option>to present our new products to the sales reps.</option>
+
+</options>
+</question><question>
+<sentence>We're only going to take hand luggage on the plane  </sentence><options>
+<option>to carry lots of things in our bags.</option>
+<option answer="correct">to get on and get off the plane quickly.</option>
+
+</options>
+</question><question>
+<sentence>Everyone is going out in the evening</sentence><options>
+<option answer="correct">to have a nice dinner.</option>
+<option>to work all night.</option>
+
+</options>
+</question><question>
+<sentence>He's going to the US Embassy</sentence><options>
+<option>to stay in a hotel.</option>
+<option answer="correct">to get a visa.</option>
+
+</options>
+</question><question>
+<sentence>I'm working from home tomorrow</sentence><options>
+<option answer="correct">to try and finish the report.</option>
+<option>to meet some clients in the conference room.</option>
+
+</options>
+</question>
+</questions></exercise>

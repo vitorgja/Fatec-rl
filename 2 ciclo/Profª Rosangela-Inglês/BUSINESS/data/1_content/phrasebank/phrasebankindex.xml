@@ -1,0 +1,85 @@
+﻿<index  template="Phrasebank" category="Telephoning">
+
+<category name="Meetings">
+<topic>Arranging to meet</topic>
+<topic>Asking about times</topic>
+<topic>Saying when you are free</topic>
+<topic>Talking about differences</topic>
+<topic>Talking about similarities</topic>
+<topic>Making decisions</topic>
+<topic>Asking for an opinion</topic>
+<topic>Giving an opinion</topic>
+<topic>Agreeing</topic>
+<topic>Disagreeing</topic>
+<topic>Responding to news</topic>
+<topic>Summarizing</topic>
+<topic>Additional phrases</topic>
+</category>
+
+<category name="Planning a schedule">
+<topic>Stating the current situation</topic>
+<topic>Saying what needs to be done</topic>
+<topic>Proposing a plan</topic>
+<topic>Additional phrases</topic>
+</category>
+
+<category name="Telephoning">
+<topic>Starting a call</topic>
+<topic>Ending a call</topic>
+<topic>Asking to speak to someone</topic>
+<topic>Leaving a message</topic>
+<topic>Taking a message</topic>
+<topic>Checking and correcting</topic>
+<topic>Additional phrases</topic>
+</category>
+
+<category name="Socializing">
+<topic>Saying hello and introductions</topic>
+<topic>Introducing someone else</topic>
+<topic>Saying goodbye</topic>
+<topic>Starting a conversation</topic>
+<topic>Offering</topic>
+<topic>Responding</topic>
+<topic>Describing a trip</topic>
+<topic>Finishing a conversation</topic>
+<topic>Additional phrases</topic>
+</category>
+
+<category name="Travel">
+<topic>At the airport</topic>
+<topic>Booking a hotel room</topic>
+<topic>Checking in</topic>
+<topic>Asking about hotel services</topic>
+<topic>Talking about money</topic>
+<topic>Additional phrases</topic>
+
+</category>
+
+<category name="Visiting companies">
+<topic>Arriving at reception</topic>
+<topic>Meeting the visitor</topic>
+<topic>Showing your visitor round</topic>
+<topic>Additional phrases</topic>
+</category>
+
+<category name="Exchanging information">
+<topic>Requesting</topic>
+<topic>Asking for information</topic>
+<topic>Responding</topic>
+<topic>Asking for repetition and spelling</topic>
+<topic>Additional phrases</topic>
+</category>
+
+<category name="Discussing problems">
+<topic>Asking for help</topic>
+<topic>Offering help</topic>
+<topic>Responding to a request for help</topic>
+<topic>Responding to offers</topic>
+<topic>Explaining a problem</topic>
+<topic>Solving a problem</topic>
+<topic>Promising action</topic>
+<topic>Apologizing</topic>
+<topic>Responding and thanking</topic>
+<topic>Additional phrases</topic>
+</category>
+</index>
