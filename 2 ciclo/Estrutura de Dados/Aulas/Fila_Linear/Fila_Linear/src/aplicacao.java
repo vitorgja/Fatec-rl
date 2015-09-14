@@ -8,8 +8,12 @@ public class aplicacao {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+<<<<<<< HEAD
 		Scanner entrada = new Scanner(System.in);
 		Fila f = new Fila(10);
+=======
+		Scanner entrada = new entrada(System.in);
+>>>>>>> 201118daed718008e4c689147dfe444becc97c2a
 		int opc;
 		do{
 			System.out.println("1- Insere");
@@ -22,6 +26,7 @@ public class aplicacao {
 			System.out.println("9- FIM");
 			System.out.print("Selevione: ");
 			opc = entrada.nextInt();
+<<<<<<< HEAD
 			System.out.println("\n\n");
 			switch(opc){
 			case 1:
@@ -36,6 +41,13 @@ public class aplicacao {
 				break;
 			case 9:
 				System.out.println("SAIR");
+=======
+			
+			switch(opc){
+			
+			case 9:
+				
+>>>>>>> 201118daed718008e4c689147dfe444becc97c2a
 			}
 		}while(opc==9);
 		
