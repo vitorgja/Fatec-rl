@@ -2,7 +2,6 @@
 
 IT are the subjects the FATEC - Rubens Lara
 
-
 ## Passos para clonar um Branch
 
 **Comando** para o console
