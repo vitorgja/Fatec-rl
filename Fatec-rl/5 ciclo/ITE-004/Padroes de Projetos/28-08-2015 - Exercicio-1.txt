@@ -1,4 +1,0 @@
-EXERCICIO: Um cliente possui nome, tipo de cartao de credito e anuidade. 
-Cada tipo de cartao possui um desconto de anuidade.
-O cartao Nomal possui 5%, o silver 7%, gold 10%, platium 15%, e black 30%.
-o cliene deve ter um meodo de calculo de anuidade baseado  em seu tipo de cartao.
