@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<exercise>
-  <rubric></rubric>
-  <audio>data/1_content/listening/listening42.mp3</audio>
-  <text>
-    <![CDATA[<heading>24</heading>
-      <p>First of all, the warehouse computer receives customer orders. Then, the computer tells a robot to find the correct box. Next, the robot finds the box and delivers it to a human co-worker. After that, the person takes the correct items for the order. And finally, the robot returns the box and starts again.</p>]]>
-  </text>
-</exercise>
