@@ -1,5 +1,0 @@
-INDEX VERSION 1.127+C:\Users\Vitor\Documents\GitHub\Fatec-rl\Fatec-rl\5 ciclo\ITE-004\Padroes de Projetos\.metadata\.plugins\org.eclipse.jdt.core
-339453082.index
-4202520094.index
-237541252.index
-1091347983.index
