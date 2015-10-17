@@ -1,5 +1,0 @@
-APP
-
-TODO EM MVC
-Grupos de 3:
-BaseURL site/Controlodor/methodo/

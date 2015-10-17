@@ -1,0 +1,16 @@
+static: é um membro da classe
+
+
+Padroes de Projeto
+
+
+Strategy: Comportamentos variaveis
+
+AbstractFactory: esconde a criacao de Objeto
+
+Adapter: coloca um dominio dentro de outro
+
+
+Singleton: faz a classe ter uma instancia
+
+
