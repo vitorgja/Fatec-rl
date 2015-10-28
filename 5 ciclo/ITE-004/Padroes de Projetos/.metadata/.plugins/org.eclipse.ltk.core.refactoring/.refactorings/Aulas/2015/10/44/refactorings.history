@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;fate.PP.Garcia.Observer.PorcetoObserver.java&apos; to &apos;PorcentoObserver.java&apos;&#x0D;&#x0A;- Original project: &apos;Aulas&apos;&#x0D;&#x0A;- Original element: &apos;fate.PP.Garcia.Observer.PorcetoObserver.java&apos;&#x0D;&#x0A;- Renamed element: &apos;fate.PP.Garcia.Observer.PorcentoObserver.java&apos;" description="Rename compilation unit &apos;PorcetoObserver.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;fate.PP.Garcia.Observer{PorcetoObserver.java" name="PorcentoObserver.java" references="false" stamp="1446040311949" version="1.0"/>
+</session>

@@ -1,0 +1,18 @@
+package fate.PP.Garcia.Observer;
+
+public interface DadosObserver {
+	public void setState(Dados dados) {
+	    this.dados = dados;
+	    notifyObservers();
+	}
+	 
+	private void notifyObservers() {
+	    for (DadosObserver observer : observers) {
+	        observer.update();
+	    }
+	}
+	 
+	public Dados getState() {
+	    return dados;
+	}
+}
