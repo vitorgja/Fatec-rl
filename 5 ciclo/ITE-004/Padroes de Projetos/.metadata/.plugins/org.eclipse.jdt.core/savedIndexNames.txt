@@ -1,0 +1,8 @@
+INDEX VERSION 1.127+C:\Users\Vitor\Documents\FATEC\GIT\ciclo-5\5 ciclo\ITE-004\Padroes de Projetos\.metadata\.plugins\org.eclipse.jdt.core
+339453082.index
+1091347983.index
+2851012407.index
+1836716114.index
+749124478.index
+389389742.index
+4202520094.index
