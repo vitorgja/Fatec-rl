@@ -9,3 +9,7 @@ Fazer a leitura das Questões e escolher as que estão de acordo com a usabilida
 * Ações Mínimas
 * Dencidade Informacional
 * Ações Explícitas
+* Proteção contra Erros
+* Mesnsagens de Erro
+* Compatibilidade
+* Consistência
