@@ -1,4 +1,0 @@
-﻿Due to the limitations of the supported zip file format, the following file(s) had to be renamed.
-
-Original File Name  ->  New File Name
-Arquivos_da_aula_PPSI_II_(21-07-14)/informações.txt -> Arquivos_da_aula_PPSI_II_(21-07-14)/File1.txt

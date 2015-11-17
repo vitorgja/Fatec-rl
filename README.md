@@ -1,8 +1,18 @@
-# Faculdade Tecnologica - Rubens Lara 
-## Ciclos e aulas do Curso de Sistemas para Internet - Fatec Rubens Lara
 
-**1 Ciclo**
-**2 Ciclo**
-**3 Ciclo**
-**4 Ciclo**
-**5 Ciclo**
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
+
+
+Hi there! Welcome to Cloud9 IDE!
+
+To get you started, create some files, play with the terminal,
+or visit http://docs.c9.io for our documentation.
+If you want, you can also go watch some training videos at
+http://www.youtube.com/user/c9ide.
+
+Happy coding!
+The Cloud9 IDE team
