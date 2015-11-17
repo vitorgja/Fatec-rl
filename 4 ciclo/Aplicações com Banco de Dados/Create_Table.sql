@@ -48,11 +48,18 @@ Create table Cliente (
 );
 go
 
--- TB Pedido
-Create table Pedido (
-	cd_Pedido int not null identity,
+-- TB Pedidos
+Create table Pedidos (
+	cd_Pedidos int not null identity,
 	cd_Cliente int,
-	qt_Pedido int
+	qt_Pedidos int
+);
+go
+-- TB Pedidos
+Create table Pedidos_Finalizados (
+	cd_Pedidos int not null identity,
+	cd_Cliente int,
+	qt_Pedidos int
 );
 go
 
@@ -67,10 +74,10 @@ Create table Ordem_Compra_has_Peca (
 );
 go
 
--- TB Peca has TB Pedido
-Create table Peca_has_Pedido (
+-- TB Peca has TB Pedidos
+Create table Peca_has_Pedidos (
 	cd_Peca int not null,
-	cd_Pedido int not null,
-	cd_qt_peca int not null
+	cd_Pedidos int not null,
+	qt_Peca int not null
 );
 go
