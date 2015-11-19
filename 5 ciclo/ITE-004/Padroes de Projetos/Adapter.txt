@@ -1,21 +1,20 @@
 Adapter 
 
-
-Exemplo: Uma operaÁ„o pode ser 
-de AdiÁ„o, SubraÁ„o, Multiplicacao 
-ou Divisao. Cada operaÁ„o È uma sub-classe da 
-Classe OperacaoSimples. A classe equaÁ„oSegundo
-Grau.A classe Equacao Equacaosegundo n„o possui 
-nenhuma relaÁao com a classe OperacaoSimples.
+Exemplo: Uma opera√ß√£o pode ser 
+de Adi√ß√£o, Subra√ß√£o, Multiplicacao 
+ou Divisao. Cada opera√ß√£o √© uma sub-classe da 
+Classe OperacaoSimples. A classe equa√ß√£oSegundo
+Grau.A classe Equacao Equacaosegundo n√£o possui 
+nenhuma rela√ßao com a classe OperacaoSimples.
 da classe OperacaoSimples.
 
 
 Exercicio: Uma maquina de cartao de credito 
-aceita operaÁ„oes VISA, MASTER e ELO, Uma 
+aceita opera√ß√£oes VISA, MASTER e ELO, Uma 
 maquina faz uma transacao de dinheiro com a 
 operadora ( mostre apenas uma  
 mensagem de sucesso). A operadora  de  Internet
-Pagseguro possui agora um serviÁo  de transaÁ„o
-tambem e esta a È  uma operadora de cartao.
+Pagseguro possui agora um servi√ßo  de transa√ß√£o
+tambem e esta a √©  uma operadora de cartao.
 Faca com que a PagSeguro seja operada por 
-uma peradora de cartao. FaÁa o teste.
+uma peradora de cartao. Fa√ßa o teste.
