@@ -2,22 +2,16 @@
 
 ## Ciclos e aulas do Curso de Sistemas para Internet - Fatec Rubens Lara
 
-Cada Branch representa um Ciclo do curso, e cada ciclo contém pastas das disciplinas decorrentes do ciclo.
+Cada Branch representa um Ciclo do curso, e cada ciclo contém pastas com as disciplinas decorrentes do ciclo.
 
-**1 Ciclo** 
-> ciclo-1
+Para acessar o **1 Ciclo** tem que entrar no no branch `ciclo-1` ;
 
-**2 Ciclo**
-> ciclo-2
+Para acessar o **2 Ciclo** tem que entrar no no branch `ciclo-2` ;
 
-**3 Ciclo**
-> ciclo-3
+Para acessar o **3 Ciclo** tem que entrar no no branch `ciclo-3` ;
 
-**4 Ciclo**
-> ciclo-4
+Para acessar o **4 Ciclo** tem que entrar no no branch `ciclo-4` ;
 
-**5 Ciclo**
-> ciclo-5
+Para acessar o **5 Ciclo** tem que entrar no no branch `ciclo-5` ;
 
-**6 Ciclo**
-> ciclo-6
+Para acessar o **6 Ciclo** tem que entrar no no branch `ciclo-6` .
