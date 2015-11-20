@@ -1,2 +1,0 @@
-MODIFICAR auth() da classe Controller,
-de modo a trocar o POST pelos metodos de uma view e trocar os "root" pelos metodos (getUsuario) do model.
