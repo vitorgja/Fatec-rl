@@ -71,6 +71,6 @@ go
 Create table Peca_has_Pedido (
 	cd_Peca int not null,
 	cd_Pedido int not null,
-	cd_qt_peca int not null
+	qt_peca int not null
 );
 go

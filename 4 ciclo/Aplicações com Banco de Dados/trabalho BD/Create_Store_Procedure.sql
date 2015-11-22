@@ -23,12 +23,14 @@ as
 
 -- exec spRecebimento 0, 0, 5
 
-
+/*
 -- Procedure 2
 Create Procedure sp
 	@mes int,
 	@ano int
-as
+--as
+
+*/
 	
 	
 
