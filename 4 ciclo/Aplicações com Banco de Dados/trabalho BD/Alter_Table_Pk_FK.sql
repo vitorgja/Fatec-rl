@@ -85,5 +85,31 @@ Alter table Peca_has_Pedido
 go
 
 	
--- Drop table para a correção de Bugs Recorrentes	
--- drop table dbo.Cliente,dbo.Fornecedor,dbo.Ordem_Compra,dbo.Peca,dbo.Pedido,dbo.Receptaculo
+--
+-- Pedidos Finalizados ( Procedure 2 )
+--
+
+-- TB`s Pedidos finalizados
+-- PK Pedido
+--
+ 
+-- PK Pedido finalizado
+Alter table Pedido_finalizado
+	add primary key ( cd_Pedido_finalizado )
+go
+
+--
+-- Foreign Key
+--
+
+-- FK Pedido
+Alter table Pedido_finalizado
+	add foreign key ( cd_Cliente )
+	references Cliente
+go
+
+-- Peca_has_Pedido_finalizado
+Alter table Peca_has_Pedido
+	add foreign key ( cd_Pedido_finalizado )
+	references Pedido_finalizado
+go

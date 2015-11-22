@@ -74,3 +74,34 @@ Create table Peca_has_Pedido (
 	qt_peca int not null
 );
 go
+
+
+--
+-- Pedidos Finalizados ( Procedure 2 )
+--
+
+-- TB Pedido finalizado
+Create table Pedido_finalizado (
+	cd_Pedido_finalizado int not null identity,
+	cd_Cliente int,
+	qt_Pedido_finalizado int
+);
+
+-- TB Peca has TB Pedido
+Create table Peca_has_Pedido_finalizado (
+	cd_Peca int not null,
+	cd_Pedido_finalizado int not null,
+	qt_peca int not null
+);
+go
+
+--
+-- Peca requisiçao
+--
+
+-- TB Peca Requisicao
+Create table Peca_Requisicao (
+	cd_Peca_Requisicao int not null identity,
+	qt_estoque_Peca_Reposicao int,
+	qt_comprar_Peca_Reposicao int,
+);

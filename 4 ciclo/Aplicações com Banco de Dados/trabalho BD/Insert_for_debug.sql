@@ -51,9 +51,9 @@ insert into Pedido
 -- Insert Peca_has_Pedido
 insert into Peca_has_Pedido
 	values
-	(1,1,5),
-	(2,2,5),
-	(3,3,5)
+	(1,2,5),
+	(2,3,5),
+	(3,1,5)
 
 -- Insert Receptaculo
 insert into Receptaculo
