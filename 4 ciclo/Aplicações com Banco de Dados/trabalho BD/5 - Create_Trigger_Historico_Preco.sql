@@ -31,3 +31,4 @@ end
 
 
 update Peca set vl_Preco=35.99 where cd_Peca=1
+update Peca set vl_Preco=199.98 where cd_Peca=3

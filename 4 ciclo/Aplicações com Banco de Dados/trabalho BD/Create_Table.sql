@@ -101,14 +101,16 @@ go
 
 -- TB Peca Requisicao
 Create table Peca_Requisicao (
-	cd_Peca_Requisicao int not null identity,
+	cd_Peca_Requisicao int not null,
 	qt_estoque_Peca_Reposicao int,
 	qt_comprar_Peca_Reposicao int,
 );
 
 
 
-
+--
+-- Historico Precos
+--
 
 -- TB Historico_Precos
 Create table Historico_Precos (
@@ -118,3 +120,4 @@ Create table Historico_Precos (
 	vl_preco_novo money,
 	nm_usuario varchar(100)
 );
+

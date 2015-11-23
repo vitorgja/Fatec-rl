@@ -108,8 +108,14 @@ Alter table Pedido_finalizado
 	references Cliente
 go
 
--- Peca_has_Pedido_finalizado
+-- FK Peca_has_Pedido_finalizado
 Alter table Peca_has_Pedido
 	add foreign key ( cd_Pedido_finalizado )
 	references Pedido_finalizado
 go
+
+
+-- FK Peca_Requisicao
+Alter table Peca_Requisicao
+	add foreign key ( cd_Peca_Requisicao )
+	references Peca

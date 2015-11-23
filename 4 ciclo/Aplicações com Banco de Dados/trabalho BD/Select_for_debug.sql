@@ -10,4 +10,8 @@ select * from Receptaculo where 1=1
 
 
 select * from Pedido_finalizado where 1=1
+select * from Peca_Requisicao where 1=1
+select * from Historico_Precos where 1=1
 
+
+update Peca set qt_estoque_Peca = 2 and qt_estoque_minimo_Peca = 10
