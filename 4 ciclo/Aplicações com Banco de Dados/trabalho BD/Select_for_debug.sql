@@ -7,3 +7,7 @@ select * from Peca_has_Pedido where 1=1
 select * from Pedido where 1=1
 select * from Receptaculo where 1=1
 
+
+
+select * from Pedido_finalizado where 1=1
+

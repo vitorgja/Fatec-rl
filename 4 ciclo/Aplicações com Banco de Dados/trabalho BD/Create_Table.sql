@@ -105,3 +105,16 @@ Create table Peca_Requisicao (
 	qt_estoque_Peca_Reposicao int,
 	qt_comprar_Peca_Reposicao int,
 );
+
+
+
+
+
+-- TB Historico_Precos
+Create table Historico_Precos (
+	cd_Peca int not null,
+	dt_Alteracao date,
+	vl_preco_antigo money,
+	vl_preco_novo money,
+	nm_usuario varchar(100)
+);
