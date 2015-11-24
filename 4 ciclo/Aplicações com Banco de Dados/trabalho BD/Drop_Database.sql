@@ -27,4 +27,5 @@ go
 drop table Peca
 go
 
+use master
 drop database TrabalhoBD
