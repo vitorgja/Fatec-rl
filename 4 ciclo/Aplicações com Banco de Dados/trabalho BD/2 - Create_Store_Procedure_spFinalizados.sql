@@ -1,4 +1,4 @@
-/* CREATE PROCEDURE SP_COPIA_PEDIDOS
+ CREATE PROCEDURE SP_COPIA_PEDIDOS
 (
   @ANO_MES CHAR(06)
 )
@@ -29,31 +29,40 @@ BEGIN
   FROM TB_PEDIDO A INNER JOIN #TMP_PEDIDO_FINALIZADO B ON (A.CD_PEDIDO = B.CD_PEDIDO) 
 END
 */
+
+use TrabalhoBD
+go
 --
 -- Store Procedure
 --
 
 -- Procedure 2
 Create Procedure spFinalizados
-	@mes varchar(2),
-	@ano varchar(4),
+
 	@anoMes varchar(6)
 as
-	select @anoMes = @ano + @mes
-
-	select cd_Pedido into from Pedido 
+begin
+	select cd_Pedido into #Pedido_finalizado from Pedido 
 		where convert( char(06), dt_Pedido, 112 ) = @anoMes
 
-	insert into Pedido_finalizado (cd_Pedido_finalizado,cd_Cliente,qt_Pedido_finalizado) 
-		select cd_Pedido,cd_Cliente,qt_Pedido from Pedido
 
+	insert into Pedido_finalizado ( cd_Pedido_finalizado, B.cd_Cliente, qt_Pedido_finalizado ) 
+		select cd_Pedido,B.cd_Cliente,qt_Pedido from Pedido A 
+			inner join Pedido_finalizado B on A.cd_Pedido = B.cd_Pedido_finalizado
+			
 	insert into Peca_has_Pedido_finalizado (cd_Peca,cd_Pedido_finalizado,qt_peca) 
-		select cd_Peca,cd_Pedido,qt_peca from Peca_has_Pedido
+		select cd_Peca, cd_Pedido_finalizado, qt_peca from Peca_has_Pedido PhasP
+			inner join #Pedido_finalizado P on PhasP.cd_Pedido = P.cd_Pedido
+
+	
+	delete PhasP from Peca_has_Pedido PhasP inner join #Pedido_finalizado P on PhasP.cd_Pedido = P.cd_Pedido  
+			
+	delete P from Pedido P inner join #Pedido_finalizado PF on (P.cd_Pedido = PF.cd_Pedido) 
 	
 	Print 'spFinalizados Executada com sucesso!'
+end
 
-
-exec spFinalizados '12', '2015'
+exec spFinalizados '201510'
 
 	
 	

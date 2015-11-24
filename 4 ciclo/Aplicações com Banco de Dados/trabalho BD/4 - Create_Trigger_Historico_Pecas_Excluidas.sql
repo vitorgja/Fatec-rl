@@ -24,6 +24,9 @@ BEGIN
 END
 
 */
+use TrabalhoBD
+go
+
 
 Create Trigger trPecasExcluidas on Peca
 instead of delete
@@ -32,6 +35,10 @@ begin
 	insert Historico_Pecas_Excluidas
 		select cd_Peca, ds_Peca, suser_name(), getdate()
 			from deleted where qt_estoque_Peca <= 0
+
+	delete from Receptaculo inner join deleted d 
+		on d.cd_Peca = cd_Peca
+		where d.qt_estoque_Peca <= 0
 
 	delete a from Peca a 
 		inner join deleted b 

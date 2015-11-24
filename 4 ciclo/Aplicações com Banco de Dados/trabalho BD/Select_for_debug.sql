@@ -1,3 +1,5 @@
+use TrabalhoBD
+
 select * from Cliente where 1=1
 select * from Fornecedor where 1=1
 select * from Ordem_Compra where 1=1
@@ -8,13 +10,29 @@ select * from Pedido where 1=1
 select * from Receptaculo where 1=1
 
 
+--
+-- 1 Procedure
+--
+select * from Peca where 1=1
+select * from Peca_has_Pedido where 1=1
 
+--
+-- 2 Procedure
+--
 select * from Pedido_finalizado where 1=1
+select * from Peca_has_Pedido_finalizado where 1=1
+
 select * from Peca_Requisicao where 1=1
 
+--
+-- Trigger 4
+--
 select * from Historico_Pecas_Excluidas where 1=1
 select * from Tentativas_Log where 1=1
 
+--
+-- Trigger 5
+--
 select * from Historico_Precos where 1=1
 
 

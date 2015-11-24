@@ -81,3 +81,10 @@ Create table Peca_has_Pedidos (
 	qt_Peca int not null
 );
 go
+-- TB Finalizado Peca has TB Pedidos
+Create table Finalizado_Peca_has_Pedidos (
+	cd_Peca int not null,
+	cd_Pedidos int not null,
+	qt_Peca int not null
+);
+go

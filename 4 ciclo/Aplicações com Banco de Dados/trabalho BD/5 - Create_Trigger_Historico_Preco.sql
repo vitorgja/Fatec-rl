@@ -1,4 +1,6 @@
 
+use TrabalhoBD
+go
 
 -- Trigger trHistoricoPreco
 Create Trigger trHistoricoPreco on Peca

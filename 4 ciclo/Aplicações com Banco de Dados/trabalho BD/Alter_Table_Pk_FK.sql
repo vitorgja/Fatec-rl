@@ -98,21 +98,16 @@ Alter table Pedido_finalizado
 	add constraint pk_Pedido_finalizado primary key ( cd_Pedido_finalizado )
 go
 
+
 --
 -- Foreign Key
 --
 
--- FK Pedido
-Alter table Pedido_finalizado
-	add constraint fk_Pedido_finalizado foreign key ( cd_Cliente )
-	references Cliente
-go
 
--- FK Peca_has_Pedido_finalizado
-Alter table Peca_has_Pedido_finalizado
-	add constraint fk_Peca_has_Pedido_finalizado foreign key ( cd_Pedido_finalizado )
-	references Pedido_finalizado
-go
+
+
+--ALTER TABLE Pedido_finalizado
+--DROP constraint fk_Pedido_finalizado
 
 
 -- FK Peca_Requisicao

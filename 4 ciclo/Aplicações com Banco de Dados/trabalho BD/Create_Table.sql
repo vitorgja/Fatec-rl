@@ -83,7 +83,7 @@ go
 
 -- TB Pedido finalizado
 Create table Pedido_finalizado (
-	cd_Pedido_finalizado int not null identity,
+	cd_Pedido_finalizado int not null,
 	cd_Cliente int,
 	qt_Pedido_finalizado int
 );
