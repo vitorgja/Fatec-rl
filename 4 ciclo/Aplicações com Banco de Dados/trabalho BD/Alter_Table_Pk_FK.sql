@@ -1,5 +1,5 @@
 use TrabalhoBD
-
+go
 -- Create PK FK
 
 
@@ -98,10 +98,6 @@ Alter table Pedido_finalizado
 	add constraint pk_Pedido_finalizado primary key ( cd_Pedido_finalizado )
 go
 
-
---
--- Foreign Key
---
 
 
 

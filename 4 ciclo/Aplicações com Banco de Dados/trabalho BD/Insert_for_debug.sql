@@ -1,5 +1,7 @@
 
 use TrabalhoBD
+go
+
 --
 -- Insert for Debug
 

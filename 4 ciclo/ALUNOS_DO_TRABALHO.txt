@@ -1,0 +1,14 @@
+
+4 ciclo - Sistemas Para Internet - 2 semestre de 2015.
+
+O trabalho foi desenvolvido para a disciplina de Aplicações com Banco de Dados
+e os scripts todos em linguagem ".sql" todos rodando como o descrito nos topcos do trabalho.
+
+
+Integrantes do Trabalho:
+Ana Rosa Rocha;
+Andressa Soares paião;
+Edgar Rodrigues;
+Vitor Pereira dos Santos.
+
+

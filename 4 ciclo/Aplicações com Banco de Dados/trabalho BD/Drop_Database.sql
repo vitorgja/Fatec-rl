@@ -1,3 +1,6 @@
+use TrabalhoBD
+go
+
 --Deletar todos os Registros de Todas as Tabelas
 DELETE FROM Ordem_compra_has_Peca
 DELETE FROM Ordem_compra
