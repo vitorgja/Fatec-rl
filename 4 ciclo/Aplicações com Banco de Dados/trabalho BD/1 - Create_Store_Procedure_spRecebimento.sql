@@ -19,11 +19,11 @@ as
 	
 	--
 	Update Peca
-		set qt_estoque_Peca = ( qt_estoque_Peca - @quantidade )
+		set qt_estoque_Peca = ( qt_estoque_Peca + @quantidade )
 		where cd_Peca = @codigo
 
 	Print 'spRecebimento Executada com sucesso'
 	
 
 exec spRecebimento 1, 2, 5
-exec spRecebimento 3, 3, 5	
+exec spRecebimento 3, 3, 10	

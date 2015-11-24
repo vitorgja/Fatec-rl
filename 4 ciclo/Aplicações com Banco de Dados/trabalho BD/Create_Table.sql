@@ -52,7 +52,8 @@ go
 Create table Pedido (
 	cd_Pedido int not null identity,
 	cd_Cliente int,
-	qt_Pedido int
+	qt_Pedido int,
+	dt_Pedido date
 );
 go
 
@@ -106,6 +107,26 @@ Create table Peca_Requisicao (
 	qt_comprar_Peca_Reposicao int,
 );
 
+
+--
+-- Historico Log
+--
+
+-- TB Historico_Pecas_Excluidas
+Create table Historico_Pecas_Excluidas (
+	cd_Peca int, 
+	ds_Peca varchar(100), 
+	nm_usuario varchar(50), 
+	dt_log datetime
+);
+
+-- TB Tentativas_Log
+Create table Tentativas_Log (
+	dt_log datetime,
+	ds_operacao varchar(200) , 
+	cd_Peca int, 
+	nm_usuario varchar (50)
+);
 
 
 --
