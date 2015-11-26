@@ -1,0 +1,21 @@
+Adapter 
+
+
+Exemplo: Uma operação pode ser 
+de Adição, Subração, Multiplicacao 
+ou Divisao. Cada operação é uma sub-classe da 
+Classe OperacaoSimples. A classe equaçãoSegundo
+Grau.A classe Equacao Equacaosegundo não possui 
+nenhuma relaçao com a classe OperacaoSimples.
+da classe OperacaoSimples.
+
+
+Exercicio: Uma maquina de cartao de credito 
+aceita operaçãoes VISA, MASTER e ELO, Uma 
+maquina faz uma transacao de dinheiro com a 
+operadora ( mostre apenas uma  
+mensagem de sucesso). A operadora  de  Internet
+Pagseguro possui agora um serviço  de transação
+tambem e esta a é  uma operadora de cartao.
+Faca com que a PagSeguro seja operada por 
+uma peradora de cartao. Faça o teste.
