@@ -2,7 +2,7 @@ package Trabalho.P2.ex2;
 
 public class SaoPaulo extends Time {
 
-	private String nome,estadio,presidente;
+	private String estadio,presidente;
 	private int qtdJogadores;
 	
 	public SaoPaulo(String presidente, int qtdJogadores) {

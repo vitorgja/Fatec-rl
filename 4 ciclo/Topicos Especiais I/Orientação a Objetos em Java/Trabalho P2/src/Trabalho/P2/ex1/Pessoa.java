@@ -1,15 +1,34 @@
 package Trabalho.P2.ex1;
 
-abstract public class Pessoa {
+public abstract class Pessoa {
+	
 	private String nome;
+	private String rg;
 	private int idade;
 	
-	public Pessoa(String nome, int idade) {
+	public Pessoa(String nome, String rg, int idade) {
+		
 		this.nome = nome;
+		this.rg = rg;
 		this.idade = idade;
-	}
-	public String infoPessoa(){
-		return "Nome: "+ nome +"\nIdade: "+ idade;
+		
 	}
 	
+	// Métodos Get
+	
+	public String GetNome(){
+		
+		return this.nome;
+	}
+	
+	public String GetRg(){
+		
+		return this.rg;
+	}
+	
+	public int GetIdade(){
+		
+		return idade;
+	}
+
 }

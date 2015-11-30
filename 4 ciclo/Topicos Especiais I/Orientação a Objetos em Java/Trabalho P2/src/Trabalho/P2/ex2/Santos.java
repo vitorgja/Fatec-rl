@@ -1,7 +1,7 @@
 package Trabalho.P2.ex2;
 
 public class Santos extends Time{
-	private String nome,estadio,presidente, destaque;
+	private String estadio,presidente, destaque;
 	private int qtdJogadores;
 	
 	public Santos(String presidente, String destaque, int qtdJogadores) {

@@ -1,37 +1,64 @@
 package Trabalho.P2.ex3;
 
-import javax.swing.JFrame;
+import java.awt.Color;
+import java.awt.FlowLayout;
+import java.awt.Font;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import javax.swing.*;
 
-public class Aplicacao extends JFrame {
+public class Aplicacao extends JFrame  implements ActionListener{
+	
+	private static final long serialVersionUID = 1L;
+	
+	private JLabel a,b,c;
+	private JButton calcular;
+	
 	public Aplicacao() {
-        setTitle("Camo Cipher");
-        setSize(WIDTH, HEIGHT);
-        setVisible(true);
-        setDefaultCloseOperation(EXIT_ON_CLOSE);  
+        super("Camo Cipher");
+        setSize(300, 200);
+        setResizable(false);
+        setDefaultCloseOperation(EXIT_ON_CLOSE); 
+        setLayout(new FlowLayout());
+        
+        a = new JLabel("A");
+		a.setForeground(Color.green);
+		a.setFont(new Font(" ", Font.BOLD,14));
+		
+		b = new JLabel("B");
+		b.setForeground(Color.blue);
+		b.setFont(new Font(" ", Font.BOLD,14));
+		
+		c = new JLabel("C");
+		c.setForeground(Color.green);
+		c.setFont(new Font(" ", Font.BOLD,14));
+        
+        calcular = new JButton("Calcular");
+        
+        // a.addActionListener( this );
+        // b.addActionListener( this );
+		// c.addActionListener( this );
+        calcular.addActionListener(this);
+        
+        add(calcular);
+        add(a);
+        add(b);
+        add(c);
 	}
 
 	public static void main(String[] args) {
 		
-		JFrame jf = new JFrame("Segundo Grau");
-		SegundoGrau sg;
-		int a,b,c;
+		new Aplicacao().setVisible(true);;
 		
-		a = Integer.parseInt( JOptionPane.showInputDialog( "a: "));
-		b = Integer.parseInt( JOptionPane.showInputDialog( "b: "));
-		c = Integer.parseInt( JOptionPane.showInputDialog( "c: "));
-		sg = new SegundoGrau(a, b, c);
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
 		
-		if( sg.hasRaiz() ){
-			double x1,x2;
-			x1 = sg.getX1();
-			x2 = sg.getX2();
-			System.out.println( "x1: " + x1 );
-			System.out.println( "x2: " + x2 );
-		}else{
-			JOptionPane.showConfirmDialog(null, "Sem Raiz Real");
-			System.out.println("Sem Raiz Real");
+		if(e.getSource() == calcular) {
+			
 		}
+		
 	}
 
 }

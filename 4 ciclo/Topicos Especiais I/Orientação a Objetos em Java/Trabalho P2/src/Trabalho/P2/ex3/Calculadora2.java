@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class Calculadora2 extends JFrame{
+public class Calculadora2 extends JFrame implements ActionListener{
 	JLabel l1,l2,l3;
 	JButton b1,b2,b3,b4,b5,b6,b7,b8,b9;
 	JTextField t1,t2,t3;
@@ -75,16 +75,16 @@ public class Calculadora2 extends JFrame{
 		b9.setBackground(Color.black);
 		b9.setForeground(Color.white);
 		
-		b1.addActionListener( null );
-		b1.addActionListener( null );
-		b2.addActionListener( null );
-		b3.addActionListener( null );
-		b4.addActionListener( null );
-		b5.addActionListener( null );
-		b6.addActionListener( null );
-		b7.addActionListener( null );
-		b8.addActionListener( null );
-		b9.addActionListener( null );
+		b1.addActionListener( this );
+		b1.addActionListener( this );
+		b2.addActionListener( this );
+		b3.addActionListener( this );
+		b4.addActionListener( this );
+		b5.addActionListener( this );
+		b6.addActionListener( this );
+		b7.addActionListener( this );
+		b8.addActionListener( this );
+		b9.addActionListener( this );
 		
 		t1 = new JTextField();
 		t1.setBackground(Color.BLACK);

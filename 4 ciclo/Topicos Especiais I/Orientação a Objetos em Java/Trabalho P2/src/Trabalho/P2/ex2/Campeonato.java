@@ -1,6 +1,5 @@
 package Trabalho.P2.ex2;
 
-import java.util.ArrayList;
 
 public class Campeonato {
 	Time a,b;
