@@ -1,26 +1,16 @@
 package Trabalho.P2.ex1;
 
 public class Futebol extends Atividade {
-	
-	public Futebol(){
-		
+	public Futebol(){	
 		this.SetEquipamentos("bola");
 	}
-	
 	public String GetTipo(){
-		
-		return "Futebol";
-		
+		return "Futebol";	
 	}
-	
-	public void SetEquipamentos(String equipamento){
-		
+	public void SetEquipamentos(String equipamento){	
 		this.equipamentos = equipamento;
 	}
-	
-	public String GetEquipamentos(){
-		
+	public String GetEquipamentos(){	
 		return this.equipamentos;
 	}
-	
 }

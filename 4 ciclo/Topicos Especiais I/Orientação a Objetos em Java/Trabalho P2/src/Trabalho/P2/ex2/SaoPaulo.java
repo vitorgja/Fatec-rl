@@ -1,7 +1,6 @@
 package Trabalho.P2.ex2;
 
 public class SaoPaulo extends Time {
-
 	private String estadio,presidente;
 	private int qtdJogadores;
 	
@@ -10,16 +9,13 @@ public class SaoPaulo extends Time {
 		this.presidente = presidente;
 		this.qtdJogadores = qtdJogadores;
 	}
-	
 	@Override
 	public String informacoes() {
-		// TODO Auto-generated method stub
 		return ( 	"Nome do Time: "+ this.getClass().getSimpleName() +
 					"\n Estadio: "+ estadio +
 					"\n Presidente: "+ presidente +
 					"\n "+ getQtdJogadores() +" Jogadores");
 	}
-
 
 	public int getQtdJogadores() {
 		return qtdJogadores;
